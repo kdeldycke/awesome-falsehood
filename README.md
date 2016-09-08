@@ -37,6 +37,8 @@ TODO: explain why this list is aweseome.
 
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/)
+- [HL7 V3 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186): a flexible data model for representing human names.
+- [iOS NSPersonNameComponentsFormatter](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html): localized representations of the components of a person’s name.
 
 
 ## Prices
