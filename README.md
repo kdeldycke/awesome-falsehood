@@ -54,7 +54,9 @@ TODO: explain why this list is aweseome.
 
 ## Postal addresses
 
-- [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
+- [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/).
+- [`libaddressinput`](https://github.com/googlei18n/libaddressinput): Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
+- [`postal-address`](https://github.com/scaleway/postal-address): Python module to parse, normalize and render postal addresses.
 
 
 ## Lisense
