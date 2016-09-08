@@ -73,6 +73,8 @@ falsehoods are also welcome in this page.
 
 ## Meta
 
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - A
+curated list of awesome falsehoods programmers believe in.
 - [Falsehoods Programmers Believe](http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A brief list of common falsehoods. A great overview and quick introduction into the world of falsehoods.
 
 
