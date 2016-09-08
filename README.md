@@ -24,6 +24,7 @@ to, the complexities and idiosyncracies of the pointed domain.
 
 ## Contents
 
+- [Build systems](#build-systems)
 - [Dates and time](#dates-and-time)
 - [Emails](#emails)
 - [Gender](#gender)
@@ -34,6 +35,11 @@ to, the complexities and idiosyncracies of the pointed domain.
 - [Prices](#prices)
 - [Postal addresses](#postal-addresses)
 - [Versions](#versions)
+
+
+## Build systems
+
+- [Falsehoods programmers believe about build systems](http://pozorvlak.livejournal.com/174763.html)
 
 
 ## Dates and time
