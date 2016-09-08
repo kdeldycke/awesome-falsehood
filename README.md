@@ -7,7 +7,7 @@ A curated list of awesome falsehoods programmers believes in.
 
 - [Dates and times](#dates-and-times)
 - [Human names](#human-names)
-- [Postal address](#postal-address)
+- [Postal addresses](#postal-addresses)
 
 
 ## Dates and times
@@ -20,7 +20,7 @@ A curated list of awesome falsehoods programmers believes in.
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 
-## Postal address
+## Postal addresses
 
 - [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 
