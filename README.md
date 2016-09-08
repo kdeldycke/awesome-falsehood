@@ -24,6 +24,7 @@ to, the complexities and idiosyncracies of the pointed domain.
 
 ## Contents
 
+- [Meta](#meta)
 - [Build systems](#build-systems)
 - [Dates and time](#dates-and-time)
 - [Emails](#emails)
@@ -35,6 +36,11 @@ to, the complexities and idiosyncracies of the pointed domain.
 - [Prices](#prices)
 - [Postal addresses](#postal-addresses)
 - [Versions](#versions)
+
+
+## Meta
+
+- [Falsehoods Programmers Believe](http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A brief list of common falsehoods. A great overview and quick introduction into the world of falsehoods.
 
 
 ## Build systems
