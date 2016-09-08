@@ -23,3 +23,9 @@ A curated list of awesome falsehoods programmers believes in.
 ## Postal address
 
 - [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
+
+
+## Lisense
+
+Content of this repository is licensed under the [BSD 2-Clause License
+](LICENSE.md).
