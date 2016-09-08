@@ -14,6 +14,7 @@ TODO: explain why this list is aweseome.
 - [Emails](#emails)
 - [Geography](#geography)
 - [Human names](#human-names)
+- [Phone numbers](#phone-numbers)
 - [Prices](#prices)
 - [Postal addresses](#postal-addresses)
 
@@ -39,6 +40,11 @@ TODO: explain why this list is aweseome.
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/)
 - [HL7 V3 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186): a flexible data model for representing human names.
 - [iOS NSPersonNameComponentsFormatter](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html): localized representations of the components of a person’s name.
+
+
+## Phone numbers
+
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber): Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/erezak/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) and [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 
 ## Prices
