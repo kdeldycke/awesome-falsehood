@@ -3,6 +3,30 @@
 A curated list of awesome falsehoods programmers believe in.
 
 
+## Contents
+
+- [Foreword](foreword)
+- [Good candidates](#good-candidates)
+    - [*Falsehood* articles](#falsehood-articles)
+    - [Libraries](#libraries)
+    - [Data structures](#data-structures)
+- [Meta](#meta)
+- [Build systems](#build-systems)
+- [Dates and time](#dates-and-time)
+- [E-commerce](#e-commerce)
+- [Emails](#emails)
+- [Gender](#gender)
+- [Geography](#geography)
+- [Human names](#human-names)
+- [Networks](#networks)
+- [Phone numbers](#phone-numbers)
+- [Prices](#prices)
+- [Postal addresses](#postal-addresses)
+- [Versions](#versions)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 ## Foreword
 
 *Falsehood* articles are a form of commentary on a particular subject, and are
@@ -15,9 +39,12 @@ They might looks like to some as a suite of wordy unit-tests covering extensive
 edge-cases provided by real-world usage.
 
 
-## What's a good candidate for this awesome list?
+## Good candidates
 
-### *Falsehood*-like articles
+Here is a non-restrictive list of items which are good candidates for inclusion
+in this awesome list.
+
+### *Falsehood* articles
 
 Articles following the *falsehood* scheme are prime candidates for inclusion in
 this awesome list.
@@ -32,7 +59,7 @@ concepts. Having read the whole list of falsehood, the reader should possess a
 global, if not complete, overview of the domain being targeted by the article,
 including most, if not all, its pitfalls, edges-cases and inconsistencies.
 
-### Library
+### Libraries
 
 When possible, we provide a list of programming libraries or modules that may
 solve, or try to, the complexities and idiosyncrasies pointed by the
@@ -42,23 +69,6 @@ solve, or try to, the complexities and idiosyncrasies pointed by the
 
 Data models and structures generic enough to cover and addresses most of the
 falsehoods are also welcome in this page.
-
-
-## Contents
-
-- [Meta](#meta)
-- [Build systems](#build-systems)
-- [Dates and time](#dates-and-time)
-- [E-commerce](#e-commerce)
-- [Emails](#emails)
-- [Gender](#gender)
-- [Geography](#geography)
-- [Human names](#human-names)
-- [Networks](#networks)
-- [Phone numbers](#phone-numbers)
-- [Prices](#prices)
-- [Postal addresses](#postal-addresses)
-- [Versions](#versions)
 
 
 ## Meta
