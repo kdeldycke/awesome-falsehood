@@ -49,6 +49,7 @@ falsehoods are also welcome in this page.
 - [Meta](#meta)
 - [Build systems](#build-systems)
 - [Dates and time](#dates-and-time)
+- [E-commerce](#e-commerce)
 - [Emails](#emails)
 - [Gender](#gender)
 - [Geography](#geography)
@@ -76,6 +77,11 @@ falsehoods are also welcome in this page.
 - [More falsehoods programmers believe about time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) - Part. 2 of the article above.
 - [Falsehoods programmers believe about time and time zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - Another takes on time-related falshoods, with an emphasis on time zones.
 - [Falsehoods Programmers Believe About Time](https://gist.github.com/thanatos/eee17100476a336a711e) - A critique of the first article with a very detailed explanation of each falsehood, adding more context and external resource to the subject.
+
+
+## E-commerce
+
+- [Falsehoods programmers believe about online shopping](http://wiesmann.codiferes.net/wordpress/?p=22201)
 
 
 ## Emails
