@@ -9,6 +9,7 @@ A curated list of awesome falsehoods programmers believes in.
 - [Emails](#emails)
 - [Geography](#geography)
 - [Human names](#human-names)
+- [Prices](#prices)
 - [Postal addresses](#postal-addresses)
 
 
@@ -31,6 +32,11 @@ A curated list of awesome falsehoods programmers believes in.
 
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/)
+
+
+## Prices
+
+- [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585)
 
 
 ## Postal addresses
