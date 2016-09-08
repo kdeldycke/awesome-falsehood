@@ -19,6 +19,7 @@ TODO: explain why this list is aweseome.
 - [Phone numbers](#phone-numbers)
 - [Prices](#prices)
 - [Postal addresses](#postal-addresses)
+- [Versions](#versions)
 
 
 ## Dates and times
@@ -70,6 +71,11 @@ TODO: explain why this list is aweseome.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput): Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
 - [`addressing`](https://github.com/commerceguys/addressing): A PHP 5.4+ addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address): Python module to parse, normalize and render postal addresses.
+
+
+## Versions
+
+- [Falsehoods programmers believe about versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 
 
 ## Lisense
