@@ -3,6 +3,13 @@
 A curated list of awesome falsehoods programmers believes in.
 
 
+## Contents
+
+- [Dates and times](#dates-and-times)
+- [Human names](#human-names)
+- [Postal address](#postal-address)
+
+
 ## Dates and times
 
 - [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
