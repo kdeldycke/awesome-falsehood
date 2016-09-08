@@ -7,6 +7,7 @@ A curated list of awesome falsehoods programmers believes in.
 
 - [Dates and times](#dates-and-times)
 - [Emails](#emails)
+- [Geography](#geography)
 - [Human names](#human-names)
 - [Postal addresses](#postal-addresses)
 
@@ -19,6 +20,11 @@ A curated list of awesome falsehoods programmers believes in.
 ## Emails
 
 - [I Knew How To Validate An Email Address Until I Read The RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
+
+
+## Geography
+
+- [Falsehoods programmers believe about geography](http://wiesmann.codiferes.net/wordpress/?p=15187&lang=en)
 
 
 ## Human names
