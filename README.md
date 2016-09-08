@@ -24,6 +24,7 @@ A curated list of awesome falsehoods programmers believes in.
 ## Human names
 
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [XKCD #327: Exploits of a Mom](https://xkcd.com/327/)
 
 
 ## Postal addresses
