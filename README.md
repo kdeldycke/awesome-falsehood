@@ -3,23 +3,45 @@
 A curated list of awesome falsehoods programmers believe in.
 
 
-## Motivation
+## Foreword
 
-TODO: explain why this list is aweseome.
+*Falsehood* articles are a form of commentary on a particular subject, and are
+appreciated by the developper community at large for their effectiveness and
+density. They're a convenient written form to approach an unfamiliar domain by
+dispelling myths, point out common pitfalls, show inconsistencies and
+subtilities.
 
-You want to solve all problem of the world? Not so fast. There's a huge
-dicrepency between the world you picture in your head and the reality. The
-world is much more complicated, full of edge cases and inconsitencies.
+They might looks like to some as a suite of wordy unit-tests covering extensive
+edge-cases provided by real-world usage.
 
-Because of war, love, law,
 
-dispelled myth
+## What's a good candidate for this awesome list?
 
-and/or expose how a a business domain or a particular familiar concept is much
-more intricate and complex than expected.
+### *Falsehood*-like articles
 
-When possible, we provide a list of libraries or module that may solve, or try
-to, the complexities and idiosyncracies of the pointed domain.
+Articles following the *falsehood* scheme are prime candidates for inclusion in
+this awesome list.
+
+These articles starts with the hypothesis that developers have a naive, simple
+view of the subject at hand. Then procceed to list a set of candid assumptions
+that might be held by such programmers. Each one is intentionnaly false, and
+sometimes illustrated by a counter-example.
+
+A list of falsehood is crafted as a progression that is designed to refine
+concepts. Having read the whole list of falsehood, the reader should pocssess a
+global, if not complete, overview of the domain being targetted by the article,
+including most, if not all, its pitfalls, edges-cases and inconsistencies.
+
+### Library
+
+When possible, we provide a list of programming libraries or modules that may
+solve, or try to, the complexities and idiosyncracies pointed by the
+*falsehood* articles above.
+
+### Data structures
+
+Data models and structures generic enough to cover and addresses most of the
+falsehoods are also welcome in this page.
 
 
 ## Contents
