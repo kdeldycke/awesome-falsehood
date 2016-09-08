@@ -5,7 +5,7 @@ A curated list of awesome falsehoods programmers believe in.
 
 ## Contents
 
-- [Foreword](foreword)
+- [Foreword](#foreword)
 - [Good candidates](#good-candidates)
     - [*Falsehood* articles](#falsehood-articles)
     - [Libraries](#libraries)
