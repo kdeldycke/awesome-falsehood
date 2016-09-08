@@ -38,7 +38,7 @@ TODO: explain why this list is aweseome.
 
 ## Geography
 
-- [Falsehoods programmers believe about geography](http://wiesmann.codiferes.net/wordpress/?p=15187&lang=en).
+- [Falsehoods programmers believe about geography](http://wiesmann.codiferes.net/wordpress/?p=15187).
 
 
 ## Human names
