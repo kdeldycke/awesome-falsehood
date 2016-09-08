@@ -6,6 +6,7 @@ A curated list of awesome falsehoods programmers believes in.
 ## Contents
 
 - [Dates and times](#dates-and-times)
+- [Emails](#emails)
 - [Human names](#human-names)
 - [Postal addresses](#postal-addresses)
 
@@ -13,6 +14,11 @@ A curated list of awesome falsehoods programmers believes in.
 ## Dates and times
 
 - [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+
+
+## Emails
+
+- [I Knew How To Validate An Email Address Until I Read The RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
 
 
 ## Human names
