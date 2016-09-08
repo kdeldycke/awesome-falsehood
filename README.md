@@ -135,6 +135,12 @@ falsehoods are also welcome in this page.
 - [Falsehoods programmers believe about versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 
 
+## Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution
+guidelines](CONTRIBUTING.md) first.
+
+
 ## License
 
 Content of this repository is licensed under the [BSD 2-Clause
