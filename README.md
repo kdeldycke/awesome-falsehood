@@ -3,6 +3,11 @@
 A curated list of awesome falsehoods programmers believes in.
 
 
+## Motivation
+
+TODO: explain why this list is aweseome.
+
+
 ## Contents
 
 - [Dates and times](#dates-and-times)
