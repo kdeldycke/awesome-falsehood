@@ -56,6 +56,7 @@ TODO: explain why this list is aweseome.
 
 - [Falsehoods programmers believe about addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/).
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput): Google's common C++ and Java library for parsing, formatting, and validating international postal addresses.
+- [`addressing`](https://github.com/commerceguys/addressing): A PHP 5.4+ addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address): Python module to parse, normalize and render postal addresses.
 
 
