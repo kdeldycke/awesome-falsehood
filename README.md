@@ -7,10 +7,24 @@ A curated list of awesome falsehoods programmers believe in.
 
 TODO: explain why this list is aweseome.
 
+You want to solve all problem of the world? Not so fast. There's a huge
+dicrepency between the world you picture in your head and the reality. The
+world is much more complicated, full of edge cases and inconsitencies.
+
+Because of war, love, law,
+
+dispelled myth
+
+and/or expose how a a business domain or a particular familiar concept is much
+more intricate and complex than expected.
+
+When possible, we provide a list of libraries or module that may solve, or try
+to, the complexities and idiosyncracies of the pointed domain.
+
 
 ## Contents
 
-- [Dates and times](#dates-and-times)
+- [Dates and time](#dates-and-time)
 - [Emails](#emails)
 - [Gender](#gender)
 - [Geography](#geography)
@@ -22,7 +36,7 @@ TODO: explain why this list is aweseome.
 - [Versions](#versions)
 
 
-## Dates and times
+## Dates and time
 
 - [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time).
 
