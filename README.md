@@ -12,6 +12,7 @@ TODO: explain why this list is aweseome.
 
 - [Dates and times](#dates-and-times)
 - [Emails](#emails)
+- [Gender](#gender)
 - [Geography](#geography)
 - [Human names](#human-names)
 - [Networks](#networks)
@@ -28,6 +29,11 @@ TODO: explain why this list is aweseome.
 ## Emails
 
 - [I Knew How To Validate An Email Address Until I Read The RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/).
+
+
+## Gender
+
+- [Falsehoods Programmers Believe About Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44)
 
 
 ## Geography
