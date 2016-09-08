@@ -14,6 +14,7 @@ TODO: explain why this list is aweseome.
 - [Emails](#emails)
 - [Geography](#geography)
 - [Human names](#human-names)
+- [Networks](#networks)
 - [Phone numbers](#phone-numbers)
 - [Prices](#prices)
 - [Postal addresses](#postal-addresses)
@@ -40,6 +41,11 @@ TODO: explain why this list is aweseome.
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/).
 - [HL7 V3 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186): a flexible data model for representing human names.
 - [iOS NSPersonNameComponentsFormatter](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html): localized representations of the components of a person’s name.
+
+
+## Networks
+
+- [Falsehoods programmers believe about networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
 
 
 ## Phone numbers
