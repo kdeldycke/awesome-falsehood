@@ -6,10 +6,10 @@ A curated list of awesome falsehoods programmers believe in.
 ## Foreword
 
 *Falsehood* articles are a form of commentary on a particular subject, and are
-appreciated by the developper community at large for their effectiveness and
+appreciated by the developer community at large for their effectiveness and
 density. They're a convenient written form to approach an unfamiliar domain by
 dispelling myths, point out common pitfalls, show inconsistencies and
-subtilities.
+subtleties.
 
 They might looks like to some as a suite of wordy unit-tests covering extensive
 edge-cases provided by real-world usage.
@@ -23,19 +23,19 @@ Articles following the *falsehood* scheme are prime candidates for inclusion in
 this awesome list.
 
 These articles starts with the hypothesis that developers have a naive, simple
-view of the subject at hand. Then procceed to list a set of candid assumptions
-that might be held by such programmers. Each one is intentionnaly false, and
+view of the subject at hand. Then proceed to list a set of candid assumptions
+that might be held by such programmers. Each one is intentionally false, and
 sometimes illustrated by a counter-example.
 
 A list of falsehood is crafted as a progression that is designed to refine
-concepts. Having read the whole list of falsehood, the reader should pocssess a
-global, if not complete, overview of the domain being targetted by the article,
+concepts. Having read the whole list of falsehood, the reader should possess a
+global, if not complete, overview of the domain being targeted by the article,
 including most, if not all, its pitfalls, edges-cases and inconsistencies.
 
 ### Library
 
 When possible, we provide a list of programming libraries or modules that may
-solve, or try to, the complexities and idiosyncracies pointed by the
+solve, or try to, the complexities and idiosyncrasies pointed by the
 *falsehood* articles above.
 
 ### Data structures
@@ -75,7 +75,7 @@ falsehoods are also welcome in this page.
 
 - [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Seminal article on dates and time.
 - [More falsehoods programmers believe about time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) - Part. 2 of the article above.
-- [Falsehoods programmers believe about time and time zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - Another takes on time-related falshoods, with an emphasis on time zones.
+- [Falsehoods programmers believe about time and time zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - Another takes on time-related falsehoods, with an emphasis on time zones.
 - [Falsehoods Programmers Believe About Time](https://gist.github.com/thanatos/eee17100476a336a711e) - A critique of the first article with a very detailed explanation of each falsehood, adding more context and external resource to the subject.
 
 
@@ -135,7 +135,7 @@ falsehoods are also welcome in this page.
 - [Falsehoods programmers believe about versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 
 
-## Lisense
+## License
 
 Content of this repository is licensed under the [BSD 2-Clause
 License](LICENSE.md).
