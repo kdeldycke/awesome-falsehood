@@ -11,7 +11,9 @@ Your contributions are always welcome!
 
 - List item requirements:
 
-  - Must follow the following template:
+  - Check the new item you want to add to the list is a [good
+  candidate]((README.md#good-candidates).
+  - Must follow this template:
   `- [project-name](http://example.com/) - A short description.`.
   - Keep descriptions concise, maximum number of characters is 350.
   - Description must ends with a period.
