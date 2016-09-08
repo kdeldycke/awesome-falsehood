@@ -59,5 +59,5 @@ TODO: explain why this list is aweseome.
 
 ## Lisense
 
-Content of this repository is licensed under the [BSD 2-Clause License
-](LICENSE.md).
+Content of this repository is licensed under the [BSD 2-Clause
+License](LICENSE.md).
