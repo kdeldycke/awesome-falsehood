@@ -21,23 +21,23 @@ TODO: explain why this list is aweseome.
 
 ## Dates and times
 
-- [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+- [Falsehoods programmers believe about time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time).
 
 
 ## Emails
 
-- [I Knew How To Validate An Email Address Until I Read The RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
+- [I Knew How To Validate An Email Address Until I Read The RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/).
 
 
 ## Geography
 
-- [Falsehoods programmers believe about geography](http://wiesmann.codiferes.net/wordpress/?p=15187&lang=en)
+- [Falsehoods programmers believe about geography](http://wiesmann.codiferes.net/wordpress/?p=15187&lang=en).
 
 
 ## Human names
 
-- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-- [XKCD #327: Exploits of a Mom](https://xkcd.com/327/)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
+- [XKCD #327: Exploits of a Mom](https://xkcd.com/327/).
 - [HL7 V3 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186): a flexible data model for representing human names.
 - [iOS NSPersonNameComponentsFormatter](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html): localized representations of the components of a person’s name.
 
@@ -49,7 +49,7 @@ TODO: explain why this list is aweseome.
 
 ## Prices
 
-- [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585)
+- [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585).
 
 
 ## Postal addresses
