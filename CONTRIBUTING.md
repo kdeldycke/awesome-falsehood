@@ -14,7 +14,9 @@ Your contributions are always welcome!
   - Check the new item you want to add to the list is a [good
   candidate]((README.md#good-candidates).
   - Must follow this template:
-  `- [project-name](http://example.com/) - A short description.`.
+  `- [Link Title](https://example.com) - A short description.`.
+  - Link title must be [title-cased](http://titlecapitalization.com) (AP
+  style).
   - Keep descriptions concise, maximum number of characters is 350.
   - Description must ends with a period.
 
