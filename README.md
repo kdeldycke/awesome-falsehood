@@ -2,6 +2,9 @@
 
 A curated list of awesome falsehoods programmers believe in.
 
+> The logic of the world is prior to all truth and falsehood.
+> - Ludwig Wittgenstein
+
 
 ## Contents
 
