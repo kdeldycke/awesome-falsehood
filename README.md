@@ -62,11 +62,16 @@ concepts. Having read the whole list of falsehood, the reader should possess a
 global, if not complete, overview of the domain being targeted by the article,
 including most, if not all, its pitfalls, edges-cases and inconsistencies.
 
+In the worst case, these articles might provoke an emotional reaction and cause
+flipping table. `(╯°□°)╯︵ ┻━┻`
+
 ### Libraries
 
 When possible, we provide a list of programming libraries or modules that may
 solve, or try to, the complexities and idiosyncrasies pointed by the
 *falsehood* articles above.
+
+So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
 ### Data structures
 
