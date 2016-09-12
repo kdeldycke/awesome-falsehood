@@ -101,7 +101,8 @@ of human identity has its own subtleties.
 ## Geography
 
 - [Falsehood About
-Geography](http://wiesmann.codiferes.net/wordpress/?p=15187).
+Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - Takes on places,
+their names and locations.
 
 
 ## Human Names
