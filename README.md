@@ -133,6 +133,9 @@ Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
 
 ## Phone Numbers
 
+- [Falsehoods About Phone
+Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
+Covers phone numbers, their representation and meaning.
 - [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
