@@ -103,6 +103,9 @@ of human identity has its own subtleties.
 - [Falsehood About
 Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - Takes on places,
 their names and locations.
+- [Falsehoods About
+Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) -
+Covers coordinates, projection and GIS.
 
 
 ## Human Names
