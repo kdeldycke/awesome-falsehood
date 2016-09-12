@@ -71,10 +71,15 @@ Part. 2 of the article above.
 - [Falsehoods About Time and Time
 Zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) -
 Another takes on time-related falsehoods, with an emphasis on time zones.
-- [Falsehoods About
-Time](https://gist.github.com/thanatos/eee17100476a336a711e) - A critique of
-the first article with a very detailed explanation of each falsehood, adding
-more context and external resource to the subject.
+- [Critique of Falsehoods About
+Time](https://gist.github.com/thanatos/eee17100476a336a711e) - Takes on the
+first article above and provides an explanation of each falsehood,
+with more context and external resources .
+- [Time Zone Database](https://www.iana.org/time-zones) - Code and data that
+represent the history of local time for many representative locations around
+the globe.
+- [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - Most
+of the idiosyncracies in time keeping can find an explanation in history.
 
 
 ## E-Commerce
