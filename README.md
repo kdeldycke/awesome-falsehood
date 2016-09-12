@@ -9,22 +9,22 @@ A curated list of awesome falsehoods programmers believe in.
 ## Contents
 
 - [Foreword](#foreword)
-- [Good candidates](#good-candidates)
-    - [*Falsehood* articles](#falsehood-articles)
+- [Good Candidates](#good-candidates)
+    - [*Falsehood* Articles](#falsehood-articles)
     - [Libraries](#libraries)
-    - [Data structures](#data-structures)
+    - [Data Structures](#data-structures)
 - [Meta](#meta)
-- [Build systems](#build-systems)
-- [Dates and time](#dates-and-time)
-- [E-commerce](#e-commerce)
+- [Build Systems](#build-systems)
+- [Dates and Time](#dates-and-time)
+- [E-Commerce](#e-commerce)
 - [Emails](#emails)
 - [Gender](#gender)
 - [Geography](#geography)
-- [Human names](#human-names)
+- [Human Names](#human-names)
 - [Networks](#networks)
-- [Phone numbers](#phone-numbers)
+- [Phone Numbers](#phone-numbers)
 - [Prices](#prices)
-- [Postal addresses](#postal-addresses)
+- [Postal Addresses](#postal-addresses)
 - [Versions](#versions)
 - [Contributing](#contributing)
 - [License](#license)
@@ -42,12 +42,12 @@ They might looks like to some as a suite of wordy unit-tests covering extensive
 edge-cases provided by real-world usage.
 
 
-## Good candidates
+## Good Candidates
 
 Here is a non-restrictive list of items which are good candidates for inclusion
 in this awesome list.
 
-### *Falsehood* articles
+### *Falsehood* Articles
 
 Articles following the *falsehood* scheme are prime candidates for inclusion in
 this awesome list.
@@ -73,7 +73,7 @@ solve, or try to, the complexities and idiosyncrasies pointed by the
 
 So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
-### Data structures
+### Data Structures
 
 Data models and structures generic enough to cover and addresses most of the
 falsehoods are also welcome in this page.
@@ -89,22 +89,22 @@ brief list of common falsehoods. A great overview and quick introduction into
 the world of falsehoods.
 
 
-## Build systems
+## Build Systems
 
-- [Falsehoods programmers believe about build
-systems](http://pozorvlak.livejournal.com/174763.html)
+- [Falsehoods About Build
+Systems](http://pozorvlak.livejournal.com/174763.html)
 
 
-## Dates and time
+## Dates and Time
 
-- [Falsehoods about
-time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) -
+- [Falsehoods About
+Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) -
 Seminal article on dates and time.
-- [More falsehoods about
-time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) -
+- [More Falsehoods About
+Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) -
 Part. 2 of the article above.
-- [Falsehoods about time and time
-zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) -
+- [Falsehoods About Time and Time
+Zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) -
 Another takes on time-related falsehoods, with an emphasis on time zones.
 - [Falsehoods About
 Time](https://gist.github.com/thanatos/eee17100476a336a711e) - A critique of
@@ -112,15 +112,15 @@ the first article with a very detailed explanation of each falsehood, adding
 more context and external resource to the subject.
 
 
-## E-commerce
+## E-Commerce
 
-- [Falsehoods about online
-shopping](http://wiesmann.codiferes.net/wordpress/?p=22201)
+- [Falsehoods About Online
+Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201)
 
 
 ## Emails
 
-- [I Knew How To Validate An Email Address Until I Read The
+- [I Knew How to Validate an Email Address Until I Read the
 RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/).
 
 
@@ -132,31 +132,31 @@ Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44)
 
 ## Geography
 
-- [Falsehood about
-geography](http://wiesmann.codiferes.net/wordpress/?p=15187).
+- [Falsehood About
+Geography](http://wiesmann.codiferes.net/wordpress/?p=15187).
 
 
-## Human names
+## Human Names
 
 - [Falsehoods About
 Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
 - [XKCD #327: Exploits of a
 Mom](https://xkcd.com/327/).
-- [HL7 V3
+- [HL7 v3
 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
 - [iOS
-NSPersonNameComponentsFormatter](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -
+`NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -
 Localized representations of the components of a person’s name.
 
 
 ## Networks
 
-- [Falsehoods about
-networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
+- [Falsehoods About
+Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
 
 
-## Phone numbers
+## Phone Numbers
 
 - [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's
 common Java, C++ and JavaScript library for parsing, formatting, and validating
@@ -170,14 +170,14 @@ international phone numbers. Also available for
 
 ## Prices
 
-- [Falsehoods about
-prices](https://gist.github.com/rgs/6509585).
+- [Falsehoods About
+Prices](https://gist.github.com/rgs/6509585).
 
 
-## Postal addresses
+## Postal Addresses
 
-- [Falsehoods about
-addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/).
+- [Falsehoods About
+Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/).
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
@@ -189,8 +189,8 @@ module to parse, normalize and render postal addresses.
 
 ## Versions
 
-- [Falsehoods about
-versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
+- [Falsehoods About
+Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 
 
 ## Contributing
