@@ -115,7 +115,7 @@ triggers.
 - [HL7 v3
 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
-- [iOS
+- [Apple iOS
 `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -
 Localized representations of the components of a person’s name.
 
