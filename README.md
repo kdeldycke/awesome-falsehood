@@ -55,7 +55,8 @@ the world of falsehoods.
 ## Build Systems
 
 - [Falsehoods About Build
-Systems](http://pozorvlak.livejournal.com/174763.html)
+Systems](http://pozorvlak.livejournal.com/174763.html) - Building software is
+hard. Building software that build software is harder.
 
 
 ## Dates and Time
@@ -78,19 +79,23 @@ more context and external resource to the subject.
 ## E-Commerce
 
 - [Falsehoods About Online
-Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201)
+Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - Covers prices,
+currencies and inventory.
 
 
 ## Emails
 
 - [I Knew How to Validate an Email Address Until I Read the
-RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/).
+RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
+Provides intricates examples that are unsuspected valid emails according the
+RFC-822.
 
 
 ## Gender
 
 - [Falsehoods About
-Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44)
+Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44) - Gender is part
+of human identity has its own subtleties.
 
 
 ## Geography
@@ -102,9 +107,11 @@ Geography](http://wiesmann.codiferes.net/wordpress/?p=15187).
 ## Human Names
 
 - [Falsehoods About
-Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
+Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
+The article that started it all.
 - [XKCD #327: Exploits of a
-Mom](https://xkcd.com/327/).
+Mom](https://xkcd.com/327/) - Funny take on security holes bad names might
+triggers.
 - [HL7 v3
 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
@@ -116,7 +123,8 @@ Localized representations of the components of a person’s name.
 ## Networks
 
 - [Falsehoods About
-Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
+Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) -
+Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
 
 
 ## Phone Numbers
@@ -134,13 +142,15 @@ international phone numbers. Also available for
 ## Prices
 
 - [Falsehoods About
-Prices](https://gist.github.com/rgs/6509585).
+Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and
+localization.
 
 
 ## Postal Addresses
 
 - [Falsehoods About
-Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/).
+Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) -
+Covers streets, postal codes, buildings, cities and countries.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
@@ -153,7 +163,8 @@ module to parse, normalize and render postal addresses.
 ## Versions
 
 - [Falsehoods About
-Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
+Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) -
+Attributing an identity to a software release might be harder than though.
 
 
 ## Contributing
