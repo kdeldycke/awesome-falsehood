@@ -97,16 +97,16 @@ systems](http://pozorvlak.livejournal.com/174763.html)
 
 ## Dates and time
 
-- [Falsehoods programmers believe about
+- [Falsehoods about
 time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) -
 Seminal article on dates and time.
-- [More falsehoods programmers believe about
+- [More falsehoods about
 time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) -
 Part. 2 of the article above.
-- [Falsehoods programmers believe about time and time
+- [Falsehoods about time and time
 zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) -
 Another takes on time-related falsehoods, with an emphasis on time zones.
-- [Falsehoods Programmers Believe About
+- [Falsehoods About
 Time](https://gist.github.com/thanatos/eee17100476a336a711e) - A critique of
 the first article with a very detailed explanation of each falsehood, adding
 more context and external resource to the subject.
@@ -114,7 +114,7 @@ more context and external resource to the subject.
 
 ## E-commerce
 
-- [Falsehoods programmers believe about online
+- [Falsehoods about online
 shopping](http://wiesmann.codiferes.net/wordpress/?p=22201)
 
 
@@ -126,19 +126,19 @@ RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-addre
 
 ## Gender
 
-- [Falsehoods Programmers Believe About
+- [Falsehoods About
 Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44)
 
 
 ## Geography
 
-- [Falsehoods programmers believe about
+- [Falsehood about
 geography](http://wiesmann.codiferes.net/wordpress/?p=15187).
 
 
 ## Human names
 
-- [Falsehoods Programmers Believe About
+- [Falsehoods About
 Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
 - [XKCD #327: Exploits of a
 Mom](https://xkcd.com/327/).
@@ -152,7 +152,7 @@ Localized representations of the components of a person’s name.
 
 ## Networks
 
-- [Falsehoods programmers believe about
+- [Falsehoods about
 networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
 
 
@@ -170,13 +170,13 @@ international phone numbers. Also available for
 
 ## Prices
 
-- [Falsehoods programmers believe about
+- [Falsehoods about
 prices](https://gist.github.com/rgs/6509585).
 
 
 ## Postal addresses
 
-- [Falsehoods programmers believe about
+- [Falsehoods about
 addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/).
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
@@ -189,7 +189,7 @@ module to parse, normalize and render postal addresses.
 
 ## Versions
 
-- [Falsehoods programmers believe about
+- [Falsehoods about
 versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 
 
