@@ -14,9 +14,8 @@ A curated list of awesome falsehoods programmers believe in.
 - [Dates and Time](#dates-and-time)
 - [E-Commerce](#e-commerce)
 - [Emails](#emails)
-- [Gender](#gender)
 - [Geography](#geography)
-- [Human Names](#human-names)
+- [Human Identity](#human-identity)
 - [Networks](#networks)
 - [Phone Numbers](#phone-numbers)
 - [Prices](#prices)
@@ -97,13 +96,6 @@ Provides intricates examples that are unsuspected valid emails according the
 RFC-822.
 
 
-## Gender
-
-- [Falsehoods About
-Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44) - Gender is part
-of human identity has its own subtleties.
-
-
 ## Geography
 
 - [Falsehood About
@@ -114,11 +106,14 @@ Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-
 Covers coordinates, projection and GIS.
 
 
-## Human Names
+## Human Identity
 
 - [Falsehoods About
 Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
 The article that started it all.
+- [Falsehoods About
+Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44) - Gender is part
+of human identity has its own subtleties.
 - [XKCD #327: Exploits of a
 Mom](https://xkcd.com/327/) - Funny take on security holes bad names might
 triggers.
