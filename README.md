@@ -9,10 +9,6 @@ A curated list of awesome falsehoods programmers believe in.
 ## Contents
 
 - [Foreword](#foreword)
-- [Good Candidates](#good-candidates)
-    - [*Falsehood* Articles](#falsehood-articles)
-    - [Libraries](#libraries)
-    - [Data Structures](#data-structures)
 - [Meta](#meta)
 - [Build Systems](#build-systems)
 - [Dates and Time](#dates-and-time)
@@ -27,6 +23,10 @@ A curated list of awesome falsehoods programmers believe in.
 - [Postal Addresses](#postal-addresses)
 - [Versions](#versions)
 - [Contributing](#contributing)
+- [Good Candidates](#good-candidates)
+    - [*Falsehood* Articles](#falsehood-articles)
+    - [Libraries](#libraries)
+    - [Data Structures](#data-structures)
 - [License](#license)
 
 
@@ -40,43 +40,6 @@ subtleties.
 
 They might looks like to some as a suite of wordy unit-tests covering extensive
 edge-cases provided by real-world usage.
-
-
-## Good Candidates
-
-Here is a non-restrictive list of items which are good candidates for inclusion
-in this awesome list.
-
-### *Falsehood* Articles
-
-Articles following the *falsehood* scheme are prime candidates for inclusion in
-this awesome list.
-
-These articles starts with the hypothesis that developers have a naive, simple
-view of the subject at hand. Then proceed to list a set of candid assumptions
-that might be held by such programmers. Each one is intentionally false, and
-sometimes illustrated by a counter-example.
-
-A list of falsehood is crafted as a progression that is designed to refine
-concepts. Having read the whole list of falsehood, the reader should possess a
-global, if not complete, overview of the domain being targeted by the article,
-including most, if not all, its pitfalls, edges-cases and inconsistencies.
-
-In the worst case, these articles might provoke an emotional reaction and cause
-flipping table. `(╯°□°)╯︵ ┻━┻`
-
-### Libraries
-
-When possible, we provide a list of programming libraries or modules that may
-solve, or try to, the complexities and idiosyncrasies pointed by the
-*falsehood* articles above.
-
-So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
-
-### Data Structures
-
-Data models and structures generic enough to cover and addresses most of the
-falsehoods are also welcome in this page.
 
 
 ## Meta
@@ -197,6 +160,43 @@ Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 
 Your contributions are always welcome! Please take a look at the [contribution
 guidelines](CONTRIBUTING.md) first.
+
+
+## Good Candidates
+
+Here is a non-restrictive list of items which are good candidates for inclusion
+in this awesome list.
+
+### *Falsehood* Articles
+
+Articles following the *falsehood* scheme are prime candidates for inclusion in
+this awesome list.
+
+These articles starts with the hypothesis that developers have a naive, simple
+view of the subject at hand. Then proceed to list a set of candid assumptions
+that might be held by such programmers. Each one is intentionally false, and
+sometimes illustrated by a counter-example.
+
+A list of falsehood is crafted as a progression that is designed to refine
+concepts. Having read the whole list of falsehood, the reader should possess a
+global, if not complete, overview of the domain being targeted by the article,
+including most, if not all, its pitfalls, edges-cases and inconsistencies.
+
+In the worst case, these articles might provoke an emotional reaction and cause
+flipping table. `(╯°□°)╯︵ ┻━┻`
+
+### Libraries
+
+When possible, we provide a list of programming libraries or modules that may
+solve, or try to, the complexities and idiosyncrasies pointed by the
+*falsehood* articles above.
+
+So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
+
+### Data Structures
+
+Data models and structures generic enough to cover and addresses most of the
+falsehoods are also welcome in this page.
 
 
 ## License
