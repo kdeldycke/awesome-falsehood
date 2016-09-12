@@ -12,7 +12,7 @@ Your contributions are always welcome!
 - List item requirements:
 
   - Check the new item you want to add to the list is a [good
-  candidate]((README.md#good-candidates).
+  candidate](README.md#good-candidates).
   - Must follow this template:
   `- [Link Title](https://example.com) - A short description.`.
   - Link title must be [title-cased](http://titlecapitalization.com) (AP
