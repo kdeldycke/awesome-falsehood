@@ -5,23 +5,22 @@ A curated list of awesome falsehoods programmers believe in.
 > The logic of the world is prior to all truth and falsehood.
 > - Ludwig Wittgenstein
 
+https://github.com/minimaxir/big-list-of-naughty-strings
 
 ## Contents
 
 - [Foreword](#foreword)
 - [Meta](#meta)
 - [Build Systems](#build-systems)
+- [Business](#business)
 - [Dates and Time](#dates-and-time)
-- [E-Commerce](#e-commerce)
 - [Emails](#emails)
 - [Geography](#geography)
 - [Human Identity](#human-identity)
 - [Networks](#networks)
 - [Phone Numbers](#phone-numbers)
-- [Prices](#prices)
 - [Postal Addresses](#postal-addresses)
 - [Versions](#versions)
-- [Taxes](#taxes)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
     - [*Falsehood* Articles](#falsehood-articles)
@@ -59,6 +58,18 @@ Systems](http://pozorvlak.livejournal.com/174763.html) - Building software is
 hard. Building software that build software is harder.
 
 
+## Business
+
+- [Falsehoods About Online
+Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - Covers prices,
+currencies and inventory.
+- [Falsehoods About
+Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and
+localization.
+- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
+library.
+
+
 ## Dates and Time
 
 - [Falsehoods About
@@ -79,13 +90,6 @@ represent the history of local time for many representative locations around
 the globe.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - Most
 of the idiosyncracies in time keeping can find an explanation in history.
-
-
-## E-Commerce
-
-- [Falsehoods About Online
-Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - Covers prices,
-currencies and inventory.
 
 
 ## Emails
@@ -147,13 +151,6 @@ international phone numbers. Also available for
 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 
-## Prices
-
-- [Falsehoods About
-Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and
-localization.
-
-
 ## Postal Addresses
 
 - [Falsehoods About
@@ -173,12 +170,6 @@ module to parse, normalize and render postal addresses.
 - [Falsehoods About
 Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) -
 Attributing an identity to a software release might be harder than though.
-
-
-## Taxes
-
-- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
-library.
 
 
 ## Contributing
