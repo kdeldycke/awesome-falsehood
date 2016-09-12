@@ -23,8 +23,8 @@ Your contributions are always welcome!
 - Add a section if needed.
 
   - Eventually add a description to the section.
-  - Section title must be linked to from the [Table of
-  Contents](README.md#contents).
+  - Section title must be linked to from the [table of
+  contents](README.md#contents).
 
 - Search past and current issues and pull-requests for previous suggestions
 before making a new one, as yours may be a duplicate or a work in progress.
