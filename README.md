@@ -5,13 +5,11 @@ A curated list of awesome falsehoods programmers believe in.
 > The logic of the world is prior to all truth and falsehood.
 > - Ludwig Wittgenstein
 
-https://github.com/minimaxir/big-list-of-naughty-strings
 
 ## Contents
 
 - [Foreword](#foreword)
 - [Meta](#meta)
-- [Build Systems](#build-systems)
 - [Business](#business)
 - [Dates and Time](#dates-and-time)
 - [Emails](#emails)
@@ -20,7 +18,7 @@ https://github.com/minimaxir/big-list-of-naughty-strings
 - [Networks](#networks)
 - [Phone Numbers](#phone-numbers)
 - [Postal Addresses](#postal-addresses)
-- [Versions](#versions)
+- [Software Engineering](#software-engineering)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
     - [*Falsehood* Articles](#falsehood-articles)
@@ -49,13 +47,6 @@ curated list of awesome falsehoods programmers believe in.
 Believe](http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A
 brief list of common falsehoods. A great overview and quick introduction into
 the world of falsehoods.
-
-
-## Build Systems
-
-- [Falsehoods About Build
-Systems](http://pozorvlak.livejournal.com/174763.html) - Building software is
-hard. Building software that build software is harder.
 
 
 ## Business
@@ -165,11 +156,17 @@ addressing library, powered by Google's dataset.
 module to parse, normalize and render postal addresses.
 
 
-## Versions
+## Software Engineering
 
 - [Falsehoods About
 Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) -
 Attributing an identity to a software release might be harder than though.
+- [Falsehoods About Build
+Systems](http://pozorvlak.livejournal.com/174763.html) - Building software is
+hard. Building software that build software is harder.
+- [Big List of Naughty
+Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
+your assumptions about strings.
 
 
 ## Contributing
