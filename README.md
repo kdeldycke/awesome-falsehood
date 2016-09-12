@@ -22,6 +22,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Prices](#prices)
 - [Postal Addresses](#postal-addresses)
 - [Versions](#versions)
+- [Taxes](#taxes)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
     - [*Falsehood* Articles](#falsehood-articles)
@@ -172,6 +173,12 @@ module to parse, normalize and render postal addresses.
 - [Falsehoods About
 Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) -
 Attributing an identity to a software release might be harder than though.
+
+
+## Taxes
+
+- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
+library.
 
 
 ## Contributing
