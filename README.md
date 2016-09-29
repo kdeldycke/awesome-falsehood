@@ -108,7 +108,7 @@ Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about
 The article that started it all.
 - [Falsehoods About
 Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44) - Gender is part
-of human identity has its own subtleties.
+of human identity and has its own subtleties.
 - [XKCD #327: Exploits of a
 Mom](https://xkcd.com/327/) - Funny take on security holes bad names might
 triggers.
