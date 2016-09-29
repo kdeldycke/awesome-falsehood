@@ -208,7 +208,7 @@ So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
 ### Data Structures
 
-Data models and structures generic enough to cover and addresses most of the
+Data models and structures generic enough to cover and address most of the
 falsehoods are also welcome in this page.
 
 
