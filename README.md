@@ -108,8 +108,8 @@ The article that started it all.
 Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44) - Gender is part
 of human identity and has its own subtleties.
 - [XKCD #327: Exploits of a
-Mom](https://xkcd.com/327/) - Funny take on security holes bad names might
-triggers.
+Mom](https://xkcd.com/327/) - Funny take on how implementation of a falsehood
+might lead to security holes.
 - [HL7 v3
 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
