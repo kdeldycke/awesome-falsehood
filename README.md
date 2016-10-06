@@ -41,8 +41,6 @@ edge-cases provided by real-world usage.
 
 ## Meta
 
-- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - A
-curated list of awesome falsehoods programmers believe in.
 - [Falsehoods Programmers
 Believe](http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A
 brief list of common falsehoods. A great overview and quick introduction into
