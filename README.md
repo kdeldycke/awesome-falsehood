@@ -35,8 +35,8 @@ density. They're a convenient written form to approach an unfamiliar domain by
 dispelling myths, point out common pitfalls, show inconsistencies and
 subtleties.
 
-They might looks like to some as a suite of wordy unit-tests covering extensive
-edge-cases provided by real-world usage.
+In a sense, *Falsehood* articles are a suite of wordy unit-tests covering
+extensive edge-cases provided by real-world usage.
 
 
 ## Meta
