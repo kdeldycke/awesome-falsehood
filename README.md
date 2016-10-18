@@ -161,10 +161,10 @@ module to parse, normalize and render postal addresses.
 
 - [Falsehoods About
 Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) -
-Attributing an identity to a software release might be harder than though.
+Attributing an identity to a software release might be harder than thought.
 - [Falsehoods About Build
 Systems](http://pozorvlak.livejournal.com/174763.html) - Building software is
-hard. Building software that build software is harder.
+hard. Building software that builds software is harder.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
