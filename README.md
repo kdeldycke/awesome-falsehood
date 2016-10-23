@@ -113,6 +113,9 @@ about gender, naming and relationships.
 - [XKCD #327: Exploits of a
 Mom](https://xkcd.com/327/) - Funny take on how implementation of a falsehood
 might lead to security holes.
+- [Hello, I’m Mr. Null. My Name Makes Me Invisible to
+Computers](https://www.wired.com/2015/11/null/) - Real-life example on how
+implemented falsehood has negative impact on someone's life.
 - [HL7 v3
 RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
