@@ -31,7 +31,7 @@ A curated list of awesome falsehoods programmers believe in.
 
 *Falsehood* articles are a form of commentary on a particular subject, and are
 appreciated by the developer community at large for their effectiveness and
-density. They're a convenient written form to approach an unfamiliar domain by
+terseness. They're a convenient written form to approach an unfamiliar domain by
 dispelling myths, point out common pitfalls, show inconsistencies and
 subtleties.
 
