@@ -31,8 +31,8 @@ A curated list of awesome falsehoods programmers believe in.
 
 *Falsehood* articles are a form of commentary on a particular subject, and are
 appreciated by the developer community at large for their effectiveness and
-terseness. They're a convenient written form to approach an unfamiliar domain by
-dispelling myths, point out common pitfalls, show inconsistencies and
+terseness. They're a convenient written form to approach an unfamiliar domain
+by dispelling myths, point out common pitfalls, show inconsistencies and
 subtleties.
 
 In a sense, *Falsehood* articles are a suite of wordy unit-tests covering
@@ -72,8 +72,8 @@ Zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-ti
 Another takes on time-related falsehoods, with an emphasis on time zones.
 - [Critique of Falsehoods About
 Time](https://gist.github.com/thanatos/eee17100476a336a711e) - Takes on the
-first article above and provides an explanation of each falsehood,
-with more context and external resources .
+first article above and provides an explanation of each falsehood, with more
+context and external resources .
 - [Time Zone Database](https://www.iana.org/time-zones) - Code and data that
 represent the history of local time for many representative locations around
 the globe.
