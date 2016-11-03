@@ -151,7 +151,7 @@ international phone numbers. Also available for
 - [Falsehoods About
 Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) -
 Covers streets, postal codes, buildings, cities and countries.
-- [Letter Delivered Despite No Name, No 
+- [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's
