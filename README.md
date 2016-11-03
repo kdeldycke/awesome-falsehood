@@ -79,6 +79,8 @@ represent the history of local time for many representative locations around
 the globe.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - Most
 of the idiosyncracies in time keeping can find an explanation in history.
+- [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will
+not work. This article tells you why.
 
 
 ## Emails
