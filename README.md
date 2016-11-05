@@ -81,6 +81,7 @@ the globe.
 of the idiosyncracies in time keeping can find an explanation in history.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will
 not work. This article tells you why.
+- [So you want to abolish time zones](https://qntm.org/abolish) – Abolishing timezones may sound like a good idea, but there are quite a few complications that make it not quite so. 
 
 
 ## Emails
