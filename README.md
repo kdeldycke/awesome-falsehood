@@ -5,7 +5,7 @@ A curated list of awesome falsehoods programmers believe in.
 > The logic of the world is prior to all truth and falsehood.
 > - Ludwig Wittgenstein
 
-![git-brag](https://labs.turbo.run/git-brag?user=kdeldycke&repo=awesome-falsehood)
+[![git-brag-stats](https://labs.turbo.run/git-brag?user=kdeldycke&repo=awesome-falsehood)](https://github.com/turbo/git-brag)
 
 
 ## Contents
