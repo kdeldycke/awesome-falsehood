@@ -83,7 +83,7 @@ of the idiosyncracies in time keeping can find an explanation in history.
 not work. This article tells you why.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) – Abolishing
 timezones may sound like a good idea, but there are quite a few complications
-that make it not quite so. 
+that make it not quite so.
 
 
 ## Emails
