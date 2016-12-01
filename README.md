@@ -179,6 +179,8 @@ hard. Building software that builds software is harder.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
+- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
+international and diverse name data for unit testing and QA.
 
 
 ## Contributing
