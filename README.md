@@ -55,6 +55,9 @@ currencies and inventory.
 - [Falsehoods About
 Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and
 localization.
+- [Falsehoods About
+IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) -
+International Bank Account Numbers are not immune to mistakes.
 - [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
