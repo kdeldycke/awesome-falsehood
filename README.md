@@ -141,6 +141,10 @@ of human identity and has its own subtleties.
 - [Gay Marriage: The Database Engineering Perspective](https://qntm.org/gay) -
 How to store a marriage in a database while addressing most of the falsehoods
 about gender, naming and relationships.
+- [Personal Names Around the
+World](https://www.w3.org/International/questions/qa-personal-names) - How do
+people's names differ around the world, and what are the implications for the
+Web?
 - [XKCD #327: Exploits of a
 Mom](https://xkcd.com/327/) - Funny take on how implementation of a falsehood
 might lead to security holes.
