@@ -49,7 +49,7 @@ the world of falsehoods.
 - [Falsehoods About
 Programming](http://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) -
 A humbling and fun list on programming and programmers themselves.
-- [Falsehoods Programmers Believe About Falsehoods
+- [Falsehoods About Falsehoods
 Lists](https://github.com/kdeldycke/kevin-deldycke-blog/blob/master/content/posts/falsehoods-programmers-believe-about-falsehoods-lists.md) -
 Meta commentary on how these falsehoods shouldn't be handled.
 
