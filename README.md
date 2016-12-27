@@ -213,6 +213,9 @@ hard. Building software that builds software is harder.
 Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) -
 Diversity of file-systems and OSes makes file paths a little harder than we
 might think of.
+- [Falsehoods About REST
+APIs](http://slinkp.com/falsehoods-programmers-believe-about-apis.html) -
+Pitfalls to be mindful of when creating and documenting APIs.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
