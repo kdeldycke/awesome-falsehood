@@ -10,6 +10,7 @@ A curated list of awesome falsehoods programmers believe in.
 
 - [Foreword](#foreword)
 - [Meta](#meta)
+- [Arts](#arts)
 - [Business](#business)
 - [Dates and Time](#dates-and-time)
 - [Emails](#emails)
@@ -53,6 +54,13 @@ A humbling and fun list on programming and programmers themselves.
 - [Falsehoods About Falsehoods
 Lists](https://github.com/kdeldycke/kevin-deldycke-blog/blob/master/content/posts/falsehoods-programmers-believe-about-falsehoods-lists.md) -
 Meta commentary on how these falsehoods shouldn't be handled.
+
+
+## Arts
+
+- [Falsehoods About
+Music](https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html) -
+False assumption that might be made in codifying music.
 
 
 ## Business
