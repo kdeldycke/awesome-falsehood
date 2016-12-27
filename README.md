@@ -21,6 +21,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Phone Numbers](#phone-numbers)
 - [Postal Addresses](#postal-addresses)
 - [Science](#science)
+- [Society](#society)
 - [Software Engineering](#software-engineering)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
@@ -214,6 +215,13 @@ module to parse, normalize and render postal addresses.
 - [Falsehoods About Systems of
 Measurement](https://web.archive.org/web/20150222171255/http://stevemoser.org/blog/2013/08/07/falsehoods-programmers-believe-about-systems-of-measurement/) -
 On working with systems of measurement and converting between them.
+
+
+## Society
+
+- [Falsehoods About Political
+Appointments](https://twitter.com/oliver_dw/status/737930439575404544) -
+Designing election systems has its own tricks.
 
 
 ## Software Engineering
