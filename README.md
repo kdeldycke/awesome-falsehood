@@ -188,6 +188,10 @@ Attributing an identity to a software release might be harder than thought.
 - [Falsehoods About Build
 Systems](http://pozorvlak.livejournal.com/174763.html) - Building software is
 hard. Building software that builds software is harder.
+- [Myths About File
+Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) -
+Diversity of file-systems and OSes makes file paths a little harder than we
+might think of.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
