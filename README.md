@@ -46,6 +46,9 @@ extensive edge-cases provided by real-world usage.
 Believe](http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A
 brief list of common falsehoods. A great overview and quick introduction into
 the world of falsehoods.
+- [Falsehoods Programmers Believe About Falsehoods
+Lists](https://github.com/kdeldycke/kevin-deldycke-blog/blob/master/content/posts/falsehoods-programmers-believe-about-falsehoods-lists.md) -
+Meta commentary on how these falsehoods shouldn't be handled.
 
 
 ## Business
