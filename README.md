@@ -96,7 +96,7 @@ context and external resources.
 represent the history of local time for many representative locations around
 the globe.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - Most
-of the idiosyncracies in time keeping can find an explanation in history.
+of the idiosyncrasies in time keeping can find an explanation in history.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will
 not work. This article tells you why.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) – Abolishing
@@ -108,7 +108,7 @@ that make it not quite so.
 
 - [I Knew How to Validate an Email Address Until I Read the
 RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
-Provides intricates examples that are unsuspected valid emails according the
+Provides intricate examples that are unsuspected valid emails according the
 RFC-822.
 
 
