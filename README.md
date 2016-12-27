@@ -152,6 +152,9 @@ and conversion, displays and subtitles.
 - [Falsehoods About
 Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) -
 Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
+- [Fallacies of Distributed
+Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) -
+Assumptions that programmers new to distributed applications invariably make.
 
 
 ## Phone Numbers
