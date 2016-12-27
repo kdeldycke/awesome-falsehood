@@ -70,6 +70,9 @@ International Bank Account Numbers are not immune to mistakes.
 Applicants](https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) -
 Assumptions about job applicants and their job histories aren’t necessarily
 true.
+- [Falsehoods About
+Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -
+Economics are not simple or rational.
 - [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
