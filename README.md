@@ -66,6 +66,10 @@ localization.
 - [Falsehoods About
 IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) -
 International Bank Account Numbers are not immune to mistakes.
+- [Falsehoods About Job
+Applicants](https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) -
+Assumptions about job applicants and their job histories aren’t necessarily
+true.
 - [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
