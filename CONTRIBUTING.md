@@ -17,6 +17,8 @@ Your contributions are always welcome!
   `- [Link Title](https://example.com) - A short description.`.
   - Link title must be [title-cased](http://titlecapitalization.com) (AP
   style).
+  - Link title must be stripped out of the "programmers believe" part to
+  keep compact.
   - Keep descriptions concise, maximum number of characters is 350.
   - Description must ends with a period.
 
