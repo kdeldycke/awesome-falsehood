@@ -15,6 +15,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Emails](#emails)
 - [Geography](#geography)
 - [Human Identity](#human-identity)
+- [Multimedia](#multimedia)
 - [Networks](#networks)
 - [Phone Numbers](#phone-numbers)
 - [Postal Addresses](#postal-addresses)
@@ -130,6 +131,14 @@ A flexible data model for representing human names.
 - [Apple iOS
 `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -
 Localized representations of the components of a person’s name.
+
+
+## Multimedia
+
+- [Falsehoods About
+Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) -
+Cover it all: video decoding and playback, files, image scaling, color spaces
+and conversion, displays and subtitles.
 
 
 ## Networks
