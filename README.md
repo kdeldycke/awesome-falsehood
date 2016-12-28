@@ -123,7 +123,7 @@ RFC-822.
 
 ## Geography
 
-- [Falsehood About
+- [Falsehoods About
 Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - Takes on places,
 their names and locations.
 - [Falsehoods About
