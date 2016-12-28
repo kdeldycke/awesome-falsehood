@@ -129,6 +129,8 @@ their names and locations.
 - [Falsehoods About
 Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) -
 Covers coordinates, projection and GIS.
+- [Falsehood About Location](http://fusion.net/story/287592/internet-mapping-glitch-kansas-farm/) -
+Example of real-world problems caused by using a default or average location.
 
 
 ## Human Identity
