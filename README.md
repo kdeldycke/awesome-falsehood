@@ -53,7 +53,7 @@ the world of falsehoods.
 Programming](http://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) -
 A humbling and fun list on programming and programmers themselves.
 - [Falsehoods About Falsehoods
-Lists](https://github.com/kdeldycke/kevin-deldycke-blog/blob/master/content/posts/falsehoods-programmers-believe-about-falsehoods-lists.md) -
+Lists](http://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) -
 Meta commentary on how these falsehoods shouldn't be handled.
 
 
