@@ -222,6 +222,9 @@ On working with systems of measurement and converting between them.
 - [Falsehoods About Political
 Appointments](https://twitter.com/oliver_dw/status/737930439575404544) -
 Designing election systems has its own tricks.
+- [Falsehoods About Women In
+Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women
+in STEM (Science, Technology, Engineering, Math) industries.
 
 
 ## Software Engineering
