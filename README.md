@@ -239,6 +239,9 @@ might think of.
 - [Falsehoods About REST
 APIs](http://slinkp.com/falsehoods-programmers-believe-about-apis.html) -
 Pitfalls to be mindful of when creating and documenting APIs.
+- [Falsehoods About
+CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) -
+While RFC4180 to exists, it is far from definitive and goes largely ignored.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
