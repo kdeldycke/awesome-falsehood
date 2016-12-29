@@ -242,6 +242,9 @@ Pitfalls to be mindful of when creating and documenting APIs.
 - [Falsehoods About
 CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) -
 While RFC4180 to exists, it is far from definitive and goes largely ignored.
+- [Falsehoods About Package
+Managers](https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html) -
+Covers package and their managers.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
