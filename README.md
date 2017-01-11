@@ -46,14 +46,14 @@ extensive edge-cases provided by real-world usage.
 ## Meta
 
 - [Falsehoods Programmers
-Believe](http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A
+Believe](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A
 brief list of common falsehoods. A great overview and quick introduction into
 the world of falsehoods.
 - [Falsehoods About
-Programming](http://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) -
+Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) -
 A humbling and fun list on programming and programmers themselves.
 - [Falsehoods About Falsehoods
-Lists](http://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) -
+Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) -
 Meta commentary on how these falsehoods shouldn't be handled.
 
 
@@ -95,7 +95,7 @@ Seminal article on dates and time.
 Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) -
 Part. 2 of the article above.
 - [Falsehoods About Time and Time
-Zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) -
+Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) -
 Another takes on time-related falsehoods, with an emphasis on time zones.
 - [Critique of Falsehoods About
 Time](https://gist.github.com/thanatos/eee17100476a336a711e) - Takes on the
@@ -116,7 +116,7 @@ that make it not quite so.
 ## Emails
 
 - [I Knew How to Validate an Email Address Until I Read the
-RFC](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
+RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
 Provides intricate examples that are unsuspected valid emails according the
 RFC-822.
 
@@ -153,7 +153,7 @@ might lead to security holes.
 Computers](https://www.wired.com/2015/11/null/) - Real-life example on how
 implemented falsehood has negative impact on someone's life.
 - [HL7 v3
-RIM](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
+RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
 - [Apple iOS
 `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -
@@ -213,7 +213,7 @@ module to parse, normalize and render postal addresses.
 ## Science
 
 - [Falsehoods About Systems of
-Measurement](https://web.archive.org/web/20150222171255/http://stevemoser.org/blog/2013/08/07/falsehoods-programmers-believe-about-systems-of-measurement/) -
+Measurement](https://web.archive.org/web/20150222171255/https://stevemoser.org/blog/2013/08/07/falsehoods-programmers-believe-about-systems-of-measurement/) -
 On working with systems of measurement and converting between them.
 
 
@@ -233,7 +233,7 @@ in STEM (Science, Technology, Engineering, Math) industries.
 Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) -
 Attributing an identity to a software release might be harder than thought.
 - [Falsehoods About Build
-Systems](http://pozorvlak.livejournal.com/174763.html) - Building software is
+Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is
 hard. Building software that builds software is harder.
 - [Myths About File
 Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) -
@@ -300,10 +300,10 @@ falsehoods are also welcome in this page.
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Content of this repository is licensed under the [Creative Commons CC0
 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-To the extent possible under law, [Kevin Deldycke](http://kevin.deldycke.com)
+To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.
