@@ -19,6 +19,7 @@ Your contributions are always welcome!
   style).
   - Link title must be stripped out of the "programmers believe" part to
   keep compact.
+  - URL must use HTTPs protocol if available.
   - Keep descriptions concise, maximum number of characters is 350.
   - Description must ends with a period.
 
