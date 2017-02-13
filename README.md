@@ -75,6 +75,7 @@ localization.
 - [Falsehoods About
 IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) -
 International Bank Account Numbers are not immune to mistakes.
+- [Falsehoods About Job	Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) - Assumptions about job applicants and their job histories aren’t necessarily true.
 - [Falsehoods About
 Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -
 Economics are not simple or rational.
