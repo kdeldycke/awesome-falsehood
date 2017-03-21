@@ -108,6 +108,8 @@ not work. This article tells you why.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) – Abolishing
 timezones may sound like a good idea, but there are quite a few complications
 that make it not quite so.
+- [Your calendrical fallacy is thinking…](http://yourcalendricalfallacyis.com) - 
+Another take on assumptions about calendars.
 
 
 ## Emails
