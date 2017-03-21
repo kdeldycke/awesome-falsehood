@@ -98,7 +98,7 @@ Another takes on time-related falsehoods, with an emphasis on time zones.
 Time](https://gist.github.com/thanatos/eee17100476a336a711e) - Takes on the
 first article above and provides an explanation of each falsehood, with more
 context and external resources.
-- [Your calendrical fallacy is thinking…](http://yourcalendricalfallacyis.com) -
+- [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) -
 Another take on assumptions about calendars.
 - [Time Zone Database](https://www.iana.org/time-zones) - Code and data that
 represent the history of local time for many representative locations around
