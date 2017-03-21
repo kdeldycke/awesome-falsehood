@@ -99,7 +99,8 @@ Time](https://gist.github.com/thanatos/eee17100476a336a711e) - Takes on the
 first article above and provides an explanation of each falsehood, with more
 context and external resources.
 - [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) -
-Another take on assumptions about calendars.
+List covering intercalation and cultural influence, made by a community of iOS
+and macOS developers.
 - [Time Zone Database](https://www.iana.org/time-zones) - Code and data that
 represent the history of local time for many representative locations around
 the globe.
