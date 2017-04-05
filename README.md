@@ -46,7 +46,7 @@ extensive edge-cases provided by real-world usage.
 ## Meta
 
 - [Falsehoods Programmers
-Believe](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/) - A
+Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A
 brief list of common falsehoods. A great overview and quick introduction into
 the world of falsehoods.
 - [Falsehoods About
