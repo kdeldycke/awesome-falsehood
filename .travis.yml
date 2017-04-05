@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot --files ./README.md --white-list creativecommons.org
+  - awesome_bot --files ./README.md --allow-ssl --allow-redirect --white-list creativecommons.org
