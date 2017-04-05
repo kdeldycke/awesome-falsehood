@@ -1,0 +1,5 @@
+language: ruby
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot --files ./README.md --white-list creativecommons.org
