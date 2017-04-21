@@ -142,6 +142,9 @@ of human identity and has its own subtleties.
 - [Gay Marriage: The Database Engineering Perspective](https://qntm.org/gay) -
 How to store a marriage in a database while addressing most of the falsehoods
 about gender, naming and relationships.
+- [Falsehoods Programmers Believe About
+Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) -
+You can't really define a family with strict rules.
 - [Personal Names Around the
 World](https://www.w3.org/International/questions/qa-personal-names) - How do
 people's names differ around the world, and what are the implications for the
