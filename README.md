@@ -79,6 +79,10 @@ International Bank Account Numbers are not immune to mistakes.
 - [Falsehoods About
 Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -
 Economics are not simple or rational.
+- [CLDR currency
+definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
+Currency validity date ranges overlap due to revolts, invasions, new
+constitutions, and slow planned adoption.
 - [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
