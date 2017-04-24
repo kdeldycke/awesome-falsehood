@@ -22,6 +22,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Postal Addresses](#postal-addresses)
 - [Science](#science)
 - [Society](#society)
+- [Internationalization](#internationalization)
 - [Software Engineering](#software-engineering)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
@@ -237,6 +238,14 @@ Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women
 in STEM (Science, Technology, Engineering, Math) industries.
 
 
+## Internationalization
+
+- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
+international and diverse name data for unit testing and QA.
+- [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
+A video about things you need to keep in mind when internationalizing your code.
+
+
 ## Software Engineering
 
 - [Falsehoods About
@@ -261,8 +270,6 @@ Covers package and their managers.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
-- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
-international and diverse name data for unit testing and QA.
 
 
 ## Contributing
