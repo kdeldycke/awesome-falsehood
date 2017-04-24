@@ -118,6 +118,8 @@ not work. This article tells you why.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) – Abolishing
 timezones may sound like a good idea, but there are quite a few complications
 that make it not quite so.
+- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) -
+A video about why you should never, ever deal with timezones if you can help it.
 
 
 ## Emails
