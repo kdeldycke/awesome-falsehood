@@ -146,9 +146,6 @@ Covers coordinates, projection and GIS.
 - [Falsehoods About
 Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
 The article that started it all.
-- [Falsehoods About
-Gender](https://gist.github.com/garbados/f82604ea639e0e47bf44) - Gender is part
-of human identity and has its own subtleties.
 - [Gay Marriage: The Database Engineering Perspective](https://qntm.org/gay) -
 How to store a marriage in a database while addressing most of the falsehoods
 about gender, naming and relationships.
