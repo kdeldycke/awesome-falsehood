@@ -243,6 +243,10 @@ in STEM (Science, Technology, Engineering, Math) industries.
 
 ## Internationalization
 
+-[Falsehoods About
+Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
+Translating a software from English is not as straightforward as it seems to
+be.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
 international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
