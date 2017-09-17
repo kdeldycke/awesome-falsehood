@@ -122,6 +122,9 @@ that make it not quite so.
 - [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) -
 A video about why you should never, ever deal with timezones if you can help
 it.
+- [$26,000 Overcollection by Labor
+Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) -
+The consequence of wrong calendar accounting.
 
 
 ## Emails
