@@ -120,7 +120,8 @@ not work. This article tells you why.
 timezones may sound like a good idea, but there are quite a few complications
 that make it not quite so.
 - [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) -
-A video about why you should never, ever deal with timezones if you can help it.
+A video about why you should never, ever deal with timezones if you can help
+it.
 
 
 ## Emails
@@ -245,7 +246,8 @@ in STEM (Science, Technology, Engineering, Math) industries.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
 international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
-A video about things you need to keep in mind when internationalizing your code.
+A video about things you need to keep in mind when internationalizing your
+code.
 
 
 ## Software Engineering
