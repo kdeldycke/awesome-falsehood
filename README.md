@@ -246,7 +246,7 @@ in STEM (Science, Technology, Engineering, Math) industries.
 
 ## Internationalization
 
--[Falsehoods About
+- [Falsehoods About
 Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
 Translating a software from English is not as straightforward as it seems to
 be.
