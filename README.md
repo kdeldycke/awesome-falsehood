@@ -9,6 +9,7 @@ A curated list of awesome falsehoods programmers believe in.
 ## Contents
 
 - [Foreword](#foreword)
+---
 - [Meta](#meta)
 - [Arts](#arts)
 - [Business](#business)
@@ -25,6 +26,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Society](#society)
 - [Software Engineering](#software-engineering)
 - [Typography](#typography)
+---
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
     - [*Falsehood* Articles](#falsehood-articles)
