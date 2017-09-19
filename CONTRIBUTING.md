@@ -7,7 +7,8 @@ Your contributions are always welcome!
 
 - Only one list item per commit.
 
-- Only one commit per pull-request.
+- Only one commit per pull-request. Always squash commits after applying
+changes.
 
 - List item requirements:
 
@@ -15,10 +16,9 @@ Your contributions are always welcome!
   candidate](README.md#good-candidates).
   - Must follow this template:
   `- [Link Title](https://example.com) - A short description.`.
-  - Link title must be [title-cased](http://titlecapitalization.com) (AP
-  style).
-  - Link title must be stripped out of the "programmers believe" part to
-  keep compact.
+  - Link title must be [title-cased](http://titlecapitalization.com), AP style.
+  - Link title must be stripped out of the "*programmers believe*" part to keep
+  it compact.
   - URL must use HTTPs protocol if available.
   - Keep descriptions concise, maximum number of characters is 350.
   - Description must ends with a period.
@@ -38,6 +38,7 @@ before making a new one, as yours may be a duplicate or a work in progress.
 
 - Use spaces, no tabs, for indention.
 
-- Try to cut long lines of text after 80 characters.
+- Cut long lines of text after 80 characters. Only exception is to let Markdown
+content be properly rendered.
 
-- Send a pull-request with the reason why the library is awesome.
+- Send a pull-request with the reason why the linked resource is awesome.
