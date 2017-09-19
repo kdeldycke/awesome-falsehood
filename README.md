@@ -286,7 +286,8 @@ your assumptions about strings.
 
 ## Typography
 
-- [Falsehoods about fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+- [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) -
+Assumptions about typography on the web and in desktop applications.
 
 
 ## Contributing
