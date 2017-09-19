@@ -28,6 +28,7 @@ changes.
   - Eventually add a description to the section.
   - Section title must be linked to from the [table of
   contents](README.md#contents).
+  - Sections must be alphabetically sorted.
 
 - Search past and current issues and pull-requests for previous suggestions
 before making a new one, as yours may be a duplicate or a work in progress.

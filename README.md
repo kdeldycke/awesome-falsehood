@@ -16,13 +16,13 @@ A curated list of awesome falsehoods programmers believe in.
 - [Emails](#emails)
 - [Geography](#geography)
 - [Human Identity](#human-identity)
+- [Internationalization](#internationalization)
 - [Multimedia](#multimedia)
 - [Networks](#networks)
 - [Phone Numbers](#phone-numbers)
 - [Postal Addresses](#postal-addresses)
 - [Science](#science)
 - [Society](#society)
-- [Internationalization](#internationalization)
 - [Software Engineering](#software-engineering)
 - [Typography](#typography)
 - [Contributing](#contributing)
@@ -178,6 +178,19 @@ A flexible data model for representing human names.
 Localized representations of the components of a person’s name.
 
 
+## Internationalization
+
+- [Falsehoods About
+Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
+Translating a software from English is not as straightforward as it seems to
+be.
+- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
+international and diverse name data for unit testing and QA.
+- [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
+A video about things you need to keep in mind when internationalizing your
+code.
+
+
 ## Multimedia
 
 - [Falsehoods About
@@ -243,19 +256,6 @@ Designing election systems has its own tricks.
 - [Falsehoods About Women In
 Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women
 in STEM (Science, Technology, Engineering, Math) industries.
-
-
-## Internationalization
-
-- [Falsehoods About
-Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
-Translating a software from English is not as straightforward as it seems to
-be.
-- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
-international and diverse name data for unit testing and QA.
-- [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
-A video about things you need to keep in mind when internationalizing your
-code.
 
 
 ## Software Engineering
