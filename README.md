@@ -24,6 +24,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Society](#society)
 - [Internationalization](#internationalization)
 - [Software Engineering](#software-engineering)
+- [Typography](#typography)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
     - [*Falsehood* Articles](#falsehood-articles)
@@ -281,6 +282,11 @@ Covers package and their managers.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
+
+
+## Typography
+
+- [Falsehoods about fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
 
 ## Contributing
