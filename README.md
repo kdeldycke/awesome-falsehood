@@ -134,8 +134,8 @@ The consequence of wrong calendar accounting.
 
 - [I Knew How to Validate an Email Address Until I Read the
 RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
-Provides intricate examples that are unsuspected valid email addresses according the
-RFC-822.
+Provides intricate examples that are unsuspected valid email addresses
+according the RFC-822.
 
 
 ## Geography
