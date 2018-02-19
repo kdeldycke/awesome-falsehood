@@ -236,7 +236,9 @@ Covers streets, postal codes, buildings, cities and countries.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
-- [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - Why regular expressions and street addresses do not mix.
+- [Regex and Postal
+Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) -
+Why regular expressions and street addresses do not mix.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
