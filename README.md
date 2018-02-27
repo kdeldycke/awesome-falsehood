@@ -178,7 +178,7 @@ A flexible data model for representing human names.
 - [Apple iOS
 `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -
 Localized representations of the components of a person’s name.
-- [Falsehoods About Me](https://skylarmacdonald.com/falsehoods/) - Issues at the 
+- [Falsehoods About Me](https://skylarmacdonald.com/falsehoods/) - Issues at the
 intersection of names and gender and internationalisation.
 
 
