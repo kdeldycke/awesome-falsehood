@@ -283,6 +283,9 @@ While RFC4180 to exists, it is far from definitive and goes largely ignored.
 - [Falsehoods About Package
 Managers](https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html) -
 Covers package and their managers.
+- [Falsehoods About
+Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) -
+An attempt to establish a list of falsehoods about testing.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
