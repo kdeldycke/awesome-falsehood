@@ -251,7 +251,7 @@ module to parse, normalize and render postal addresses.
 ## Science
 
 - [Falsehoods About Systems of
-Measurement](https://web.archive.org/web/20150222171255/https://stevemoser.org/blog/2013/08/07/falsehoods-programmers-believe-about-systems-of-measurement/) -
+Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) -
 On working with systems of measurement and converting between them.
 
 
