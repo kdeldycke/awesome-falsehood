@@ -66,6 +66,8 @@ Meta commentary on how these falsehoods shouldn't be handled.
 - [Falsehoods About
 Music](https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html) -
 False assumption that might be made in codifying music.
+- [Falsehoods About Art](http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/) –
+Common misconceptions about art.
 
 
 ## Business
