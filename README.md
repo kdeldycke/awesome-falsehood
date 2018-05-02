@@ -248,7 +248,8 @@ international postal addresses.
 addressing library, powered by Google's dataset.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python
 module to parse, normalize and render postal addresses.
-
+- [`address`](https://github.com/Boostport/address) - Go library to validate
+and format addresses using Google's dataset.
 
 ## Science
 
