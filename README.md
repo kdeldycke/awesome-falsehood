@@ -138,7 +138,7 @@ The consequence of wrong calendar accounting.
 RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
 Provides intricate examples that are unsuspected valid email addresses
 according the RFC-822.
-
+- [Falsehoods programmers believe about email APIs](https://www.flutemail.com/blog/2018/06/06/falsehoods-programmers-believe-about-email-apis.html)
 
 ## Geography
 
