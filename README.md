@@ -138,6 +138,8 @@ The consequence of wrong calendar accounting.
 RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
 Provides intricate examples that are unsuspected valid email addresses
 according the RFC-822.
+- [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) -
+Presentation of edge-case email addresses and why you should not use regex to parse them.
 
 
 ## Geography
