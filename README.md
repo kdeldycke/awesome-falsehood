@@ -334,6 +334,9 @@ including most, if not all, its pitfalls, edges-cases and inconsistencies.
 In the worst case, these articles might provoke an emotional reaction and cause
 flipping table. `(╯°□°)╯︵ ┻━┻`
 
+Articles featuring items that are applicable to a product and a product only
+can't really be considered as generic falsehood articles and should be avoided.
+
 ### Libraries
 
 When possible, we provide a list of programming libraries or modules that may
