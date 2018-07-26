@@ -189,7 +189,7 @@ intersection of names and gender and internationalisation.
 ## Internationalization
 
 - [Falsehoods About
-Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
+Language](http://garbled.benhamill.com/2017/04/19/falsehoods-programmers-believe-about-language) -
 Translating a software from English is not as straightforward as it seems to
 be.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
