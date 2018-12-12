@@ -297,7 +297,9 @@ An attempt to establish a list of falsehoods about testing.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
-
+- [Falsehoods About
+Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - 
+Why your pagination algorithm is giving someone (possibly you) a headache.
 
 ## Typography
 
