@@ -305,6 +305,8 @@ of a post on why file mtime comparison could be considered harmful.
 - [Falsehoods About
 Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - 
 Why your pagination algorithm is giving someone (possibly you) a headache.
+- [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - A
+kind of falsehood on numbers, and floats vs decimals.
 
 
 ## Typography
