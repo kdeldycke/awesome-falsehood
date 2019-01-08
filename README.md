@@ -130,6 +130,9 @@ it.
 - [$26,000 Overcollection by Labor
 Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) -
 The consequence of wrong calendar accounting.
+- [ISO-8601, YYYY, yyyy, and why your year may be 
+wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) -
+String formatting of date is hard.
 
 
 ## Emails
