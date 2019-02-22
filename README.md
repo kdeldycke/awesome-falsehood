@@ -201,7 +201,7 @@ international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 A video about things you need to keep in mind when internationalizing your
 code.
-- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
+- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
 
 
 ## Multimedia
