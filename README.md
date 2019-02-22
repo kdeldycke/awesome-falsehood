@@ -133,7 +133,7 @@ The consequence of wrong calendar accounting.
 - [ISO-8601, YYYY, yyyy, and why your year may be 
 wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) -
 String formatting of date is hard.
-
+- [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There are edge cases about dates and time (specifically UTC) that you probably haven't thought of.
 
 ## Emails
 
