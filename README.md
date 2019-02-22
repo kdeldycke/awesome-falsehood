@@ -135,6 +135,7 @@ wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-ma
 String formatting of date is hard.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There are edge cases about dates and time (specifically UTC) that you probably haven't thought of.
 
+
 ## Emails
 
 - [I Knew How to Validate an Email Address Until I Read the
@@ -202,6 +203,7 @@ A video about things you need to keep in mind when internationalizing your
 code.
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
 
+
 ## Multimedia
 
 - [Falsehoods About
@@ -255,6 +257,7 @@ addressing library, powered by Google's dataset.
 module to parse, normalize and render postal addresses.
 - [`address`](https://github.com/Boostport/address) - Go library to validate
 and format addresses using Google's dataset.
+
 
 ## Science
 
