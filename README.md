@@ -88,6 +88,9 @@ true.
 - [Falsehoods About
 Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -
 Economics are not simple or rational.
+- [Falsehoods About
+Cars](https://github.com/driveto/falsehoods-about-cars) -
+Even something as common as defining a car is full of pitfalls.
 - [CLDR currency
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
