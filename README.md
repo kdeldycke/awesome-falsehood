@@ -242,6 +242,9 @@ international phone numbers. Also available for
 - [Falsehoods About
 Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) -
 Covers streets, postal codes, buildings, cities and countries.
+- [Falsehoods About
+Residence](https://twitter.com/samphippen/status/813896916534784004) -
+It's not only about the address itself, but the relationship between a person and its residence.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
