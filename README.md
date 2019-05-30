@@ -320,7 +320,9 @@ Why your pagination algorithm is giving someone (possibly you) a headache.
 Not falsehoods *per-se*, but still a great list of good practices to implement autocompletion.
 - [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - A
 kind of falsehood on numbers, and floats vs decimals.
-
+- [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -
+Why search (including analysis, tokenization, highlighting) is deceptively
+complex.
 
 ## Typography
 
