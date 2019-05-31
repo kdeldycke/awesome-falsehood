@@ -324,6 +324,7 @@ kind of falsehood on numbers, and floats vs decimals.
 Why search (including analysis, tokenization, highlighting) is deceptively
 complex.
 
+
 ## Typography
 
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) -
