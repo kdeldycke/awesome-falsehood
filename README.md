@@ -323,6 +323,7 @@ kind of falsehood on numbers, and floats vs decimals.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -
 Why search (including analysis, tokenization, highlighting) is deceptively
 complex.
+- [Hi! My name is...](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named falsehoods about in usernames (and other identifiers).
 
 
 ## Typography
