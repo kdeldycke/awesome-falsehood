@@ -253,6 +253,8 @@ It's not only about the address itself, but the relationship between a person an
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
+- [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) -
+Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 - [Regex and Postal
 Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) -
 Why regular expressions and street addresses do not mix.
