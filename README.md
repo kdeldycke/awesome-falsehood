@@ -225,6 +225,8 @@ Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
 - [Fallacies of Distributed
 Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) -
 Assumptions that programmers new to distributed applications invariably make.
+- [There’s more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - Some parts of the address are optional, mind the decimal and octal notations, and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) either.
+- [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - An attempt to validate hostnames in Python.
 
 
 ## Phone Numbers
