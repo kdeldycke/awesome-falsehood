@@ -188,6 +188,8 @@ might lead to security holes.
 - [Hello, I’m Mr. Null. My Name Makes Me Invisible to
 Computers](https://www.wired.com/2015/11/null/) - Real-life example on how
 implemented falsehood has negative impact on someone's life.
+- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) -
+Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 - [HL7 v3
 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) -
 A flexible data model for representing human names.
