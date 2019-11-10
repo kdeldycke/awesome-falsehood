@@ -210,6 +210,7 @@ international and diverse name data for unit testing and QA.
 A video about things you need to keep in mind when internationalizing your
 code.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
+- [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard.
 
 
 ## Multimedia
