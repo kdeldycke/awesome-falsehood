@@ -336,6 +336,7 @@ complex.
 - [Hi! My name is...](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named falsehoods about in usernames (and other identifiers).
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom) - There are a few things about /dev/urandom and /dev/random that are repeated again and again. Still they are false.
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A list of things (not only) computer science students tend to erroneously and at times surprisingly believe even though they (probably) should know better.
+- [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 
 
 ## Typography
