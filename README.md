@@ -19,6 +19,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Geography](#geography)
 - [Human Identity](#human-identity)
 - [Internationalization](#internationalization)
+- [Management](#management)
 - [Multimedia](#multimedia)
 - [Networks](#networks)
 - [Phone Numbers](#phone-numbers)
@@ -82,10 +83,6 @@ localization.
 - [Falsehoods About
 IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) -
 International Bank Account Numbers are not immune to mistakes.
-- [Falsehoods About Job
-Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) -
-Assumptions about job applicants and their job histories aren’t necessarily
-true.
 - [Falsehoods About
 Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -
 Economics are not simple or rational.
@@ -220,6 +217,14 @@ A video about things you need to keep in mind when internationalizing your
 code.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard.
+
+
+## Management
+
+- [Falsehoods About Job
+Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) -
+Assumptions about job applicants and their job histories aren’t necessarily
+true.
 
 
 ## Multimedia
