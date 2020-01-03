@@ -93,8 +93,6 @@ Even something as common as defining a car is full of pitfalls.
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
 constitutions, and slow planned adoption.
-- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
-library.
 
 
 ## Dates and Time
