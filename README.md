@@ -64,7 +64,7 @@ commentary on how these falsehoods shouldn't be handled.
 
 - [Falsehoods About Music](https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html) - False
 assumption that might be made in codifying music.
-- [Falsehoods About Art](http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/) – Common
+- [Falsehoods About Art](http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/) - Common
 misconceptions about art.
 
 
@@ -108,7 +108,7 @@ the globe.
 of the idiosyncrasies in time keeping can find an explanation in history.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will
 not work. This article tells you why.
-- [So You Want to Abolish Time Zones](https://qntm.org/abolish) – Abolishing
+- [So You Want to Abolish Time Zones](https://qntm.org/abolish) - Abolishing
 timezones may sound like a good idea, but there are quite a few complications
 that make it not quite so.
 - [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A
@@ -192,7 +192,8 @@ international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A
 video about things you need to keep in mind when internationalizing your code.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character
-encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
+encoding doesn't have to be baffling, but it helps to have a basic set of
+knowledge.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character
 encoding is hard.
 
