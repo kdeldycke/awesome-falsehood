@@ -15,6 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Setup ruby gem
+        run: |
+          sudo apt update
+          sudo apt install ruby-full
+          ruby --version
       - name: Install awesome_bot
         run : |
           gem install awesome_bot
