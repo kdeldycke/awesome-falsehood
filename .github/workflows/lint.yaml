@@ -9,19 +9,3 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: max/awesome-lint@v2.0.0
-
-  validate_links:
-    name: Validate links
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Setup ruby gem
-        run: |
-          sudo apt update
-          sudo apt install ruby rubygems-integration
-      - name: Install awesome_bot
-        run : |
-          sudo gem install awesome_bot
-      - name: Run awesome_bot
-        run : |
-          awesome_bot --files ./README.md --allow-ssl --allow-redirect --white-list creativecommons.org
