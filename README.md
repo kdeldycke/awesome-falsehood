@@ -9,26 +9,25 @@ A curated list of awesome falsehoods programmers believe in.
 ## Contents
 
 - [Foreword](#foreword)
----
-- [Meta](#meta)
-- [Arts](#arts)
-- [Business](#business)
-- [Dates and Time](#dates-and-time)
-- [Education](#education)
-- [Emails](#emails)
-- [Geography](#geography)
-- [Human Identity](#human-identity)
-- [Internationalization](#internationalization)
-- [Management](#management)
-- [Multimedia](#multimedia)
-- [Networks](#networks)
-- [Phone Numbers](#phone-numbers)
-- [Postal Addresses](#postal-addresses)
-- [Science](#science)
-- [Society](#society)
-- [Software Engineering](#software-engineering)
-- [Typography](#typography)
----
+- [Falsehoods](#falsehoods)
+  - [Meta](#meta)
+  - [Arts](#arts)
+  - [Business](#business)
+  - [Dates and Time](#dates-and-time)
+  - [Education](#education)
+  - [Emails](#emails)
+  - [Geography](#geography)
+  - [Human Identity](#human-identity)
+  - [Internationalization](#internationalization)
+  - [Management](#management)
+  - [Multimedia](#multimedia)
+  - [Networks](#networks)
+  - [Phone Numbers](#phone-numbers)
+  - [Postal Addresses](#postal-addresses)
+  - [Science](#science)
+  - [Society](#society)
+  - [Software Engineering](#software-engineering)
+  - [Typography](#typography)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
   - [*Falsehood* Articles](#falsehood-articles)
@@ -48,8 +47,9 @@ subtleties.
 In a sense, *Falsehood* articles are a suite of wordy unit-tests covering
 extensive edge-cases provided by real-world usage.
 
+## Falsehoods
 
-## Meta
+### Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A
 brief list of common falsehoods. A great overview and quick introduction into
@@ -60,7 +60,7 @@ humbling and fun list on programming and programmers themselves.
 commentary on how these falsehoods shouldn't be handled.
 
 
-## Arts
+### Arts
 
 - [Falsehoods About Music](https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html) - False
 assumption that might be made in codifying music.
@@ -68,7 +68,7 @@ assumption that might be made in codifying music.
 misconceptions about art.
 
 
-## Business
+### Business
 
 - [Falsehoods About Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - Covers
 prices, currencies and inventory.
@@ -87,7 +87,7 @@ slow planned adoption.
 library.
 
 
-## Dates and Time
+### Dates and Time
 
 - [Falsehoods About Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Seminal
 article on dates and time.
@@ -129,14 +129,14 @@ Stack Overflow answer about both complicated historical timezones, and how
 historical dates can be re-interpreted by newer versions of software.
 
 
-## Education
+### Education
 
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A
 list of things (not only) computer science students tend to erroneously and at
 times surprisingly believe even though they (probably) should know better.
 
 
-## Emails
+### Emails
 
 - [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - Provides
 intricate examples that are unsuspected valid email addresses according the
@@ -145,7 +145,7 @@ RFC-822.
 of edge-case email addresses and why you should not use regex to parse them.
 
 
-## Geography
+### Geography
 
 - [Falsehoods About Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - Takes
 on places, their names and locations.
@@ -153,7 +153,7 @@ on places, their names and locations.
 coordinates, projection and GIS.
 
 
-## Human Identity
+### Human Identity
 
 - [Falsehoods About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - The
 article that started it all.
@@ -183,7 +183,7 @@ representations of the components of a person’s name.
 the intersection of names and gender and internationalisation.
 
 
-## Internationalization
+### Internationalization
 
 - [Falsehoods About Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating
 a software from English is not as straightforward as it seems to be.
@@ -198,20 +198,20 @@ knowledge.
 encoding is hard.
 
 
-## Management
+### Management
 
 - [Falsehoods About Job Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) - Assumptions
 about job applicants and their job histories aren’t necessarily true.
 
 
-## Multimedia
+### Multimedia
 
 - [Falsehoods About Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover
 it all: video decoding and playback, files, image scaling, color spaces and
 conversion, displays and subtitles.
 
 
-## Networks
+### Networks
 
 - [Falsehoods About Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - Covers
 TCP, DHCP, DNS, VLANs and IPv4/v6.
@@ -224,7 +224,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) either.
 attempt to validate hostnames in Python.
 
 
-## Phone Numbers
+### Phone Numbers
 
 - [Falsehoods About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers
 phone numbers, their representation and meaning.
@@ -238,7 +238,7 @@ international phone numbers. Also available for
 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 
-## Postal Addresses
+### Postal Addresses
 
 - [Falsehoods About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers
 streets, postal codes, buildings, cities and countries.
@@ -261,13 +261,13 @@ module to parse, normalize and render postal addresses.
 and format addresses using Google's dataset.
 
 
-## Science
+### Science
 
 - [Falsehoods About Systems of Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) - On
 working with systems of measurement and converting between them.
 
 
-## Society
+### Society
 
 - [Falsehoods About Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) - Designing
 election systems has its own tricks.
@@ -275,7 +275,7 @@ election systems has its own tricks.
 about women in STEM (Science, Technology, Engineering, Math) industries.
 
 
-## Software Engineering
+### Software Engineering
 
 - [Falsehoods About Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing
 an identity to a software release might be harder than thought.
@@ -315,7 +315,7 @@ about caches often lead to false assertions, especially when it comes to
 concurrency and race conditions.
 
 
-## Typography
+### Typography
 
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions
 about typography on the web and in desktop applications.
