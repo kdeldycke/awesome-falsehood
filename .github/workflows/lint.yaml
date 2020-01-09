@@ -19,7 +19,6 @@ jobs:
         run: |
           sudo apt update
           sudo apt install ruby rubygems-integration
-          sudo ruby --version
       - name: Install awesome_bot
         run : |
           sudo gem install awesome_bot
