@@ -7,14 +7,14 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout
-      - uses: max/awesome-lint
+      - uses: actions/checkout@v2
+      - uses: max/awesome-lint@v1
 
   validate_links:
     name: Validate links
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout
+      - uses: actions/checkout@v2
       - name: Install awesome_bot
         run : |
           gem install awesome_bot
