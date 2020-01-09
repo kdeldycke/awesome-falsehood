@@ -171,14 +171,14 @@ do people's names differ around the world, and what are the implications for
 the Web?
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - Funny take on how
 implementation of a falsehood might lead to security holes.
-- [Hello, I’m Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life
-example on how implemented falsehood has negative impact on someone’s life.
+- [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life
+example on how implemented falsehood has negative impact on someone's life.
 - [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old
 airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 - [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - A
 flexible data model for representing human names.
 - [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) - Localized
-representations of the components of a person’s name.
+representations of the components of a person's name.
 - [Falsehoods About Me](https://skylarmacdonald.com/falsehoods/) - Issues at
 the intersection of names and gender and internationalisation.
 
@@ -201,7 +201,7 @@ encoding is hard.
 ### Management
 
 - [Falsehoods About Job Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) - Assumptions
-about job applicants and their job histories aren’t necessarily true.
+about job applicants and their job histories aren't necessarily true.
 
 
 ### Multimedia
@@ -217,7 +217,7 @@ conversion, displays and subtitles.
 TCP, DHCP, DNS, VLANs and IPv4/v6.
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - Assumptions
 that programmers new to distributed applications invariably make.
-- [There’s more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - Some
+- [There's more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - Some
 parts of the address are optional, mind the decimal and octal notations,
 and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) either.
 - [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - An
