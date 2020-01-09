@@ -18,8 +18,8 @@ jobs:
       - name: Setup ruby gem
         run: |
           sudo apt update
-          sudo apt install ruby-full
-          ruby --version
+          sudo apt install rubygems-integration
+          sudo ruby --version
       - name: Install awesome_bot
         run : |
           gem install awesome_bot
