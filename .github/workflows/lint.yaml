@@ -22,7 +22,7 @@ jobs:
           sudo ruby --version
       - name: Install awesome_bot
         run : |
-          gem install awesome_bot
+          sudo gem install awesome_bot
       - name: Run awesome_bot
         run : |
           awesome_bot --files ./README.md --allow-ssl --allow-redirect --white-list creativecommons.org
