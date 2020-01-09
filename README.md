@@ -335,6 +335,7 @@ Your contributions are always welcome! Please take a look at the
 Here is a non-restrictive list of items which are good candidates for inclusion
 in this awesome list.
 
+
 ### *Falsehood* Articles
 
 Articles following the *falsehood* scheme are prime candidates for inclusion in
@@ -356,6 +357,7 @@ flipping table. `(╯°□°)╯︵ ┻━┻`
 Articles featuring items that are applicable to a product and a product only
 can't really be considered as generic falsehood articles and should be avoided.
 
+
 ### Libraries
 
 When possible, we provide a list of programming libraries or modules that may
@@ -363,6 +365,7 @@ solve, or try to, the complexities and idiosyncrasies pointed by the
 *falsehood* articles above.
 
 So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
+
 
 ### Data Structures
 
