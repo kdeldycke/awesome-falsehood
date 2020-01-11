@@ -30,7 +30,7 @@ A curated list of awesome falsehoods programmers believe in.
   - [Typography](#typography)
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
-  - [*Falsehood* Articles](#falsehood-articles)
+  - [Falsehood Articles](#falsehood-articles)
   - [Libraries](#libraries)
   - [Data Structures](#data-structures)
 - [License](#license)
@@ -336,7 +336,7 @@ Here is a non-restrictive list of items which are good candidates for inclusion
 in this awesome list.
 
 
-### *Falsehood* Articles
+### Falsehood Articles
 
 Articles following the *falsehood* scheme are prime candidates for inclusion in
 this awesome list.
