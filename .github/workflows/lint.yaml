@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      # Fetch the last 31 days to please linter's age checks.
-      - run: |
-          git checkout 'master@{31 days ago}'
+        with:
+          # Fetch all history to please linter's age checks.
+          fetch-depth: 0
       - uses: max/awesome-lint@master
