@@ -7,5 +7,5 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: max/awesome-lint@v2.0.0
+      - uses: actions/checkout@master
+      - uses: max/awesome-lint@master
