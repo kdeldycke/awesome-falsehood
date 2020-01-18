@@ -19,28 +19,29 @@ this awesome list.
 
 These articles starts with the hypothesis that developers have a naive, simple
 view of the subject at hand. Then proceed to list a set of candid assumptions
-that might be held by such programmers. Each one is intentionally false, and
-sometimes illustrated by a counter-example.
+that might be held by the programmers. Each one is intentionally false, and
+in their best form illustrated by a counter-example.
 
 A list of falsehood is crafted as a progression that is designed to refine
 concepts. Having read the whole list of falsehood, the reader should possess a
 global, if not complete, overview of the domain being targeted by the article,
 including most, if not all, its pitfalls, edges-cases and inconsistencies.
 
-In the worst case, these articles might provoke an emotional reaction and cause
-flipping table. `(╯°□°)╯︵ ┻━┻`
+Sometimes, these kind of articles might provoke an emotional reaction and cause
+flipping table. `(╯°□°)╯︵ ┻━┻` Because, the world is messy. Discovering the
+complexity of a domain that is simple in appearance will lead to
+frustrations. This is the sign of a great candidate for that list!
 
-Articles featuring items that are applicable to a product and a product only
-can't really be considered as generic falsehood articles and should be avoided.
+Articles featuring items that are applicable to one product (or a service) and
+one only can't be considered as generic enough and should be avoided.
 
 
 ### Libraries
 
-When possible, we provide a list of programming libraries or modules that may
-solve, or try to, the complexities and idiosyncrasies pointed by the
-*falsehood* articles above.
+Programming libraries or modules are good candidates too, if they solve or
+reduce the complexities pointed to by the *falsehood* articles above.
 
-So we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
+That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
 
 ### Data Structures
