@@ -169,22 +169,39 @@ flexible data model for representing human names.
 - [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) - Localized
 representations of the components of a person's name.
 - [Falsehoods About Me](https://skylarmacdonald.com/falsehoods/) - Issues at
-the intersection of names and gender and internationalisation.
+the intersection of names and gender and internationalization.
 
 
 ## Internationalization
 
+On character encoding, string formatting, unicode and internationalization.
+
 - [Falsehoods About Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating
 a software from English is not as straightforward as it seems to be.
-- [i18n Testing Data](https://github.com/patch/i18n-testing) - Real-word
-international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A
-video about things you need to keep in mind when internationalizing your code.
-- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character
-encoding doesn't have to be baffling, but it helps to have a basic set of
-knowledge.
+video about things you need to keep in mind when internationalizing your
+code.
+- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A
+good introduction to unicode, its historical context and origins, followed by
+an overview of its inner working.
+- [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - A curated list
+of delightful Unicode tidbits, packages and resources.
+- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode
+is extensive, here be dragons.
+- [Let’s Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives
+deeper in Unicode and dispels myths about code points.
+- [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most
+programmers spend so much time with Latin-1 they forgets about other's scripts
+quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character
-encoding is hard.
+encoding is hard, more so when each broken layer of data input adds its own
+spice.
+- [i18n Testing Data](https://github.com/patch/i18n-testing) - Compilation of
+real-word international and diverse name data for unit testing and QA.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - A
+huge corpus of strings which have a high probability of causing issues when
+used as user-input data. A must have set of practical edge-cases to test your
+software against.
 
 
 ## Management
@@ -281,10 +298,8 @@ RFC4180 to exists, it is far from definitive and goes largely ignored.
 package and their managers.
 - [Falsehoods About Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An
 attempt to establish a list of falsehoods about testing.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
-your assumptions about strings.
 - [Popular misconceptions about mtime](https://apenwarr.ca/log/20181113) - Part
-of a post on why file mtime comparison could be considered harmful.
+of a post on why file's `mtime` comparison could be considered harmful.
 - [Falsehoods About Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - Why
 your pagination algorithm is giving someone (possibly you) a headache.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not
