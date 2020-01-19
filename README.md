@@ -150,7 +150,7 @@ article that started it all.
 revisited version of the article above, this time with detailed explanations.
 - Falsehoods About Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - Gender
 is part of human identity and has its own subtleties.
-- [Gay Marriage: The Database Engineering Perspective](https://qntm.org/gay) - How
+- [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - How
 to store a marriage in a database while addressing most of the falsehoods about
 gender, naming and relationships.
 - [Falsehoods Programmers Believe About Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - You
