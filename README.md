@@ -295,7 +295,7 @@ kind of falsehood on numbers, and floats vs decimals.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why
 search (including analysis, tokenization, highlighting) is deceptively complex.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk
-could have been named falsehoods about in usernames (and other identifiers).
+could have been named "falsehoods about usernames (and other identifiers)".
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom) - There
 are a few things about /dev/urandom and /dev/random that are repeated again and
 again. Still they are false.
