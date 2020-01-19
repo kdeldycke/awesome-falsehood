@@ -309,7 +309,7 @@ concurrency and race conditions.
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions
 about typography on the web and in desktop applications.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A
-complete reverse of the falshoods format, on the topic of case (as in uppercase
+complete reverse of the falsehoods format, on the topic of case (as in uppercase
 and lowercase text).
 
 
