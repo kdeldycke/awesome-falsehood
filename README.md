@@ -6,10 +6,18 @@ A curated list of awesome falsehoods programmers believe in.
 >
 > — Ludwig Wittgenstein. [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961).
 
+*Falsehood* articles are a form of commentary on a particular subject, and are
+appreciated by the developer community at large for their effectiveness and
+terseness. They're a convenient written form to approach an unfamiliar domain
+by dispelling myths, point out common pitfalls, show inconsistencies and
+subtleties.
+
+In a sense, *Falsehood* articles are a suite of wordy unit-tests covering
+extensive edge-cases provided by real-world usage.
+
 
 ## Contents
 
-- [Foreword](#foreword)
 - [Meta](#meta)
 - [Arts](#arts)
 - [Business](#business)
@@ -29,17 +37,6 @@ A curated list of awesome falsehoods programmers believe in.
 - [Software Engineering](#software-engineering)
 - [Typography](#typography)
 
-
-## Foreword
-
-*Falsehood* articles are a form of commentary on a particular subject, and are
-appreciated by the developer community at large for their effectiveness and
-terseness. They're a convenient written form to approach an unfamiliar domain
-by dispelling myths, point out common pitfalls, show inconsistencies and
-subtleties.
-
-In a sense, *Falsehood* articles are a suite of wordy unit-tests covering
-extensive edge-cases provided by real-world usage.
 
 ## Meta
 
