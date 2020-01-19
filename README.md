@@ -188,7 +188,7 @@ an overview of its inner working.
 of delightful Unicode tidbits, packages and resources.
 - [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode
 is extensive, here be dragons.
-- [Let’s Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives
+- [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives
 deeper in Unicode and dispels myths about code points.
 - [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most
 programmers spend so much time with Latin-1 they forgets about other's scripts
