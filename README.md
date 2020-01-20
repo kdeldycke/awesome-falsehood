@@ -351,7 +351,7 @@ Your contributions are always welcome! Please take a look at the
   To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.
 
-- The [header image](awesome-falsehood-header.jpg) is based on a modified
+- The [header image](./assets/awesome-falsehood-header.jpg) is based on a modified
 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg),
 distributed under a [Creative Commons BY-SA 2.0 UK
 license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
