@@ -168,7 +168,7 @@ do people's names differ around the world, and what are the implications for
 the Web?
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - Funny take on how
 implementation of a falsehood might lead to security holes.
-- [Hello, I'm *Mr. Null.* My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life
+- [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life
 example on how implemented falsehood has negative impact on someone's life.
 - [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old
 airline reservation systems considers the `MR` suffix as `Mister` and drops it.
@@ -344,14 +344,14 @@ Your contributions are always welcome! Please take a look at the
 
 ## License
 
-- [![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-  Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
-  To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.
 
-- The [header image](./assets/awesome-falsehood-header.jpg) is based on a modified
+The [header image](./assets/awesome-falsehood-header.jpg) is based on a modified
 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg),
 distributed under a [Creative Commons BY-SA 2.0 UK
 license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
-- <a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
