@@ -3,6 +3,12 @@
 **A curated list of falsehoods programmers believe in.**
 
 <p align="center">
+  <a href="https://github.com/kdeldycke/awesome-falsehood/">
+    <img src="./assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
+  </a>
+</p>
+
+<p align="center">
   <i>The logic of the world is prior to all truth and falsehood.</i><br>
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
