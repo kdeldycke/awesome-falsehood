@@ -14,8 +14,6 @@
 </p>
 
 
-## Foreword
-
 *Falsehood* articles are a form of commentary on a particular subject, and are
 appreciated by the developer community at large for their effectiveness and
 terseness. They're a convenient written form to approach an unfamiliar domain
@@ -344,7 +342,7 @@ Your contributions are always welcome! Please take a look at the
 [contribution guidelines](CONTRIBUTING.md) first.
 
 
-## License & Credits
+## License
 
 - [![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
   Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
