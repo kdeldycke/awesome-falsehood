@@ -5,6 +5,9 @@
 The logic of the world is prior to all truth and falsehood.
 — Ludwig Wittgenstein<sup id="intro-quote-ref">[\[1\]](#intro-quote-def)</sup>
 
+
+## Foreword
+
 *Falsehood* articles are a form of commentary on a particular subject, and are
 appreciated by the developer community at large for their effectiveness and
 terseness. They're a convenient written form to approach an unfamiliar domain
