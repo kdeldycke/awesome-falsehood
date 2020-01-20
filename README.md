@@ -114,7 +114,7 @@ that make it not quite so.
 video about why you should never, ever deal with timezones if you can help it.
 - [$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - The
 consequence of wrong calendar accounting.
-- [ISO-8601, YYYY, yyyy, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String
+- [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String
 formatting of date is hard.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There
 are edge cases about dates and time (specifically UTC) that you probably
@@ -170,7 +170,7 @@ do people's names differ around the world, and what are the implications for
 the Web?
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - Funny take on how
 implementation of a falsehood might lead to security holes.
-- [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life
+- [Hello, I'm *Mr. Null.* My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - Real-life
 example on how implemented falsehood has negative impact on someone's life.
 - [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old
 airline reservation systems considers the `MR` suffix as `Mister` and drops it.
@@ -200,8 +200,8 @@ of delightful Unicode tidbits, packages and resources.
 is extensive, here be dragons.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives
 deeper in Unicode and dispels myths about code points.
-- [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most
-programmers spend so much time with Latin-1 they forgets about other's scripts
+- [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most
+programmers spend so much time with `Latin-1` they forgets about other's scripts
 quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character
 encoding is hard, more so when each broken layer of data input adds its own
@@ -308,21 +308,21 @@ RFC4180 to exists, it is far from definitive and goes largely ignored.
 package and their managers.
 - [Falsehoods About Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - An
 attempt to establish a list of falsehoods about testing.
-- [Popular misconceptions about mtime](https://apenwarr.ca/log/20181113) - Part
+- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part
 of a post on why file's `mtime` comparison could be considered harmful.
 - [Falsehoods About Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - Why
 your pagination algorithm is giving someone (possibly you) a headache.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not
 falsehoods *per-se*, but still a great list of good practices to implement
 autocompletion.
-- [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - A
+- [`9999999999999999.0` - `9999999999999998.0`](http://geocar.sdf1.org/numbers.html) - A
 kind of falsehood on numbers, and floats vs decimals.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why
 search (including analysis, tokenization, highlighting) is deceptively complex.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk
 could have been named "falsehoods about usernames (and other identifiers)".
-- [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom) - There
-are a few things about /dev/urandom and /dev/random that are repeated again and
+- [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There
+are a few things about `/dev/urandom` and `/dev/random` that are repeated again and
 again. Still they are false.
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions
 about caches often lead to false assertions, especially when it comes to
