@@ -1,6 +1,6 @@
 # 😱 Awesome Falsehood [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome falsehoods programmers believe in.
+**A curated list of falsehoods programmers believe in.**
 
 > *The logic of the world is prior to all truth and falsehood.*
 >
