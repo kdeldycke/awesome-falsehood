@@ -2,9 +2,8 @@
 
 **A curated list of falsehoods programmers believe in.**
 
-> *The logic of the world is prior to all truth and falsehood.*
->
-> <sub>— Ludwig Wittgenstein. [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961).</sub>
+The logic of the world is prior to all truth and falsehood.
+— Ludwig Wittgenstein<sup id="intro-quote-ref">[\[1\]](#intro-quote-def)</sup>
 
 *Falsehood* articles are a form of commentary on a particular subject, and are
 appreciated by the developer community at large for their effectiveness and
@@ -334,11 +333,11 @@ Your contributions are always welcome! Please take a look at the
 [contribution guidelines](CONTRIBUTING.md) first.
 
 
-## License
+## License & Credits
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
-
-To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
+- [![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+  Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+  To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.
+
+- <a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
