@@ -2,8 +2,10 @@
 
 **A curated list of falsehoods programmers believe in.**
 
-The logic of the world is prior to all truth and falsehood.
-— Ludwig Wittgenstein<sup id="intro-quote-ref">[\[1\]](#intro-quote-def)</sup>
+<p align="center">
+  <i>The logic of the world is prior to all truth and falsehood.</i><br>
+  — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
+</p>
 
 
 ## Foreword
