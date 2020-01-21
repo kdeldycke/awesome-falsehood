@@ -131,6 +131,7 @@ historical dates can be re-interpreted by newer versions of software.
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A
 list of things (not only) computer science students tend to erroneously and at
 times surprisingly believe even though they (probably) should know better.
+- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `Lots of things are said, written and believed about postdoctoral researchers that are simply not true.`
 
 
 ## Emails
