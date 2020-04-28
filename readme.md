@@ -343,7 +343,7 @@ and lowercase text).
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
-[contribution guidelines](CONTRIBUTING.md) first.
+[contribution guidelines](contributing.md) first.
 
 
 ## License
