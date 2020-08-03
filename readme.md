@@ -23,6 +23,8 @@ subtleties.
 In a sense, *Falsehood* articles are a suite of wordy unit-tests covering
 extensive edge-cases provided by real-world usage.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ## Contents
 
@@ -44,6 +46,8 @@ extensive edge-cases provided by real-world usage.
 - [Society](#society)
 - [Software Engineering](#software-engineering)
 - [Typography](#typography)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## Meta
