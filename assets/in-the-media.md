@@ -1,6 +1,6 @@
 # Social Media Discussions
 
-Inventory occurences of discussions of this repository in social medias.
+Inventory occurrences of discussions of this repository in social medias.
 
 | Date | Media | Attention |
 |---|---|---|
