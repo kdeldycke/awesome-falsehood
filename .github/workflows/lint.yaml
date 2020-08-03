@@ -1,4 +1,4 @@
-name: Lint Awesome List
+name: Lint
 on:
   push:
   pull_request:
@@ -8,12 +8,22 @@ on:
 
 jobs:
 
-  lint:
-    name: Lint
+  lint-markdown:
+    name: Lint markdown
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+    - uses: actions/checkout@v2.3.1
+    - uses: avto-dev/markdown-lint@v1.3.1
+      with:
+        config: '.github/markdown-lint.yaml'
+        args: './**/*.md'
+
+  lint-awesome:
+    name: Lint Awesome list
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.3.1
         with:
           # Fetch all history to please linter's age checks.
           fetch-depth: 0
-      - uses: max/awesome-lint@master
+      - uses: max/awesome-lint@v2.0.0
