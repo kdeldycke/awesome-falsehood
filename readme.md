@@ -80,6 +80,7 @@ Bank Account Numbers are not immune to mistakes.
 are not simple or rational.
 - [Falsehoods About Cars](https://github.com/driveto/falsehoods-about-cars) - Even
 something as common as defining a car is full of pitfalls.
+- [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
 - [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) - Currency
 validity date ranges overlap due to revolts, invasions, new constitutions, and
 slow planned adoption.
