@@ -12,7 +12,7 @@ jobs:
     name: Lint markdown
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2.3.1
+    - uses: actions/checkout@v2.3.2
     - uses: avto-dev/markdown-lint@v1.3.1
       with:
         config: '.github/markdown-lint.yaml'
@@ -22,7 +22,7 @@ jobs:
     name: Lint Awesome list
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.3.1
+      - uses: actions/checkout@v2.3.2
         with:
           # Fetch all history to please linter's age checks.
           fetch-depth: 0
