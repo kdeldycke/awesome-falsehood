@@ -31,7 +31,7 @@ jobs:
         run: |
           gawk -i inplace '!/^- \[(Contribute|Contributing|Licence|License)\]\(#.+\)$/{print}' ./readme.md
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4.4.0
+        uses: stefanzweifel/git-auto-commit-action@v4.4.1
         with:
           commit_author: "Kevin Deldycke <kevin@deldycke.com>"
           commit_message: "[lint] Update TOC."
