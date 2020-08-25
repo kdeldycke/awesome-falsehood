@@ -319,8 +319,8 @@ your pagination algorithm is giving someone (possibly you) a headache.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not
 falsehoods *per-se*, but still a great list of good practices to implement
 autocompletion.
-- [`9999999999999999.0` - `9999999999999998.0`](http://geocar.sdf1.org/numbers.html) - A
-kind of falsehood on numbers, and floats vs decimals.
+- [Floating Point Math](https://0.30000000000000004.com) -
+  "Your language isn’t broken, it’s doing floating point math. (...) This is why, more often than not, `0.1 + 0.2 != 0.3`."
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why
 search (including analysis, tokenization, highlighting) is deceptively complex.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk
