@@ -1,10 +1,10 @@
 name: Autofix
 on:
   push:
-    # Only targets master default branch to avoid amplification effects of
+    # Only targets default branch to avoid amplification effects of
     # auto-fixing the exact same stuff in multiple non-rebased branches.
     branches:
-      - 'master'
+      - 'main'
   schedule:
     # Run linter every week to catch regressions from external dependencies.
     - cron: 17 9 * * 1
