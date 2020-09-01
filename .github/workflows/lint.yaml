@@ -26,4 +26,4 @@ jobs:
         with:
           # Fetch all history to please linter's age checks.
           fetch-depth: 0
-      - uses: max/awesome-lint@v2.0.0
+      - uses: npx awesome-lint
