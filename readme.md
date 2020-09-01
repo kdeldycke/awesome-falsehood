@@ -363,4 +363,7 @@ The [header image](./assets/awesome-falsehood-header.jpg) is based on a modified
 distributed under a [Creative Commons BY-SA 2.0 UK
 license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
-<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+
+## Footnotes
+
+* <a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
