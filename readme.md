@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-falsehood/">
-    <img src="./assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
+    <img src="https://github.com/kdeldycke/awesome-falsehood/blob/master/assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
   </a>
 </p>
 
@@ -344,4 +344,4 @@ license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 ## Footnotes
 
-- <a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
