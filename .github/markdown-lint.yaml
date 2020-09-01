@@ -8,6 +8,11 @@ MD013: false
 # Inline HTML <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md033>
 # is allowed for beautiful rendering on GitHub.
 MD033:
-  # Whitelist some elements for beautiful rendering on GitHub.
+  # Whitelist elements used to render centered images and footnotes on GitHub.
   allowed_elements:
+    - 'a'
+    - 'br'
+    - 'i'
     - 'img'
+    - 'p'
+    - 'sup'
