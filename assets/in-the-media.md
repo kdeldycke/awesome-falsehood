@@ -9,3 +9,4 @@ Inventory occurrences of discussions of this repository in social medias.
 | 2017-02-13 | [Hacker News](https://news.ycombinator.com/item?id=13637102) | Font page; 255 points; 118 comments. |
 | 2019-02-22 | [Reddit - `r/programming`](https://www.reddit.com/r/programming/comments/athzqf/awesomefalsehood_a_curated_list_of_falsehoods/) | 160 points; 113 comments. |
 | 2019-??-?? | [Hacker News](https://news.ycombinator.com/item?id=19215265) | 88 points; 9 comments. |
+| 2020-09-08 | [Hacker News](https://news.ycombinator.com/item?id=24405941) | 169 points; 123 comments. |
