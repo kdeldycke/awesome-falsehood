@@ -11,7 +11,6 @@ Inventory occurrences of discussions of this repository in social medias.
 | 2019-02-21 | [Hacker News](https://news.ycombinator.com/item?id=19215265) | 88 points; 9 comments. |
 | 2020-09-08 | [Hacker News](https://news.ycombinator.com/item?id=24405941) | 169 points; 123 comments. |
 
-
 ## Sources
 
 * [HN front page tracker](https://toddwschneider.com/dashboards/hacker-news-trends/?q=falsehoods+programmers+believe+in&f=title).
