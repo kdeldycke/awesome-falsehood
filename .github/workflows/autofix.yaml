@@ -18,7 +18,7 @@ jobs:
       - name: Install doctoc
         run: |
           sudo npm install -g doctoc
-      - uses: actions/checkout@v2.3.2
+      - uses: actions/checkout@v2.3.3
       - name: Generate full TOC
         run: |
           # Generates title as part of the TOC to avoid extra non-conform blank
@@ -41,7 +41,7 @@ jobs:
     name: Fix typos and create a PR
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.3.2
+      - uses: actions/checkout@v2.3.3
       - uses: sobolevn/misspell-fixer-action@0.1.0
       - uses: peter-evans/create-pull-request@v3
         with:
