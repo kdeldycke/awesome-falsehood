@@ -71,7 +71,7 @@ prices, currencies and inventory.
 - [Falsehoods About Prices](https://gist.github.com/rgs/6509585) - Covers
 currencies, amounts and localization.
 - [Falsehoods About IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International
-Bank Account Numbers are not immune to mistakes.
+Bank Account Numbers are not international.
 - [Falsehoods About Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics
 are not simple or rational.
 - [Falsehoods About Cars](https://github.com/driveto/falsehoods-about-cars) - Even
