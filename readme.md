@@ -124,6 +124,7 @@ the leap second!
 Stack Overflow answer about both complicated historical timezones, and how
 historical dates can be re-interpreted by newer versions of software.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - From Y2K to the overflow of 32-bit seconds from unix epoch, a list of special date to watch for depending on the system.
+- [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 
 ## Education
 
