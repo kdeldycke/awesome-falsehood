@@ -1,5 +1,6 @@
+---
 name: Autofix
-on:
+"on":
   push:
     # Only targets default branch to avoid amplification effects of
     # auto-fixing the exact same stuff in multiple non-rebased branches.
@@ -27,9 +28,11 @@ jobs:
           # https://github.com/thlorenz/doctoc/pull/145
           doctoc --github --title "## Contents" readme.md
       - name: Remove forbidden special TOC entries
-        # See: https://github.com/sindresorhus/awesome-lint/blob/v0.16.0/rules/toc.js#L15-L18
-        run: |
-          gawk -i inplace '!/^- \[(Contributing|Footnotes)\]\(#.+\)$/{print}' ./readme.md
+        # See: https://github.com/sindresorhus/awesome-lint/blob/v0.16.0/rules
+        # /toc.js#L15-L18
+        run: >
+          gawk -i inplace '!/^- \[(Contributing|Footnotes)\]\(#.+\)$/{print}'
+          ./readme.md
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4.7.1
         with:

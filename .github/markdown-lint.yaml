@@ -1,11 +1,15 @@
-# See example at: https://github.com/avto-dev/markdown-lint/blob/master/lint/config/changelog.yml
-
-# Line length <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md013>
+# See example at:
+# https://github.com/avto-dev/markdown-lint/blob/master/lint/config
+# /changelog.yml
+---
+# Line length
+# https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md013
 # XXX Temporary disabled because of line continuation edge-case. See:
 # https://github.com/DavidAnson/markdownlint/issues/302
 MD013: false
 
-# Inline HTML <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md033>
+# Inline HTML
+# https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md033
 # is allowed for beautiful rendering on GitHub.
 MD033:
   # Whitelist elements used to render centered images and footnotes on GitHub.
