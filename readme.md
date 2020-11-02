@@ -339,4 +339,5 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 distributed under a [Creative Commons BY-SA 2.0 UK
 license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
+<!--lint disable no-undefined-references-->
 <a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
