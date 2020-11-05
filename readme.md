@@ -148,6 +148,7 @@ of edge-case email addresses and why you should not use regex to parse them.
 on places, their names and locations.
 - [Falsehoods About Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers
 coordinates, projection and GIS.
+- [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - A guide for geospatial practitionners oin diagnosing and fixing common issues with coordinate systems.
 
 ## Human Identity
 
