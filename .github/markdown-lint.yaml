@@ -2,6 +2,7 @@
 # https://github.com/avto-dev/markdown-lint/blob/master/lint/config
 # /changelog.yml
 ---
+
 # Line length
 # https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md013
 # XXX Temporary disabled because of line continuation edge-case. See:
@@ -19,4 +20,10 @@ MD033:
     - 'i'
     - 'img'
     - 'p'
+    - 'strong'
     - 'sup'
+
+# First line in file should be a top level heading
+# https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md041
+# Our header image is replacing the title.
+MD041: false
