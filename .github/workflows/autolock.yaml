@@ -9,7 +9,7 @@ name: Autolock
 
 jobs:
   lock:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: dessant/lock-threads@v2.0.1
         with:

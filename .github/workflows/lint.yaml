@@ -11,7 +11,7 @@ jobs:
 
   lint-markdown:
     name: Lint markdown
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2.3.4
       - uses: avto-dev/markdown-lint@v1.4.0
@@ -21,7 +21,7 @@ jobs:
 
   lint-awesome:
     name: Lint Awesome list
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2.3.4
         with:
@@ -33,7 +33,7 @@ jobs:
 
   lint-yaml:
     name: Lint YAML files
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2.3.4
       - uses: actions/setup-python@v2.1.4
