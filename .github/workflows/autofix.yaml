@@ -22,11 +22,7 @@ jobs:
       - uses: actions/checkout@v2.3.4
       - name: Generate full TOC
         run: |
-          # Generates title as part of the TOC to avoid extra non-conform blank
-          # lines. See:
-          # https://github.com/thlorenz/doctoc/issues/101
-          # https://github.com/thlorenz/doctoc/pull/145
-          doctoc --github --title "## Contents" readme.md
+          doctoc --github readme.md
       - name: Remove forbidden special TOC entries
         # See: https://github.com/sindresorhus/awesome-lint/blob/v0.16.0/rules
         # /toc.js#L15-L18
