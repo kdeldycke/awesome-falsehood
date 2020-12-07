@@ -61,7 +61,7 @@ falsehoods are also welcome in this page.
 
 Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
-No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-management/tree/main/.github/workflows).
+No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-falsehood/tree/main/.github/workflows).
 
 To run the linter locally, do:
 
