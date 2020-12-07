@@ -23,6 +23,8 @@ In a sense, *Falsehood* articles are a suite of wordy unit-tests covering extens
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 - [Meta](#meta)
 - [Arts](#arts)
 - [Business](#business)
