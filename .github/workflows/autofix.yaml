@@ -12,14 +12,14 @@ name: Autofix
 
 jobs:
 
-  toc:
-    name: Generator TOC and auto-commit
+  markdown:
+    name: Format markdown, update TOC and create a PR
     runs-on: ubuntu-20.04
     steps:
+      - uses: actions/checkout@v2.3.4
       - name: Install doctoc
         run: |
           sudo npm install -g doctoc
-      - uses: actions/checkout@v2.3.4
       - name: Generate full TOC
         run: |
           doctoc --github readme.md
@@ -29,19 +29,6 @@ jobs:
         run: >
           gawk -i inplace '!/^- \[(Contributing|Footnotes)\]\(#.+\)$/{print}'
           ./readme.md
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4.7.2
-        with:
-          commit_author: "Kevin Deldycke <kevin@deldycke.com>"
-          commit_message: "[lint] Update TOC."
-          file_pattern: readme.md
-
-  markdown:
-    name: Format markdown and create a PR
-    needs: toc
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2.3.4
       - name: Install Pandoc
         run: |
           sudo apt install pandoc
