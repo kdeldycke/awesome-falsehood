@@ -1,10 +1,3 @@
----
-name: <CHANGE ISSUE TITLE HERE>
-about: Add new link or fix content
-title: ''
-labels: ''
-assignees: 'kdeldycke'
----
 
 #### Preliminary checks
 
