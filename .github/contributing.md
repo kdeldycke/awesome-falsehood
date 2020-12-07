@@ -2,7 +2,6 @@
 
 Your contributions are always welcome! Here are some guidelines.
 
-
 ## Good Candidates
 
 Before contributing, make sure the new link you'd like to add is a good
@@ -10,7 +9,6 @@ candidate.
 
 Here is a non-restrictive list of items which are good candidates for inclusion
 in this awesome list.
-
 
 ### Falsehood Articles
 
@@ -35,7 +33,6 @@ frustrations. This is the sign of a great candidate for that list!
 Articles featuring items that are applicable to one product (or a service) and
 one only can't be considered as generic enough and should be avoided.
 
-
 ### Libraries
 
 Programming libraries or modules are good candidates too, if they solve or
@@ -43,75 +40,109 @@ reduce the complexities pointed to by the *falsehood* articles above.
 
 That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
-
 ### Data Structures
 
 Data models and structures generic enough to cover and address most of the
 falsehoods are also welcome in this page.
 
-
 ## Pull-Request and Issue
 
-- Search past and current issues and pull-requests for previous suggestions
-before making a new one, as yours may be a duplicate or a work in progress.
+- Search past and current issues and pull-requests for previous suggestions before making a new one, as yours may be a duplicate or a work in progress.
 
 - Only one list item per commit.
 
-- Only one commit per pull-request. Always squash commits after applying
-  changes.
+- Only one commit per pull-request. Always squash commits after applying changes.
 
 - Check your spelling and grammar.
+
+- Add the reason why the linked resource is awesome. And what it adds to existing content.
+
+## Linting
+
+Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
+
+No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-management/tree/main/.github/workflows).
+
+To run the linter locally, do:
+
+```shell-session
+$ npm i npx
+$ npx awesome-lint
+```
+
+## Formatting
+
+Additional rules not covered by `awesome-lint`, to keep the content clean and tidy.
+
+If one of these rule conflict with the linter, the linter's rule should takes precedence. Apply it.
+
+### General content
 
 - Remove any trailing whitespaces.
 
 - Use spaces, no tabs, for indention.
 
-- Send a pull-request with the reason why the linked resource is awesome.
+- Apostrophes should be using the single ASCII mark: `'`.
 
+- Try to quote the original content as-is to summarize the point of the linked content.
 
-## Linting
+- If a straight quote doesn't cut it, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization, yes, but also by smart editorializing. As long as you respect the spirit of the original content it's OK.
 
-First and foremost, have your pull-request pass the [official Awesome List's
-linter](https://github.com/sindresorhus/awesome-lint). No extra work is
-required here as it is [already integrated by the way of GitHub
-actions](https://github.com/kdeldycke/awesome-falsehood/tree/main/.github/workflows).
+### Sections
 
-To run the linter locally, do:
+- Sections are in alphabetical order, as all topics are independent from each others.
 
-```
-$ npm install --global awesome-lint
-$ awesome-lint
-```
+- Section might feature one paragraph introduction and a figure (graph, drawing, photo).
 
+### Item title
 
-## Additional rules
-
-Here are some formatting style not enforced by the linter (yet), which are
-specific to this awesome list.
-
-- Cut long lines of text after 80 characters. Only exception is to let Markdown
-content be properly rendered.
-
-- If one of these rule conflict with the linter, the linter's rule should takes
-precedence. Apply it.
-
-
-## List items
-
-- Link title must be [title-cased](http://titlecapitalization.com), AP style.
-
-- Link title must be stripped out of the "*Programmers believe*" part to keep
-it compact (we all know the scheme).
+- Link title must be stripped out of the "*Programmers believe*" part to keep it compact.
 
 - URL must use HTTPs protocol if available.
 
-- Keep descriptions concise, maximum number of characters is 350.
+- No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 
+- To quote, use either the single or double variations: `'` and `"`. Keep them properly balanced.
 
-## Sections
+### Item description
 
-- Sections must be alphabetically sorted.
+- Quotes should be properly delimited with the `“` and `”` curved quotation marks.
 
-- Add a section if needed.
+- You can reduce the original text by using an ellipsis in parenthesis `(…)`.
 
-- Eventually add a description to the section.
+- For quoting inside a quote, use single or double `'` and `"` ASCII marks. Keep them properly balanced.
+
+- To serialize a list into a description, use the following format:
+
+  > This is my own description. Here is a list quoted from the original content about **“a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** This makes sense right?
+
+  This provides visual anchor points that help readability and quick content scanning.
+
+  - You can skip some items from the original list and renumber it.
+
+  - You shouldn't have to re-order it though.
+
+- An additional link in the description is allowed. This must be limited to some rare cases. Like pointing to a bigger concept, an acronym definition, or reference material (book, biography, …).
+
+### CLI helpers
+
+One-liners to fix-up some common formatting mistakes. Use with great caution and always double-check and edit the results.
+
+- Replaces star list item markers by dashes:
+
+  ```shell-session
+  $ sed -i 's/^* /- /g' ./README.md
+  ```
+
+- Replaces typographic quotes with ASCII ones:
+
+  ```shell-session
+  $ sed -i "s/‘/\'/g" ./readme.md
+  $ sed -i "s/’/\'/g" ./readme.md
+  ```
+
+- Forces quotes to end with a dot:
+
+  ```shell-session
+  $ sed -i 's/`$/`\./g' ./readme.md
+  ```
