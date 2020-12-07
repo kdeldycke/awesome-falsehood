@@ -24,8 +24,29 @@ extensive edge-cases provided by real-world usage.
 
 ## Contents
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Meta](#meta)
+- [Arts](#arts)
+- [Business](#business)
+- [Dates and Time](#dates-and-time)
+- [Education](#education)
+- [Emails](#emails)
+- [Geography](#geography)
+- [Human Identity](#human-identity)
+- [Internationalization](#internationalization)
+- [Management](#management)
+- [Multimedia](#multimedia)
+- [Networks](#networks)
+- [Phone Numbers](#phone-numbers)
+- [Postal Addresses](#postal-addresses)
+- [Science](#science)
+- [Society](#society)
+- [Software Engineering](#software-engineering)
+- [Typography](#typography)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Meta
 
