@@ -1,5 +1,5 @@
 ---
-name: <CHANGE ISSUE TITLE HERE>
+name: New issue
 about: Add new link or fix content
 title: ''
 labels: ''
