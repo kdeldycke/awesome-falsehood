@@ -12,6 +12,7 @@ Inventory occurrences of discussions of this repository in social medias.
 | 2020-03-25 | [Patrick McKenzie's greatest hits](https://www.kalzumeus.com/greatest-hits/) | [Archive](https://web.archive.org/web/20200325233426/https://www.kalzumeus.com/greatest-hits/) |
 | 2020-09-08 | [Hacker News](https://news.ycombinator.com/item?id=24405941) | 169 points; 123 comments. |
 | 2020-10-21 | [Cory Doctorow's daily links](https://pluralistic.net/2020/10/21/each-drop-of-strych-a-nine/#a-sort-of-runic-rhyme) | [Tweet](https://twitter.com/kdeldycke/status/1319587008768020480) |
+| 2021-01-05 | [Proportions between GitHub stars and forks](https://gh.clickhouse.tech/explorer/#proportions-between-stars-and-forks) | Position #34 of repositories with the best stars/forks ratio (411 / 15675 = 38.14) |
 
 ## Sources
 
