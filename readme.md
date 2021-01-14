@@ -179,6 +179,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 - [Falsehoods About Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) - Designing election systems has its own tricks.
 - [Falsehoods About Women In Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women in STEM (Science, Technology, Engineering, Math) industries.
+- [Falsehoods About Presidential Impeachments](https://twitter.com/mountain_ghosts/status/1349510981806936065) - This is no question of true or false.
 
 ## Software Engineering
 
