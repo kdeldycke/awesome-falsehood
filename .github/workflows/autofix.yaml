@@ -37,7 +37,7 @@ jobs:
           pandoc ./readme.md --from=gfm --to=gfm --output=./readme.md
           --columns=79 --wrap=none --tab-stop=2
       - name: Auto-fix Markdown
-        uses: avto-dev/markdown-lint@v1.4.0
+        uses: avto-dev/markdown-lint@v1.5.0
         # Non-fixable markdown issues will return non-zero error code. Allow
         # that step to fail so we can proceed with creating the auto-fix PR
         # below.
