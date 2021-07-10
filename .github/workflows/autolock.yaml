@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: dessant/lock-threads@v2.1.1
         with:
-          github-token: ${{ github.token }}
           # Lock down after 3 months.
           issue-lock-inactive-days: '90'
           issue-lock-reason: 'resolved'
