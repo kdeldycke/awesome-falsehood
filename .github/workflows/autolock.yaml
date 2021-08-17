@@ -11,7 +11,7 @@ jobs:
   lock:
     runs-on: ubuntu-20.04
     steps:
-      - uses: dessant/lock-threads@v2.1.1
+      - uses: dessant/lock-threads@v2.1.2
         with:
           # Lock down after 3 months.
           issue-lock-inactive-days: '90'
