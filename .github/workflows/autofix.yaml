@@ -46,7 +46,7 @@ jobs:
           config: '.github/markdown-lint.yaml'
           args: './**/*.md'
           fix: true
-      - uses: peter-evans/create-pull-request@v3.10.0
+      - uses: peter-evans/create-pull-request@v3.10.1
         with:
           author: "Kevin Deldycke <kevin@deldycke.com>"
           commit-message: "[autofix] Format Markdown"
@@ -73,7 +73,7 @@ jobs:
         run: >
           find ./ -type f -name '*.json' -print -exec
           jsonlint --in-place "{}" \;
-      - uses: peter-evans/create-pull-request@v3.10.0
+      - uses: peter-evans/create-pull-request@v3.10.1
         with:
           author: "Kevin Deldycke <kevin@deldycke.com>"
           commit-message: "[autofix] Format JSON content"
@@ -94,7 +94,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2.3.4
       - uses: sobolevn/misspell-fixer-action@0.1.0
-      - uses: peter-evans/create-pull-request@v3.10.0
+      - uses: peter-evans/create-pull-request@v3.10.1
         with:
           author: "Kevin Deldycke <kevin@deldycke.com>"
           commit-message: "[autofix] Typo"
@@ -119,7 +119,7 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
-      - uses: peter-evans/create-pull-request@v3.10.0
+      - uses: peter-evans/create-pull-request@v3.10.1
         with:
           author: "Kevin Deldycke <kevin@deldycke.com>"
           commit-message: "[autofix] Optimize images"
