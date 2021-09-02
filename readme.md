@@ -104,7 +104,7 @@ In a sense, *Falsehood* articles are a suite of wordy unit-tests covering extens
 
 - [Falsehoods about Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - Takes on places, their names and locations.
 - [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
-- [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - A guide for geospatial practitionners oin diagnosing and fixing common issues with coordinate systems.
+- [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - A guide for geospatial practitioners on diagnosing and fixing common issues with coordinate systems.
 - [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
 
 ## Human Identity
