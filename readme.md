@@ -43,6 +43,7 @@ In a sense, *Falsehood* articles are a suite of wordy unit-tests covering extens
 - [Society](#society)
 - [Software Engineering](#software-engineering)
 - [Typography](#typography)
+- [Video Games](#video-games)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -208,6 +209,10 @@ On character encoding, string formatting, unicode and internationalization.
 
 - [Falsehoods about Fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
+
+## Video Games
+
+- [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) - All the things you have not considered implementing for your doors in games.
 
 ## Contributing
 
