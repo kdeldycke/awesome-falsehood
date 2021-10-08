@@ -11,18 +11,16 @@ jobs:
   lock:
     runs-on: ubuntu-20.04
     steps:
-      - uses: dessant/lock-threads@v2.1.2
+      - uses: dessant/lock-threads@v3.0.0
         with:
           # Lock down after 3 months.
-          issue-lock-inactive-days: '90'
-          issue-lock-reason: 'resolved'
-          issue-lock-comment: >
+          issue-inactive-days: '90'
+          issue-comment: >
             This issue has been automatically locked since there
             has not been any recent activity after it was closed.
             Please open a new issue for related bugs.
-          pr-lock-inactive-days: '90'
-          pr-lock-reason: 'resolved'
-          pr-lock-comment: >
+          pr-inactive-days: '90'
+          pr-comment: >
             This pull request has been automatically locked since there
             has not been any recent activity after it was closed.
             Please open a new issue for related bugs.
