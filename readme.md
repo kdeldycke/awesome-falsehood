@@ -13,21 +13,11 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-*Falsehood* articles are a form of commentary on a particular subject, and are appreciated by the developer community at large for their effectiveness and terseness. They're a convenient written form to approach an unfamiliar domain by dispelling myths, point out common pitfalls, show inconsistencies and subtleties.
+A *falsehood* is an ***idea* that you initially believe was true**, but in-reality it is **proven to be false**.
 
-In a sense, *Falsehood* articles are a suite of wordy unit-tests covering extensive edge-cases provided by real-world usage.
+E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails [can have multiple `@` chars](#emails). Therefore youy implementation should allow this. The initial *idea* is the a falsehood you believed in.
 
-<details>
-  <summary> 
-    <strong>TL;DR version</strong> <sub>(Click To Expand)</sub>
-  </summary>
-  
-  > A "falsehood" is an **"idea" that you initially believe was true**, but in-reality it is **proven to be false**. 
-  > 
-  > E.g. "**Idea:** Valid email address exactly has one `@` character, right? I will use this rule to implement my email-field validation logic. **Reality:** False! Emails [can have multiple `@` chars](#emails), therefore my implementation should allow this.". 
-  > 
-  > These listed articles will have a comprehensive list of those false-beliefs that you should be aware of, to help you become a better programmer.
-</details>
+The *falsehood* articles listed below will have a comprehensive list of those false-beliefs that you should be aware of, to help you become a better programmer.
 
 ## Contents
 

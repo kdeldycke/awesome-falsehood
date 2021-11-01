@@ -12,23 +12,24 @@ in this awesome list.
 
 ### Falsehood Articles
 
-Articles following the *falsehood* scheme are prime candidates for inclusion in
+Articles following the *falsehood* schema are prime candidates for inclusion in
 this awesome list.
 
-These articles starts with the hypothesis that developers have a naive, simple
-view of the subject at hand. Then proceed to list a set of candid assumptions
-that might be held by the programmers. Each one is intentionally false, and
-in their best form illustrated by a counter-example.
+These articles starts with the hypothesis that developers have a naive and
+simple view of a domain. Then proceed to list a set of candid assumptions that
+might be held by programmers. Each one is intentionally false, and in their
+best form are illustrated with a counter-example.
 
 A list of falsehood is crafted as a progression that is designed to refine
 concepts. Having read the whole list of falsehood, the reader should possess a
-global, if not complete, overview of the domain being targeted by the article,
-including most, if not all, its pitfalls, edges-cases and inconsistencies.
+better overview of a domain while dispelling its myths, point out common
+pitfalls and demonstrate its subtleties.
 
-Sometimes, these kind of articles might provoke an emotional reaction and cause
-flipping table. `(╯°□°)╯︵ ┻━┻` Because, the world is messy. Discovering the
-complexity of a domain that is simple in appearance will lead to
-frustrations. This is the sign of a great candidate for that list!
+*falsehood* articles are, in a sense, a suite of wordy unit-tests covering
+extensive edge-cases provided by real-world usage. The world is messy.
+Discovering a domain to be much more complex than anticipated will lead to
+frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a
+great candidate for that list!
 
 Articles featuring items that are applicable to one product (or a service) and
 one only can't be considered as generic enough and should be avoided.
@@ -36,7 +37,7 @@ one only can't be considered as generic enough and should be avoided.
 ### Libraries
 
 Programming libraries or modules are good candidates too, if they solve or
-reduce the complexities pointed to by the *falsehood* articles above.
+reduce the complexities pointed to by *falsehood* articles above.
 
 That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
