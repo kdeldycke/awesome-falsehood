@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2.4.0
-      - uses: actions/setup-python@v2.3.1
+      - uses: actions/setup-python@v3
       - name: Install linter
         run: |
           python -m pip install --upgrade pip
