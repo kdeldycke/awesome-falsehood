@@ -1,4 +1,5 @@
-# https://docs.github.com/en/github/administering-a-repository/configuration-options-for-dependency-updates
+# https://docs.github.com/en/github/administering-a-repository
+# /configuration-options-for-dependency-updates
 ---
 version: 2
 updates:
@@ -8,6 +9,6 @@ updates:
     schedule:
       interval: "daily"
     labels:
-      - "CI/CD"
+      - "📦 dependencies"
     assignees:
       - "kdeldycke"

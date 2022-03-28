@@ -1,5 +1,3 @@
-# Locks closed issues and pull requests after a period of inactivity, to
-# prevent spam and noise.
 ---
 name: Autolock
 "on":
@@ -8,19 +6,6 @@ name: Autolock
     - cron: "43 8 * * 1"
 
 jobs:
-  lock:
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: dessant/lock-threads@v3.0.0
-        with:
-          # Lock down after 3 months.
-          issue-inactive-days: '90'
-          issue-comment: >
-            This issue has been automatically locked since there
-            has not been any recent activity after it was closed.
-            Please open a new issue for related bugs.
-          pr-inactive-days: '90'
-          pr-comment: >
-            This pull request has been automatically locked since there
-            has not been any recent activity after it was closed.
-            Please open a new issue for related bugs.
+
+  autolock:
+    uses: kdeldycke/workflows/.github/workflows/autolock.yaml@v0.9.1

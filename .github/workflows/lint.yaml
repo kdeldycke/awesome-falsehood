@@ -2,10 +2,12 @@
 name: Lint
 "on":
   push:
-  pull_request:
-  schedule:
-    # Run linter every week to catch regressions from external dependencies.
-    - cron: 17 9 * * 1
+
+jobs:
+
+  lint:
+    uses: kdeldycke/workflows/.github/workflows/lint.yaml@v0.9.1
+
 
 jobs:
 
@@ -30,17 +32,3 @@ jobs:
       - run: |
           npx awesome-lint --version
           npx awesome-lint
-
-  lint-yaml:
-    name: Lint YAML files
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2.4.0
-      - uses: actions/setup-python@v2.3.1
-      - name: Install linter
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install yamllint
-      - name: Lint
-        run: |
-          yamllint .

@@ -1,0 +1,14 @@
+---
+name: Label sponsors
+"on":
+  pull_request:
+    types:
+      - opened
+  issues:
+    types:
+      - opened
+
+jobs:
+
+  label-sponsors:
+    uses: kdeldycke/workflows/.github/workflows/label-sponsors.yaml@v0.9.1

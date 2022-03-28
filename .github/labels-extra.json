@@ -1,0 +1,22 @@
+[
+  {
+    "name": "curation",
+    "color": "#d73a4a",
+    "description": "Links or structure needs to be refined"
+  },
+  {
+    "name": "new link",
+    "color": "#fbca04",
+    "description": "A link worth adding to the list"
+  },
+  {
+    "name": "fix link",
+    "color": "#d4c5f9",
+    "description": "Existing link need to be updated"
+  },
+  {
+    "name": "typo",
+    "color": "#fef2c0",
+    "description": "Tiny, obvious fix"
+  }
+]
