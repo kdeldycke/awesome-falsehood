@@ -16,7 +16,7 @@ jobs:
     name: Format markdown, update TOC and create a PR
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2.4.0
+      - uses: actions/checkout@v3
       - name: Install doctoc
         run: |
           sudo npm install -g doctoc
@@ -65,7 +65,7 @@ jobs:
     name: Format JSON files and create a PR
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2.4.0
+      - uses: actions/checkout@v3
       - name: Install linter
         run: |
           sudo npm install jsonlint -g
@@ -92,7 +92,7 @@ jobs:
     name: Fix typos and create a PR
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2.4.0
+      - uses: actions/checkout@v3
       - uses: sobolevn/misspell-fixer-action@0.1.0
       - uses: peter-evans/create-pull-request@v3.12.0
         with:
@@ -113,7 +113,7 @@ jobs:
     name: Optimize images
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2.4.0
+      - uses: actions/checkout@v3
       - uses: calibreapp/image-actions@1.1.0
         id: image_actions
         with:
