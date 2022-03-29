@@ -46,7 +46,7 @@ jobs:
           config: '.github/markdown-lint.yaml'
           args: './**/*.md'
           fix: true
-      - uses: peter-evans/create-pull-request@v3.12.0
+      - uses: peter-evans/create-pull-request@v4
         with:
           author: "Kevin Deldycke <kevin@deldycke.com>"
           commit-message: "[autofix] Format Markdown"
@@ -73,7 +73,7 @@ jobs:
         run: >
           find ./ -type f -name '*.json' -print -exec
           jsonlint --in-place "{}" \;
-      - uses: peter-evans/create-pull-request@v3.12.0
+      - uses: peter-evans/create-pull-request@v4
         with:
           author: "Kevin Deldycke <kevin@deldycke.com>"
           commit-message: "[autofix] Format JSON content"
