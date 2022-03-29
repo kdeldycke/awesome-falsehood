@@ -8,9 +8,6 @@ jobs:
   lint:
     uses: kdeldycke/workflows/.github/workflows/lint.yaml@v0.9.1
 
-
-jobs:
-
   lint-markdown:
     name: Lint markdown
     runs-on: ubuntu-20.04
