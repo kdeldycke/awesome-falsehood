@@ -13,10 +13,5 @@
     "name": "fix link",
     "color": "#d4c5f9",
     "description": "Existing link need to be updated"
-  },
-  {
-    "name": "typo",
-    "color": "#fef2c0",
-    "description": "Tiny, obvious fix"
   }
 ]
