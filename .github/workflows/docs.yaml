@@ -1,0 +1,13 @@
+---
+name: Docs
+"on":
+  push:
+    # Only targets main branch to avoid amplification effects of auto-fixing
+    # the exact same stuff in multiple non-rebased branches.
+    branches:
+      - main
+
+jobs:
+
+  docs:
+    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v1.0.0
