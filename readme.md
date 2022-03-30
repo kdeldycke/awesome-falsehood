@@ -19,7 +19,7 @@ E.g. of an *idea*: valid email address exactly has one `@` character. So, you wi
 
 The *falsehood* articles listed below will have a comprehensive list of those false-beliefs that you should be aware of, to help you become a better programmer.
 
-## Contents<a name="contents"></a>
+## Contents
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
@@ -46,18 +46,18 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 <!-- mdformat-toc end -->
 
-## Meta<a name="meta"></a>
+## Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A brief list of common falsehoods. A great overview and quick introduction into the world of falsehoods.
 - [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - A humbling and fun list on programming and programmers themselves.
 - [Falsehoods about Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) - Meta commentary on how these falsehoods shouldn't be handled.
 
-## Arts<a name="arts"></a>
+## Arts
 
 - [Falsehoods about Music](https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html) - False assumption that might be made in codifying music.
 - [Falsehoods about Art](http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/) - Common misconceptions about art.
 
-## Business<a name="business"></a>
+## Business
 
 - [Falsehoods about Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - Covers prices, currencies and inventory.
 - [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
@@ -70,7 +70,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 - [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management library.
 
-## Dates and Time<a name="dates-and-time"></a>
+## Dates and Time
 
 - [Falsehoods about Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Seminal article on dates and time.
 - [More Falsehoods about Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) - Part. 2 of the article above.
@@ -93,25 +93,25 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - From Y2K to the overflow of 32-bit seconds from unix epoch, a list of special date to watch for depending on the system.
 
-## Education<a name="education"></a>
+## Education
 
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - A list of things (not only) computer science students tend to erroneously and at times surprisingly believe even though they (probably) should know better.
 - [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `Lots of things are said, written and believed about postdoctoral researchers that are simply not true.`.
 
-## Emails<a name="emails"></a>
+## Emails
 
 - [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - Provides intricate examples that are unsuspected valid email addresses according the RFC-822.
 - [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - Presentation of edge-case email addresses and why you should not use regex to parse them.
 - [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html) - A summary of the various, surprising things that are allowed in an email address.
 
-## Geography<a name="geography"></a>
+## Geography
 
 - [Falsehoods about Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - Takes on places, their names and locations.
 - [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - A guide for geospatial practitioners on diagnosing and fixing common issues with coordinate systems.
 - [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
 
-## Human Identity<a name="human-identity"></a>
+## Human Identity
 
 - [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - The article that started it all.
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - A revisited version of the article above, this time with detailed explanations.
@@ -127,7 +127,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - A flexible data model for representing human names.
 - [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) - Localized representations of the components of a person's name.
 
-## Internationalization<a name="internationalization"></a>
+## Internationalization
 
 On character encoding, string formatting, unicode and internationalization.
 
@@ -143,15 +143,15 @@ On character encoding, string formatting, unicode and internationalization.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
-## Management<a name="management"></a>
+## Management
 
 - [Falsehoods about Job Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) - Assumptions about job applicants and their job histories aren't necessarily true.
 
-## Multimedia<a name="multimedia"></a>
+## Multimedia
 
 - [Falsehoods about Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover it all: video decoding and playback, files, image scaling, color spaces and conversion, displays and subtitles.
 
-## Networks<a name="networks"></a>
+## Networks
 
 - [Falsehoods about Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - Assumptions that programmers new to distributed applications invariably make.
@@ -159,12 +159,12 @@ On character encoding, string formatting, unicode and internationalization.
 - [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - There's a lot of components in an URL, and all have their own logic.
 - [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - An attempt to validate hostnames in Python.
 
-## Phone Numbers<a name="phone-numbers"></a>
+## Phone Numbers
 
 - [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 - [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) and [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
-## Postal Addresses<a name="postal-addresses"></a>
+## Postal Addresses
 
 - [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
 - [Falsehoods about Residence](https://twitter.com/samphippen/status/813896916534784004) - It's not only about the address itself, but the relationship between a person and its residence.
@@ -177,16 +177,16 @@ On character encoding, string formatting, unicode and internationalization.
 - [`postal-address`](https://github.com/scaleway/postal-address) - Python module to parse, normalize and render postal addresses.
 - [`address`](https://github.com/Boostport/address) - Go library to validate and format addresses using Google's dataset.
 
-## Science<a name="science"></a>
+## Science
 
 - [Falsehoods about Systems of Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) - On working with systems of measurement and converting between them.
 
-## Society<a name="society"></a>
+## Society
 
 - [Falsehoods about Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) - Designing election systems has its own tricks.
 - [Falsehoods about Women In Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women in STEM (Science, Technology, Engineering, Math) industries.
 
-## Software Engineering<a name="software-engineering"></a>
+## Software Engineering
 
 - [Falsehoods about Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 - [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
@@ -209,20 +209,20 @@ On character encoding, string formatting, unicode and internationalization.
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - Norway's ISO country code is also valid YAML for False.
 
-## Typography<a name="typography"></a>
+## Typography
 
 - [Falsehoods about Fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
 
-## Video Games<a name="video-games"></a>
+## Video Games
 
 - [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) - All the things you have not considered implementing for your doors in games.
 
-## Contributing<a name="contributing"></a>
+## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
 
-## Footnotes<a name="footnotes"></a>
+## Footnotes
 
 The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) is based on a modified [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), distributed under a [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
