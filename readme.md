@@ -23,7 +23,6 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
-- [Contents](#contents)
 - [Meta](#meta)
 - [Arts](#arts)
 - [Business](#business)
