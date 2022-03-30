@@ -21,7 +21,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Contents<a name="contents"></a>
 
-<!-- mdformat-toc start --slug=github --maxlevel=6 --minlevel=2 -->
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
 - [Contents](#contents)
 - [Meta](#meta)
