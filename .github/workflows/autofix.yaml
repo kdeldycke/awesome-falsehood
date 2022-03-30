@@ -2,88 +2,12 @@
 name: Autofix
 "on":
   push:
-    # Only targets default branch to avoid amplification effects of
-    # auto-fixing the exact same stuff in multiple non-rebased branches.
+    # Only targets main branch to avoid amplification effects of auto-fixing
+    # the exact same stuff in multiple non-rebased branches.
     branches:
-      - 'main'
-  schedule:
-    # Run linter every week to catch regressions from external dependencies.
-    - cron: 17 9 * * 1
+      - main
 
 jobs:
 
-  markdown:
-    name: Format markdown, update TOC and create a PR
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v3
-      - name: Install doctoc
-        run: |
-          sudo npm install -g doctoc
-      - name: Generate full TOC
-        run: |
-          doctoc --github readme.md
-      - name: Remove forbidden special TOC entries
-        # See: https://github.com/sindresorhus/awesome-lint/blob/v0.16.0/rules
-        # /toc.js#L15-L18
-        run: >
-          gawk -i inplace '!/^- \[(Contributing|Footnotes)\]\(#.+\)$/{print}'
-          ./readme.md
-      - name: Install Pandoc
-        run: |
-          sudo apt install pandoc
-      - name: Auto-format to GitHub-Flavored Markdown
-        run: >
-          pandoc ./readme.md --from=gfm --to=gfm --output=./readme.md
-          --columns=79 --wrap=none --tab-stop=2
-      - name: Auto-fix Markdown
-        uses: avto-dev/markdown-lint@v1.5.0
-        # Non-fixable markdown issues will return non-zero error code. Allow
-        # that step to fail so we can proceed with creating the auto-fix PR
-        # below.
-        continue-on-error: true
-        with:
-          config: '.github/markdown-lint.yaml'
-          args: './**/*.md'
-          fix: true
-      - uses: peter-evans/create-pull-request@v3.12.0
-        with:
-          author: "Kevin Deldycke <kevin@deldycke.com>"
-          commit-message: "[autofix] Format Markdown"
-          title: "[autofix] Format Markdown"
-          body: >
-            [Auto-generated on run
-            #${{ github.run_id }}](https://github.com/${{ github.repository
-            }}/actions/runs/${{ github.run_id }}) as defined by [workflow
-            action](https://github.com/${{ github.repository
-            }}/blob/${{ github.base_ref }}/.github/workflows/autofix.yaml).
-          labels: "CI/CD"
-          assignees: kdeldycke
-          branch: format-markdown
-
-  json:
-    name: Format JSON files and create a PR
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v3
-      - name: Install linter
-        run: |
-          sudo npm install jsonlint -g
-      - name: Lint
-        run: >
-          find ./ -type f -name '*.json' -print -exec
-          jsonlint --in-place "{}" \;
-      - uses: peter-evans/create-pull-request@v3.12.0
-        with:
-          author: "Kevin Deldycke <kevin@deldycke.com>"
-          commit-message: "[autofix] Format JSON content"
-          title: "[autofix] Format JSON content"
-          body: >
-            [Auto-generated on run
-            #${{ github.run_id }}](https://github.com/${{ github.repository
-            }}/actions/runs/${{ github.run_id }}) as defined by [workflow
-            action](https://github.com/${{ github.repository
-            }}/blob/${{ github.base_ref }}/.github/workflows/autofix.yaml).
-          labels: "CI/CD"
-          assignees: kdeldycke
-          branch: format-json
+  autofix:
+    uses: kdeldycke/workflows/.github/workflows/autofix.yaml@v1.0.0

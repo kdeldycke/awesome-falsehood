@@ -15,39 +15,13 @@
 
 A *falsehood* is an ***idea* that you initially believe was true**, but in-reality it is **proven to be false**.
 
-E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong\! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
+E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
 The *falsehood* articles listed below will have a comprehensive list of those false-beliefs that you should be aware of, to help you become a better programmer.
 
 ## Contents
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [Meta](#meta)
-- [Arts](#arts)
-- [Business](#business)
-- [Dates and Time](#dates-and-time)
-- [Education](#education)
-- [Emails](#emails)
-- [Geography](#geography)
-- [Human Identity](#human-identity)
-- [Internationalization](#internationalization)
-- [Management](#management)
-- [Multimedia](#multimedia)
-- [Networks](#networks)
-- [Phone Numbers](#phone-numbers)
-- [Postal Addresses](#postal-addresses)
-- [Science](#science)
-- [Society](#society)
-- [Software Engineering](#software-engineering)
-- [Typography](#typography)
-- [Video Games](#video-games)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- mdformat-toc start --slug=github -->
 
 ## Meta
 

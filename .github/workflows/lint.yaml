@@ -6,26 +6,4 @@ name: Lint
 jobs:
 
   lint:
-    uses: kdeldycke/workflows/.github/workflows/lint.yaml@v0.9.1
-
-  lint-markdown:
-    name: Lint markdown
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v3
-      - uses: avto-dev/markdown-lint@v1.5.0
-        with:
-          config: '.github/markdown-lint.yaml'
-          args: './**/*.md'
-
-  lint-awesome:
-    name: Lint Awesome list
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          # Fetch all history to please linter's age checks.
-          fetch-depth: 0
-      - run: |
-          npx awesome-lint --version
-          npx awesome-lint
+    uses: kdeldycke/workflows/.github/workflows/lint.yaml@v1.0.0
