@@ -151,6 +151,8 @@ On character encoding, string formatting, unicode and internationalization.
 - [Falsehoods about Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover it all: video decoding and playback, files, image scaling, color spaces and conversion, displays and subtitles.
 - [Horrible edge cases to consider when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html) - Music catalogs data are full of crazy stuff.
 - [MusicBrainz database schema](https://musicbrainz.org/doc/MusicBrainz_Database/Schema) - An open-source project and database that seems to have solved the complexity of music catalog management.
+- [DDEX](https://ddex.net/standards/) - The industry standard for music metadata, including archiving, sound recording, sales and usage reporting, royalties and license deals.
+- [Apple Music Style Guide](https://help.apple.com/itc/musicstyleguide/en.lproj/static.html) - Quality insurance guidelines to format music, art, and metadata to increase discoverability.
 
 ## Networks
 
