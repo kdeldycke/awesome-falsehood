@@ -65,7 +65,9 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
 - [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - Airline seat maps are far more complex than just neat rows and columns of seats.
 - [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
+- [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/) - Same error as above at Google Ads, or the danger of separating your pennies from your dollars, were $250 internal coupons turned into $25,000. My advice: [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 - [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - Because [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made), a hacker leveraged them to register `\"><SCRIPT SRC=MJT.XSS.HT></SCRIPT> LTD`, but also `; DROP TABLE "COMPANIES";-- LTD`, `BETTS &AMP; TWINE LTD` and `SAFDASD & SFSAF \' SFDAASF\" LTD`.
+- [Minutiae of company names](https://twitter.com/nthnmsmth/status/1587880523124408322) - How the rules of the State of Delaware and the IRS does not intersects.
 - [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 - [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management library.
 
@@ -91,6 +93,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [How to choose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - Depends on your priorities between SI seconds, earth rotation sync, leap seconds avoidance.
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - From Y2K to the overflow of 32-bit seconds from Unix epoch, a list of special date to watch for depending on the system.
+- “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/?tag=kevideld-20).
 
 ## Education
 
@@ -207,12 +210,14 @@ On character encoding, string formatting, unicode and internationalization.
 - [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - Diversity of file-systems and OSes makes file paths a little harder than we might think of.
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There are a few things about `/dev/urandom` and `/dev/random` that are repeated again and again. Still they are false.
+- [Facts about State Machines](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named "falsehoods about usernames (and other identifiers)".
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part of a post on why file's `mtime` comparison could be considered harmful.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not falsehoods *per se*, but still a great list of good practices to implement autocompletion.
 - [Floating Point Math](https://0.30000000000000004.com) - "Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`."
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - Norway's ISO country code is also valid YAML for False.
+- [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - There are edge-cases even in tagging systems which are suposed to be barebone.
 
 ## Typography
 
