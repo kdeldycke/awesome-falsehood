@@ -211,7 +211,6 @@ On character encoding, string formatting, unicode and internationalization.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There are a few things about `/dev/urandom` and `/dev/random` that are repeated again and again. Still they are false.
 - [Facts about State Machines](https://github.com/cpressey/Facts-about-State-Machines) - State machines are often misunderstood and under-applied.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
-- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part of a post on why file's `mtime` comparison could be considered harmful.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not falsehoods *per se*, but still a great list of good practices to implement autocompletion.
 - [Floating Point Math](https://0.30000000000000004.com) - “Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`.”
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - Norway's ISO country code is also valid YAML for False.
