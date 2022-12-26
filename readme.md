@@ -213,8 +213,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Floating Point Math](https://0.30000000000000004.com) - "Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`."
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - Norway's ISO country code is also valid YAML for False.
-- [Falsehoods Programmers Believe About Quantum Technology](https://github.com/gottfriedsz/falsehoods-quantum/blob/main/README.md) - Common misconceptions about quantum technology and computers.
-
+- [Falsehoods about Quantum Technology](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
 
 ## Typography
 
