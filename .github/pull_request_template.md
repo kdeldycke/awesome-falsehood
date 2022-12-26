@@ -4,6 +4,14 @@
 - [ ] I applied all rules from the [Contributing guide](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md)
 - [ ] I have checked there is not other [Issues](https://github.com/kdeldycke/awesome-falsehood/issues) or [Pull Requests](https://github.com/kdeldycke/awesome-falsehood/pulls) covering the same topic to open
 
+#### Affiliation
+
+Please indicate how you are associated with the new proposed content:
+
+- [ ] I am the author of the article or project
+- [ ] I am working for/with the company which is publishing the article or project
+- [ ] I'm just a rando who stumbled upon this via social networks
+
 #### Summary
 
 <!-- You can skip this if you're proposing something as trivial as fixing a typo -->
