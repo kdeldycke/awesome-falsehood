@@ -75,7 +75,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 ## Cryptocurrency
 
 - [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
-- [Falsehoods that Ethereum programmers believe](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in Ethereum programming.
+- [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - Misconceptions and common pitfalls in contract programming.
 
 ## Dates and Time
 
