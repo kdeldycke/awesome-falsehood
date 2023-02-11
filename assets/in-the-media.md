@@ -14,6 +14,7 @@ Inventory occurrences of discussions of this repository in social medias.
 | 2020-10-21 | [Cory Doctorow's daily links](https://pluralistic.net/2020/10/21/each-drop-of-strych-a-nine/#a-sort-of-runic-rhyme)             | [Tweet](https://twitter.com/kdeldycke/status/1319587008768020480)                              |
 | 2021-01-05 | [Proportions between GitHub stars and forks](https://gh.clickhouse.tech/explorer/#proportions-between-stars-and-forks)          | Position #34 of repositories with the best stars/forks ratio (15675 / 411 = 38.14)             |
 | 2022-03-17 | [Hacker News](https://news.ycombinator.com/item?id=30710908)                                                                    | 119 points; 117 comments.                                                                      |
+| 2023-02-02 | [Cory Doctorow - Netflix wants to chop down your family tree](https://pluralistic.net/2023/02/02/nonbinary-families/#red-envelopes)                                                                    | [Tweet](https://twitter.com/kdeldycke/status/1624280046243311617), [Hacker News](https://news.ycombinator.com/item?id=34628182)                                                                           |
 
 ## Sources
 
