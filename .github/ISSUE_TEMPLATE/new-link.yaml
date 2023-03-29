@@ -1,5 +1,5 @@
 name: Add new link
-description:
+description: You would like to add a new link to the collection
 labels: ["🆕 new link"]
 body:
 
