@@ -10,7 +10,6 @@ Note: you can skip this section if you're proposing something as trivial as fixi
 
 This new link is special because...
 
-
 ### Affiliation
 
 <!-- Please indicate how you are associated with the new proposed content: -->
@@ -18,7 +17,6 @@ This new link is special because...
 - [ ] I am the author of the article or project
 - [ ] I am working for/with the company which is publishing the article or project
 - [ ] I'm just a rando who stumbled upon this via social networks
-
 
 ### Self checks
 
