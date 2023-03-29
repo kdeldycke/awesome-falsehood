@@ -13,7 +13,7 @@ This new link is special because...
 
 ### Affiliation
 
-Please indicate how you are associated with the new proposed content:
+<!-- Please indicate how you are associated with the new proposed content: -->
 
 - [ ] I am the author of the article or project
 - [ ] I am working for/with the company which is publishing the article or project
