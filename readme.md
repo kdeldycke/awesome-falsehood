@@ -9,9 +9,11 @@
 </p>
 
 <p align="center">
-  <strong>Yᴏᴜʀ Dᴇᴠᴇʟᴏᴘᴇʀ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ! (~3k views/month)</strong>
-  <br/>
-  You can add a link to your company or project here: <a href="https://github.com/sponsors/kdeldycke">back me up via a GitHub sponsorship</a>.
+  <a href="https://github.com/sponsors/kdeldycke">
+    <strong>Yᴏᴜʀ Dᴇᴠᴇʟᴏᴘᴇʀ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
+    <br/>
+    <sup>Add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
+  </a>
 </p>
 
 ---
