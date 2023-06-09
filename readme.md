@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  <strong>Yᴏᴜʀ Dᴇᴠᴇʟᴏᴘᴇʀ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ! (~3k views/month)</strong>
+  <br/>
+  You can add a link to your company or project here: <a href="https://github.com/sponsors/kdeldycke">back me up via a GitHub sponsorship</a>.
+</p>
+
+---
+
+<p align="center">
   <i>The logic of the world is prior to all truth and falsehood.</i><br>
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
