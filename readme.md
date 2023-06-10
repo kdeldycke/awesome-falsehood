@@ -1,3 +1,5 @@
+<!--lint disable awesome-heading-->
+
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-falsehood/">
     <img src="https://github.com/kdeldycke/awesome-falsehood/raw/main/assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
