@@ -1,7 +1,3 @@
-# 😱 Awesome Falsehood [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-
-**A curated list of falsehoods programmers believe in.**
-
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-falsehood/">
     <img src="https://github.com/kdeldycke/awesome-falsehood/raw/main/assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
@@ -17,6 +13,10 @@
 </p>
 
 ______________________________________________________________________
+
+<p align="center">
+  <strong>A curated <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"/></a> list of falsehoods programmers believe in.</strong>
+</p>
 
 <p align="center">
   <i>The logic of the world is prior to all truth and falsehood.</i><br>
