@@ -14,7 +14,7 @@
   </a>
 </p>
 
-______________________________________________________________________
+---
 
 <p align="center">
   <i>The logic of the world is prior to all truth and falsehood.</i><br>
