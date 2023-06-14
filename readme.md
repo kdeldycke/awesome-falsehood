@@ -126,7 +126,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [Falsehoods about Geography](https://wiesmann.codiferes.net/wordpress/archives/15187) - Takes on places, their names and locations.
 - [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - A guide for geospatial practitioners on diagnosing and fixing common issues with coordinate systems.
-- [Top 5 most insane kanji place names in Japan](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan【weird-top-five】/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
+- [Top 5 most insane kanji place names in Japan](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - “There's one special group of kanji that's hard even for Japanese people to read: place names.”
 
 ## Human Identity
 
