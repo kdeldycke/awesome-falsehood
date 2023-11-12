@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
-    <strong>Yᴏᴜʀ Dᴇᴠᴇʟᴏᴘᴇʀ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
+    <strong>Yᴏᴜʀ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
     <br/>
-    <sup>Add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
+    <sup>Add a link to your company or project here: purchase a GitHub sponsorship.</sup>
   </a>
 </p>
 
