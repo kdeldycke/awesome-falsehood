@@ -109,6 +109,10 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 ### Item description
 
+- Try to provide an actionable TL;DR as a description, quoting the original text if it stands by itself.
+
+- [Removes `TL;DR:` prefix in description](https://github.com/kdeldycke/awesome-iam/commit/537cbfd8beaca18d44a0962e107a6db9171a0345). Every description is a short summary anyway.
+
 - Quotes should be properly delimited with the `“` and `”` curved quotation marks.
 
 - You can reduce the original text by using an ellipsis in parenthesis `(…)`.
