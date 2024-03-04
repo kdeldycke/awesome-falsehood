@@ -20,6 +20,6 @@ This new link is special because...
 
 ### Self checks
 
-- [ ] I have [read the Code of Conduct](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/code-of-conduct.md)
-- [ ] I applied all rules from the [Contributing guide](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md)
-- [ ] I have checked there is no other [Issues](https://github.com/kdeldycke/awesome-falsehood/issues) or [Pull Requests](https://github.com/kdeldycke/awesome-falsehood/pulls) covering the same topic to open
+- [ ] I have [read the Code of Conduct](https://github.com/kdeldycke/awesome-template/blob/main/.github/code-of-conduct.md)
+- [ ] I applied all rules from the [Contributing guide](https://github.com/kdeldycke/awesome-template/blob/main/.github/contributing.md)
+- [ ] I have checked there is no other [Issues](https://github.com/kdeldycke/awesome-template/issues) or [Pull Requests](https://github.com/kdeldycke/awesome-template/pulls) covering the same topic to open
