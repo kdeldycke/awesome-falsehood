@@ -234,7 +234,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not falsehoods *per se*, but still a great list of good practices to implement autocompletion.
 - [Floating Point Math](https://0.30000000000000004.com) - “Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`.”
 - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) - YAML is full of obscure complexity like accidental numbers and non-string keys.
-- [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - There are edge-cases even in tagging systems which are suposed to be barebone.
+- [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - There are edge-cases even in tagging systems which are supposed to be barebone.
 - [Falsehoods about Quantum Technology](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
 
 ## Transportation
