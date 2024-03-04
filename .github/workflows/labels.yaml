@@ -8,4 +8,4 @@ name: Labels
 jobs:
 
   labels:
-    uses: kdeldycke/workflows/.github/workflows/labels.yaml@v3.3.0
+    uses: kdeldycke/workflows/.github/workflows/labels.yaml@v3.3.6
