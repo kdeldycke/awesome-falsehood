@@ -1,0 +1,32 @@
+[allowlist]
+description = "False positives"
+commits = [
+    ### kdeldycke/awesome-billing
+    # Twitter status IDs.
+    "5b54ac1befb7a768a18b2abd4a7b091766ee7609",
+    "4607e5923f1889ce5136b1a6bdfbddd769cd7fc3",
+    "1cfd0513359a5ce20b538b6a637d40c4cc50a37f",
+
+    ### kdeldycke/awesome-engineering-team-management
+    # Twitter status IDs.
+    "044ccf813c180d1b52fa550549f1e3ffe7ad3176",
+    "4ee04962090c60f9d2bd26e507584c95b2f039cb",
+    "e945e90fbcd4b610d71cbe766b1c909b51c674a5",
+    "bdae66b4dbc54fcf66aa2c5bf61598c894a6172d",
+    "6462b4a4b0335823f2a9e8412a1c10a38561900e",
+    "ac1dd92507ed071da3ac5270484a152bfef93aa2",
+    "e9eb3864157f504cb29fab33d4f63748302c963d",
+    "a43eef1b55fff47879fe671abbebc7e279d59999",
+    "1a5e33dd31d129a1335ae2418ec43bf1d43c3760",
+    "0e05ffafc90dd4ea337aca7372c983e143ba48a8",
+    "0e93d0ced146e4a32a1838b1aa4dbf2d20703964",
+    "df0e49b612e68b9389c671463640e5d17b479231",
+    "b743e4aecc5822c51aa088312b20d4965720aa7e",
+    "94c532529b78b20e9363bded9e2788dd03a59832",
+    "f0fe92563a14f93dbe07579ff735b844cfb69a7d",
+    "a804606fb0794615df5c078ab220b615796e1ba9",
+    "14d523e38ebe8f2859646c4cb9736b1843802476",
+    "36c488d8b52f66120d51b0fbb7b93667453461fe",
+    "1da97b40558cd6c5941edd2db9f9a58407d5a3bf",
+    "56f8e6771c88625ed82e6663961fc2874c53f874",
+]

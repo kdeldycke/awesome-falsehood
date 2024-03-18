@@ -9,54 +9,5 @@ name: Docs
 
 jobs:
 
-  #docs:
-  #  uses: kdeldycke/workflows/.github/workflows/docs.yaml@v3.4.0
-
-
-  awesome-template-sync:
-    name: Sync awesome template
-    if: >
-      startsWith(github.event.repository.name, 'awesome-')
-      && github.event.repository.name != 'awesome-template'
-    runs-on: ubuntu-22.04
-    # We need custom PAT through the whole job so we get workflow permissions to update all the boilerplate .github
-    # files from awesome-template.
-    steps:
-      - name: Initial checkout
-        uses: actions/checkout@v4.1.2
-        with:
-          token: ${{ secrets.WORKFLOW_UPDATE_GITHUB_PAT || secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
-      - name: Sync from template repo
-        id: template_sync
-        uses: AndreasAugustin/actions-template-sync@v2.0.0
-        with:
-          github_token: ${{ secrets.WORKFLOW_UPDATE_GITHUB_PAT || secrets.GITHUB_TOKEN }}
-          source_repo_path: kdeldycke/awesome-template
-          is_force_push_pr: true
-          is_pr_cleanup: true
-          is_allow_hooks: true
-          # Replace "/kdeldycke/awesome-template/" in URLs by "/kdeldycke/awesome-<repo_id>/".
-          hooks: >
-            precommit:
-              commands:
-                - find ./.github/ -type f -iregex ".*\.\(md\|yaml\)$" -print -exec sed -i
-                  "s/\/kdeldycke\/awesome-template\//\/kdeldycke\/${{ github.event.repository.name }}\//g" "{}" \;
-          pr_title: "[sync] XXX Updates from `awesome-template`"
-          pr_commit_msg: "[sync] Updates from awesome-template"
-          pr_branch_name_prefix: "sync-awesome-template"
-          pr_body: >
-            Files synced from [`${{ env.SOURCE_REPO_PATH }}@${{ env.TEMPLATE_GIT_HASH }}`
-            repository](https://github.com/${{ env.SOURCE_REPO_PATH }}/tree/${{ env.TEMPLATE_GIT_HASH }}).
-
-
-            <details><summary><code>Workflow metadata</code></summary>
-
-
-            > [Auto-generated on run `#${{ github.run_id }}`](${{ github.event.repository.html_url }}/actions/runs/${{
-            github.run_id }}) by `${{ github.job }}` job from [`docs.yaml`](${{ github.event.repository.html_url
-            }}/blob/${{ github.sha }}/.github/workflows/docs.yaml) workflow.
-
-
-            </details>
-          pr_labels: "📚 documentation"
+  docs:
+    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v3.3.6
