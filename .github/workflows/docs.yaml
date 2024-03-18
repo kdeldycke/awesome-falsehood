@@ -34,6 +34,7 @@ jobs:
           github_token: ${{ secrets.WORKFLOW_UPDATE_GITHUB_PAT || secrets.GITHUB_TOKEN }}
           source_repo_path: kdeldycke/awesome-template
           is_force_push_pr: true
+          is_pr_cleanup: true
           is_allow_hooks: true
           # Replace "/kdeldycke/awesome-template/" in URLs by "/kdeldycke/awesome-<repo_id>/".
           hooks: >
