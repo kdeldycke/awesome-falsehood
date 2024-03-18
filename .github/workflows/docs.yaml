@@ -40,7 +40,7 @@ jobs:
               commands:
                 - find ./.github/ -type f -iregex ".*\.\(md\|yaml\)$" -print -exec sed -i
                   "s/\/kdeldycke\/awesome-template\//\/kdeldycke\/${{ github.event.repository.name }}\//g" "{}" \;
-          pr_title: "[sync] Updates from `awesome-template`"
+          pr_title: "[sync] XXX Updates from `awesome-template`"
           pr_commit_msg: "[sync] Updates from awesome-template"
           pr_branch_name_prefix: "sync-awesome-template"
           pr_body: >
