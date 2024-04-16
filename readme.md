@@ -259,7 +259,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Falsehoods about HTML](https://www.aartaka.me.eu.org/falsehoods-html) - “Web is beautiful. Web is ugly. Web is astonishing. A part of this appeal is HTML, with its historical quirks.”
 - [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - Pitfalls to be mindful of when creating and documenting APIs.
 - [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - There's a lot of components in an URL, and all have their own logic.
-- [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
+- [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://web.archive.org/web/20230604033340/https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 
 ## Contributing
 
