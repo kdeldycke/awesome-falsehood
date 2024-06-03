@@ -60,7 +60,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A brief list of common falsehoods. A great overview and quick introduction into the world of falsehoods.
 - [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - A humbling and fun list on programming and programmers themselves.
-- [Falsehoods about Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) - Meta commentary on how these falsehoods shouldn't be handled.
+- [Falsehoods about Falsehoods Lists](https://kevin.deldycke.com/2016/falsehoods-programmers-believe-about-falsehoods-lists) - Meta commentary on how these falsehoods shouldn't be handled.
 
 ## Arts
 
