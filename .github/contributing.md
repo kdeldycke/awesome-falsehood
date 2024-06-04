@@ -2,49 +2,9 @@
 
 Your contributions are always welcome! Here are some guidelines.
 
-## Good Candidates
+## Status
 
-Before contributing, make sure the new link you'd like to add is a good
-candidate.
-
-Here is a non-restrictive list of items which are good candidates for inclusion
-in this awesome list.
-
-### Falsehood Articles
-
-Articles following the *falsehood* schema are prime candidates for inclusion in
-this awesome list.
-
-These articles starts with the hypothesis that developers have a naive and
-simple view of a domain. Then proceed to list a set of candid assumptions that
-might be held by programmers. Each one is intentionally false, and in their
-best form are illustrated with a counter-example.
-
-A list of falsehood is crafted as a progression that is designed to refine
-concepts. Having read the whole list of falsehood, the reader should possess a
-better overview of a domain while dispelling its myths, point out common
-pitfalls and demonstrate its subtleties.
-
-*falsehood* articles are, in a sense, a suite of wordy unit-tests covering
-extensive edge-cases provided by real-world usage. The world is messy.
-Discovering a domain to be much more complex than anticipated will lead to
-frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a
-great candidate for that list!
-
-Articles featuring items that are applicable to one product (or a service) and
-one only can't be considered as generic enough and should be avoided.
-
-### Libraries
-
-Programming libraries or modules are good candidates too, if they solve or
-reduce the complexities pointed to by *falsehood* articles above.
-
-That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
-
-### Data Structures
-
-Data models and structures generic enough to cover and address most of the
-falsehoods are also welcome in this page.
+This repository has reached an equilibrium state. We are past its accumulation phase, and in the middle of the curation process. Meaning we're more into refining its concepts, smooth the progression and carefully evaluating the addition of new content.
 
 ## Pull-requests and issues
 
@@ -93,15 +53,19 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 ### Sections
 
-- Sections are in alphabetical order, as all topics are independent from each others.
+- Sections **are not in the alphabetical order**, to provide a progression, from general to specific topics.
+
+> [!IMPORTANT]
+> In `awesome-falsehood`, sections **are in alphabetical order**, as all topics are independent from each others.
 
 - Section might feature one paragraph introduction and a figure (graph, drawing, photo).
 
 ### Item title
 
-- Link title must be stripped out of the "*Programmers believe*" part to keep it compact.
-
 - URLs must use HTTPs protocol, if available.
+
+> [!IMPORTANT]
+> In `awesome-falsehood`, link titlea must be stripped out of the "*Programmers believe*" part to keep it compact.
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 
@@ -111,7 +75,7 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Try to provide an actionable TL;DR as a description, quoting the original text if it stands by itself.
 
-- [Removes `TL;DR:` prefix in description](https://github.com/kdeldycke/awesome-iam/commit/537cbfd8beaca18d44a0962e107a6db9171a0345). Every description is a short summary anyway.
+- [Removes `TL;DR:` prefix in description](https://github.com/kdeldycke/awesome-engineering-team-management/commit/da298ec1c39fe62fd4553e1a6de0ad4494602c57). Every description is a short summary anyway.
 
 - Quotes should be properly delimited with the `“` and `”` curved quotation marks.
 
@@ -155,3 +119,155 @@ One-liners to fix-up some common formatting mistakes. Use with great caution and
   ```
 
 [Other one-liners are available](https://kevin.deldycke.com/2006/12/text-date-document-processing-commands/) on my blog.
+
+## Editorial line
+
+The general editorial line for each list is [hinted in their introduction](https://github.com/kdeldycke/awesome-template#readme).
+
+There's also some specific rules depending on the list:
+
+### [`awesome-engineering-team-management`](https://github.com/kdeldycke/awesome-engineering-team-management): item orders
+
+Items are roughly ordered like so:
+
+1. At first we'll find content appealing to software developers or new managers. We're reaching for accessibility and targets the wider audience and provide a gentle introduction.
+1. Then we can have a couple of real use-cases or anecdotes, which makes the subject more hands-on and relatable.
+1. Third we might add a couple of reference material to generalize concepts, provide methodical solutions and expose broader thinking frameworks.
+1. At the end comes the most cynical or bleak content, which have some utility as cautionary tales, or as warning signals of deteriorating conditions.
+
+### [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood): candidates
+
+Before contributing, make sure the new link you'd like to add is a good
+candidate.
+
+Here is a non-restrictive list of items which are good candidates for inclusion
+in the `awesome-falsehood` list.
+
+#### Falsehood articles
+
+Articles following the *falsehood* schema are prime candidates for inclusion in
+this awesome list.
+
+These articles starts with the hypothesis that developers have a naive and
+simple view of a domain. Then proceed to list a set of candid assumptions that
+might be held by programmers. Each one is intentionally false, and in their
+best form are illustrated with a counter-example.
+
+A list of falsehood is crafted as a progression that is designed to refine
+concepts. Having read the whole list of falsehood, the reader should possess a
+better overview of a domain while dispelling its myths, point out common
+pitfalls and demonstrate its subtleties.
+
+*falsehood* articles are, in a sense, a suite of wordy unit-tests covering
+extensive edge-cases provided by real-world usage. The world is messy.
+Discovering a domain to be much more complex than anticipated will lead to
+frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a
+great candidate for that list!
+
+Articles featuring items that are applicable to one product (or a service) and
+one only can't be considered as generic enough and should be avoided.
+
+#### Libraries
+
+Programming libraries or modules are good candidates too, if they solve or
+reduce the complexities pointed to by *falsehood* articles above.
+
+That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
+
+#### Data structures
+
+Data models and structures generic enough to cover and address most of the
+falsehoods are also welcome in this page.
+
+## FAQ
+
+Some cases to illustrate the curation process.
+
+### Can I rewrite your sentences and paragraphs?
+
+Yes. I'm a non-native speaker, so some of my writings might be a little bit fancy. If you can propose a shorter, to the point, and accurate version of my initial text, go for it! These improvements [adds a lot of readability for both kind of readers](https://github.com/kdeldycke/awesome-falsehood/pull/105).
+
+### Can I propose YouTube videos for the list?
+
+Yes, but try to pin-point the start of the video to a relevant time. Like with the `&t=13m30s` parameter in YouTube URLs.
+
+Better than a video: have a link to its written transcript. Or presentation slides if it doesn't dillute the point being made.
+
+### Can I link to an X thread?
+
+Yes, but try to search first in the content produced by the author: sometimes the said author edited its rant into a more digestible article elsewhere. We'll prefer to link to that.
+
+### How to prevent link-rot?
+
+[As pointed by a contributor](https://github.com/kdeldycke/awesome-engineering-team-management/issues/52#issue-1499417056):
+
+> The links here have a tendency to go offline. For this to be a resource of long term value, link-rot can be avoided by archiving the pages.
+
+Which is true.
+
+I have no issue replacing the original URL with an alternative archived/cached link if the original is no longer reachable.
+
+Broken URLs are frustrating. We will fix them one by one. Some have been moved to a new domain. Some have completely disappear, so we'll replace them with a `archive.org` link.
+
+If you find a broken one, please propose a PR to fix it. Or just report it as an issue and I'll do the work.
+
+### How are you going to archive articles that went offline?
+
+This question points to the paradox that we need to archive them *before* they go offline.
+
+There is no rush to pre-emptively archive content. Incentives exists for others to do it:
+
+- This list is popular enough for its content to be picked up by regular archival crawlers.
+- Popular content in this list are naturally archived by users who value them.
+- Authors who cares about their content, or benefits from the SEO juice this list provides, have an incentive to keep them available at their original URL.
+
+Despites these incentives, there is still a non-zero chance for content to disappear entirely from the web, with no archived copy in `archive.org`. That's not the end of the world. Maybe the content wasn't worth it, and not good for inclusion in the first place. Think of this edge-case as a natural selection process on content, which helps natural curation.
+
+### Why removes inactive GitHub projects?
+
+Unmaintained GitHub repositories are usually [archived by their owners](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories). But some are de-facto unmaintained, or abandoned as-is by their author, without being explicitly archived.
+
+Either way, if the space they addresses is crowded, and there are other repositories referenced in the list, the link is a good candidate for deletion to reduce noise.
+
+On the other hand, if the project has been forked or rebooted elsewhere, we can now point out to the new location.
+
+### Why my commercial project is not in the list?
+
+Probably because the core content is behind a paywall. Especially if there are better resources online, which are more extensive, and freely accessible.
+
+This is especially true for SaaS and other licensed software. If there is an open-source project available, we'd rather point to that instead of commercial solutions.
+
+These alternatives don't need to be better. They qualify if they're good enough to derives inspiration from, or starts something without barriers to entry.
+
+So for as set of multiple overlapping projects, we will consider commercial ones as duplicates and remove them, to keep the list lean.
+
+### Why my link was rejected?
+
+If your link was rejected, it must have been motivated and explained to the contributor as a comment to your PR.
+
+Some reasons for rejection, which often overlaps, includes:
+
+- deviance from these contribution guidelines
+- violation of the [code of conduct](code-of-conduct.md)
+- duplicate content
+- lack of motivation in what the new link adds to the existing corpus
+- lack of originality
+- overcrowded section that [needs more curation than additional content](https://github.com/kdeldycke/awesome-iam/pull/76)
+- [commercially-sponsored content only proposed for SEO](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
+- lack of feedback from the contributor on raised questions
+
+### How can I force a link into the list?
+
+If your contribution has been declined, there is a way to bypass the curation rules. You can [purchase a sponsorship](https://github.com/sponsors/kdeldycke) and have your product, logo and link at the top of this repository! 🤗 Like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386).
+
+## FAQ for [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood)
+
+This questions are specifics to the [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) project.
+
+### Why don't you copy the falsehoods in the list?
+
+This might be a good idea to compile all falsehoods in the repository. It would allow the community to maintain them, and enrich them. It could also improve the overall quality as most external articles don't make the effort to illustrate or explain why a falsehood is a falsehood.
+
+But that is a big endeavor, so to keep things simple, we just make a collection of external articles in this list. In the mean time, if you'd like to add falsehoods, I will ask potential contributors to [host them elsewhere](https://github.com/kdeldycke/awesome-falsehood/issues/46).
+
+Also, if we had to host the raw falsehoods in this repository, we might have to [check on the licence and seek permission from the original author](https://github.com/kdeldycke/awesome-falsehood/issues/24#issuecomment-354112401).
