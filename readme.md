@@ -156,6 +156,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 - [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
+- [Unicode misconceptions](https://jean.abou-samra.fr/blog/unicode-misconceptions/) - A collection of falsehoods on case, encodings, string length, and more.
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
 - [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/) - You cannot localize temperature differences as-is.
