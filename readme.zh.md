@@ -17,6 +17,11 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/kdeldycke/awesome-falsehood#readme.md" hreflang="en"><img src="https://img.shields.io/badge/lang-English-blue?style=flat-square" lang="en" alt="English"></a>
+  <a href="https://github.com/kdeldycke/awesome-falsehood/blob/main/readme.zh.md" hreflang="zh"><img src="https://img.shields.io/badge/lang-中文-blue?style=flat-square" lang="zh" alt="中文"></a>
+</p>
+
+<p align="center">
   <i>世界的逻辑在所有真理和虚假之前.</i><br>
   — 路德维希·维特根斯坦<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
