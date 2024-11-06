@@ -265,7 +265,7 @@
 
 ## 贡献
 
-随时欢迎你的贡献! 首先请看一下 [贡献指南](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) .
+随时欢迎你的贡献! 首先请看一下 [贡献指南](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.zh.md) .
 
 ## 注脚
 
