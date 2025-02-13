@@ -224,6 +224,8 @@
 - [版本谬误](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - 为软件发布分配一个身份可能比想象中要困难.
 - [构建系统谬误](https://pozorvlak.livejournal.com/174763.html) -  构建软件很难. 构建构建软件本身更难.
 - [Undefined行为谬误](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - 调用`undefined`行为可能导致任何事情发生，其范围比人们想象的要广得多.
+- [CPU 缓存流言](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 关于缓存的误解常常导致错误的断言，特别是在并发和竞争条件方面.
+- [关于 null 指针的谬误](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/) - Null 指针通常比指针更受诅咒，并且出处已经使指针变得相当复杂。
 - [CSV谬误](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - 尽管 RFC4180 存在，但它远非权威，且在很大程度上被忽视.
 - [包管理谬误](https://kdeldycke.github.io/meta-package-manager/falsehoods.html) - 涵盖包及其管理工具.
 - [测试谬误](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - 试图建立关于测试的谬误列表.
@@ -233,7 +235,6 @@
 - [垃圾回收算法谬误](https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/) - 关于垃圾收集的可预测性和性能的误解.
 - [文件路径谬误](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - 文件系统和操作系统的多样性使得文件路径比我们想象的要复杂一些.
 - [Windows文件路径的奇异世界](https://www.fileside.app/blog/2023-03-17_windows-file-paths/) - “在任何 Unix 衍生系统中，路径是一个令人钦佩的简单概念：如果它以 / 开头，那么它就是一个路径。但在 Windows 上情况并非如此。”
-- [CPU 缓存流言](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 关于缓存的误解常常导致错误的断言，特别是在并发和竞争条件方面.
 - [`/dev/urandom` 流言](https://www.2uo.de/myths-about-urandom) - 关于 '/dev/urandom' 和 '/dev/random' 有一些反复出现的说法，但它们仍然是错误的.
 - [状态机事实](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Facts-about-State-Machines/README.md) - 状态机常常被误解并且应用不足.
 - [嗨! 我的名字是…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这次演讲本可以命名为*关于用户名（和其他标识符）的谬误*.
