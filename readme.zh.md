@@ -245,6 +245,7 @@
 - [我对标签系统充满了无尽的兴趣](https://twitter.com/hillelogram/status/1534301374166474752) - 即使在应该是简单的标签系统中，也存在一些边缘情况.
 - [量子技术谬误](https://github.com/gottfriedsz/falsehoods-quantum) - 关于量子技术和计算机的常见误解
 - [事件驱动系统谬误](https://dimtion.fr/blog/falsehoods-event-driven/) - 关于事件驱动系统和消息传递的误解.
+- [关于数字对象标识符 （DOI） 的虚假信息](https://pardalotus.tech/posts/2024-10-02-falsehoods-programmers-believe-about-dois/) - 关于用于识别和链接研究成果（以及许多其他内容）的标识符的错误概念。
 
 ## 交通
 
