@@ -154,6 +154,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 On character encoding, string formatting, unicode and internationalization.
 
 - [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - Translating a software from English is not as straightforward as it seems to be.
+- [Falsehoods about Language](https://www.lexiconista.com/falsehoods-about-languages/) - Additional cases to complement the previous article.
 - [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - Plain text can't cut it, which makes Unicode even more incredible for its ability to just work well.
 - [Falsehoods about text](https://wiesmann.codiferes.net/wordpress/archives/30296) - A subset of the falsehoods from above, illustrated with some examples.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.

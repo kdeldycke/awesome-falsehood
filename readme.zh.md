@@ -154,6 +154,7 @@
 关于字符编码，字符串格式，Unicode 和国际化.
 
 - [语言谬误](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - 把软件从英文翻译成其他语言并不像看起来那么简单.
+- [语言谬误](https://www.lexiconista.com/falsehoods-about-languages/) - 补充上一篇文章的其他情况。
 - [纯文本谬误](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - 纯文本难以满足需求，而 Unicode 的强大在于其能够良好运作，显得尤为出色.
 - [文本谬误](https://wiesmann.codiferes.net/wordpress/archives/30296) -以上谬误中的一部分，并附带一些示例说明.
 - [代码国际化](https://www.youtube.com/watch?v=0j74jcxSunY) - 关于在代码国际化时需要注意的事项的视频.
