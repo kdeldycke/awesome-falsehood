@@ -10,5 +10,5 @@ name: Docs
 jobs:
 
   docs:
-    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v3.4.7
+    uses: kdeldycke/workflows/.github/workflows/docs.yaml@v4.4.5
     secrets: inherit
