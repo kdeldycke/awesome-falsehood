@@ -248,6 +248,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Falsehoods about Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/) - Misconceptions about event driven systems and message passing.
 - [Falsehoods about Digital Object Identifiers (DOIs)](https://pardalotus.tech/posts/2024-10-02-falsehoods-programmers-believe-about-dois/) - False conceptions about the identifiers that are used to identify and link research outputs (and a lot of other things).
 - [Falsehoods about CVE](https://medium.com/@jonathan.leitschuh/falsehoods-people-believe-about-cves-85c1d063ffda) - CVE ≠ vulnerability (and 36 other confusions).
+- [Falsehoods about authorization](https://www.osohq.com/post/falsehoods-about-authorization) - Misconceptions about implementing permissions systems.
 
 ## Transportation
 
