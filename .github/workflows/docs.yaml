@@ -11,4 +11,3 @@ jobs:
 
   docs:
     uses: kdeldycke/workflows/.github/workflows/docs.yaml@v4.17.1
-    secrets: inherit
