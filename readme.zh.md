@@ -253,6 +253,7 @@
 ## 交通
 
 - [汽车谬误](https://github.com/driveto/falsehoods-about-cars) - 即使是像定义一辆汽车这样普遍的事情也充满了陷阱.
+- [关于航空的谎言](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/) - 航空数据没有你想象的那么标准化。
 - [航空座位图谬误](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐的座位排和列复杂得多.
 - [大量混乱到令人抓狂的航空码](https://www.youtube.com/watch?v=jfOUVYQnuhw) - 多个国际和国家机构试图调和历史、实用性和物流，导致航空码遵循古怪的规则.
 - [我的名字在任何预约中都会出问题!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将 'MR' 后缀视为 'Mister'，并将其省略.
