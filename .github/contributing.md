@@ -22,20 +22,19 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 ## Linting
 
-Have your pull-request pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
+Your pull-request should pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
 No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-falsehood/tree/main/.github/workflows).
 
-To run the linter locally, do:
+You can still anticipate issues by running the linter locally with:
 
 ```shell-session
-$ npm i npx
 $ npx awesome-lint
 ```
 
 ## Formatting
 
-Additional rules not covered by `awesome-lint`, to keep the content clean and tidy.
+Here are additional rules not covered by the `awesome-lint` CLI.
 
 If one of these rule conflict with the linter, the linter's rule should takes precedence. Apply it.
 
@@ -47,29 +46,37 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Apostrophes should be using the single ASCII mark: `'`.
 
-- Try to quote the original content as-is to summarize the point of the linked content.
+- For description, try to identify the single best quote form the original content.
 
-- If a straight quote doesn't cut it, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization. And also by smart editorializing. You just need to respect the spirit of the original content.
+- If a quote couldn't be found to serve as a summary, feel free to paraphrase both the item's title and description. Remember, this is curation: we are increasing the value of the original content by aggregation and categorization. And also by smart editorializing. You just need to respect the spirit of the original content.
 
 ### Sections
 
-- Sections **are not in the alphabetical order**, to provide a progression, from general to specific topics.
+- Sections **are not intentionally sorted in the alphabetical order**. That is to provide a progression, from general to specific topics.
 
 > [!IMPORTANT]
-> In `awesome-falsehood`, sections **are in alphabetical order**, as all topics are independent from each others.
+> Exceptionally in `awesome-falsehood`, sections **are in alphabetical order**, as all topics are independent from each others.
 
 - Section might feature one paragraph introduction and a figure (graph, drawing, photo).
 
+### URL
+
+- Use HTTPs protocol, if available.
+
+- Must be reachable by CI/CD jobs. If the domain return `40x` errors for rate-limiting or content protection, replace it with a stable link:
+
+  - [`sci-hub.st`](https://sci-hub.st) for research papers
+  - [`archive.ph`](https://archive.ph) for news articles
+  - [`archive.org`](https://archive.org) for anything else
+
 ### Item title
-
-- URLs must use HTTPs protocol, if available.
-
-> [!IMPORTANT]
-> In `awesome-falsehood`, link titlea must be stripped out of the "*Programmers believe*" part to keep it compact.
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 
 - To quote, use either the single or double variations: `'` and `"`. Keep them properly balanced.
+
+> [!IMPORTANT]
+> In `awesome-falsehood`, link titles must be stripped out of the "*Programmers believe*" part to keep it compact.
 
 ### Item description
 
@@ -85,7 +92,7 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - To serialize a list into a description, use the following format:
 
-  > Text of a description summarizing the item. And here is a list coming from the original content about **“a random subject: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** And a bit more text to conclude.
+  > Text of a description summarizing the item. And here is a list coming from the original content about **“three important topics: 1. Blah blah blah; 2. Blah blah blah? 3. Blah blah blah.”** And a bit more text to conclude.
 
   This format provides visual anchor points that help readability and quick content scanning.
 
@@ -95,38 +102,13 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - An additional link in the description is allowed. This must be limited to some rare cases. Like pointing to a bigger concept, an acronym definition, or reference material (book, biography, …).
 
-### CLI helpers
-
-One-liners to fix-up some common formatting mistakes. Use with great caution and always double-check and edit the results.
-
-- Replaces star list item markers by dashes:
-
-  ```shell-session
-  $ sed -i 's/^* /- /g' ./README.md
-  ```
-
-- Replaces typographic quotes with ASCII ones:
-
-  ```shell-session
-  $ sed -i "s/‘/\'/g" ./readme.md
-  $ sed -i "s/’/\'/g" ./readme.md
-  ```
-
-- Forces quotes to end with a dot:
-
-  ```shell-session
-  $ sed -i 's/`$/`\./g' ./readme.md
-  ```
-
-[Other one-liners are available](https://kevin.deldycke.com/2006/text-date-document-processing-commands/) on my blog.
-
 ## Editorial line
 
 The general editorial line for each list is [hinted in their introduction](https://github.com/kdeldycke/awesome-template#readme).
 
 There's also some specific rules depending on the list:
 
-### [`awesome-engineering-team-management`](https://github.com/kdeldycke/awesome-engineering-team-management): item orders
+### [`awesome-engineering-team-management`](https://github.com/kdeldycke/awesome-engineering-team-management): items order
 
 Items are roughly ordered like so:
 
