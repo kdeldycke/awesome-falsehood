@@ -26,9 +26,9 @@
   — 路德维希·维特根斯坦<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-一个精心策划的 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) 程序员谬误清单.  *谬误* 指的是你最初相信的 *观点*,但是它被证明是错的.
+一个精心策划的 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) 程序员谬误清单. *谬误* 指的是你最初相信的 *观点*,但是它被证明是错的.
 
-举个例子, 一个*观点*: 有效的电子邮件地址恰好有一个 `@` 字符. 因此，你会使用这个规则来实现你的电子邮件字段验证逻辑。对吗？错了！  *实际* 是: 电子邮件可以有多个 `@` 字符.
+举个例子, 一个*观点*: 有效的电子邮件地址恰好有一个 `@` 字符. 因此，你会使用这个规则来实现你的电子邮件字段验证逻辑。对吗？错了！ *实际* 是: 电子邮件可以有多个 `@` 字符.
 因此，你的实现应该允许这种情况。最初的*观点*是你曾经相信的一个谬误.
 
 下面列出的*谬误*文章将提供一个全面的列表，帮助你了解这些错误信念，以便让你成为一个更优秀的程序员.
@@ -37,28 +37,31 @@
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
-- [元](#元)
-- [艺术](#艺术)
-- [业务](#业务)
-- [加密货币](#加密货币)
-- [日期和时间](#日期和时间)
-- [教育](#教育)
-- [邮件](#邮件)
-- [地理](#地理)
-- [人类身份](#人类身份)
-- [国际化](#国际化)
-- [管理](#管理)
-- [多媒体](#多媒体)
-- [网络](#网络)
-- [电话号码](#电话号码)
-- [邮政编码](#邮政编码)
-- [科学](#科学)
-- [社会](#社会)
-- [软件工程](#软件工程)
-- [交通](#交通)
-- [排版](#排版)
-- [视频游戏](#视频游戏)
+- [目录](#%E7%9B%AE%E5%BD%95)
+- [元](#%E5%85%83)
+- [艺术](#%E8%89%BA%E6%9C%AF)
+- [业务](#%E4%B8%9A%E5%8A%A1)
+- [加密货币](#%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81)
+- [日期和时间](#%E6%97%A5%E6%9C%9F%E5%92%8C%E6%97%B6%E9%97%B4)
+- [教育](#%E6%95%99%E8%82%B2)
+- [邮件](#%E9%82%AE%E4%BB%B6)
+- [地理](#%E5%9C%B0%E7%90%86)
+- [人类身份](#%E4%BA%BA%E7%B1%BB%E8%BA%AB%E4%BB%BD)
+- [国际化](#%E5%9B%BD%E9%99%85%E5%8C%96)
+- [管理](#%E7%AE%A1%E7%90%86)
+- [多媒体](#%E5%A4%9A%E5%AA%92%E4%BD%93)
+- [网络](#%E7%BD%91%E7%BB%9C)
+- [电话号码](#%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81)
+- [邮政编码](#%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81)
+- [科学](#%E7%A7%91%E5%AD%A6)
+- [社会](#%E7%A4%BE%E4%BC%9A)
+- [软件工程](#%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+- [交通](#%E4%BA%A4%E9%80%9A)
+- [排版](#%E6%8E%92%E7%89%88)
+- [视频游戏](#%E8%A7%86%E9%A2%91%E6%B8%B8%E6%88%8F)
 - [Web](#web)
+- [贡献](#%E8%B4%A1%E7%8C%AE)
+- [注脚](#%E6%B3%A8%E8%84%9A)
 
 <!-- mdformat-toc end -->
 
@@ -136,6 +139,7 @@
 - [日本五个最离谱的汉字地名](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - "有一类特殊的汉字，对于日本人来说也很难读：地名."
 
 ## 人类身份
+
 - [名字谬误](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - 一切的开始.
 - [名字谬误 – 举例](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上面文章的重温版本，这次有详细的解释.
 - [生物识别谬误](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
@@ -192,7 +196,7 @@
 ## 电话号码
 
 - [电话号谬误](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 包括电话号码，他们的表示和意义.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google的一个通用库，用于解析，校验，格式化国际电话号码.包括Java, C++ 和 JavaScript.也能用于  [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google的一个通用库，用于解析，校验，格式化国际电话号码.包括Java, C++ 和 JavaScript.也能用于 [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 ## 邮政编码
 
@@ -223,7 +227,7 @@
 ## 软件工程
 
 - [版本谬误](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - 为软件发布分配一个身份可能比想象中要困难.
-- [构建系统谬误](https://pozorvlak.livejournal.com/174763.html) -  构建软件很难. 构建构建软件本身更难.
+- [构建系统谬误](https://pozorvlak.livejournal.com/174763.html) - 构建软件很难. 构建构建软件本身更难.
 - [Undefined行为谬误](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - 调用`undefined`行为可能导致任何事情发生，其范围比人们想象的要广得多.
 - [CPU 缓存流言](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 关于缓存的误解常常导致错误的断言，特别是在并发和竞争条件方面.
 - [关于 null 指针的谬误](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/) - Null 指针通常比指针更受诅咒，并且出处已经使指针变得相当复杂。
@@ -286,4 +290,4 @@
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1\]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?&linkCode=ll1&tag=kevideld-20&linkId=a1903c3fbfdc82fbe2e566fca40718fb&language=en_US&ref_=as_li_ss_tl) (Liveright, 2022) - [出处: 14页](https://archive.org/details/notebooks191419100witt/page/n35). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?&linkCode=ll1&tag=kevideld-20&linkId=a1903c3fbfdc82fbe2e566fca40718fb&language=en_US&ref_=as_li_ss_tl) (Liveright, 2022) - [出处: 14页](https://archive.org/details/notebooks191419100witt/page/n35). [[↑]](#intro-quote-ref)
