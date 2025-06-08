@@ -110,7 +110,7 @@
 - [时间和时区的问题](https://www.youtube.com/watch?v=-5wpm-gesOY) - 一个视频，介绍了为什么"非必要不处理时区".
 - [劳动部门超额征收 26000刀](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历计算带来的后果.
 - [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 一份包含两个标准的格式列表，展示了它们的重叠部分及实际示例.
-- [ISO-8601, `YYYY`, `yyyy`, 为什么你的年份是错的](https://web.archive.org/web/20231207091414/https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/#content-primary) - 日期的字符串格式化很难.
+- [ISO-8601, `YYYY`, `yyyy`, 为什么你的年份是错的](https://web.archive.org/web/20200216181551/https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式化很难.
 - [UTC对于每个人来说都够了，对吗?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 你可能没有想到关于日期和时间（特别是 UTC）的一些边缘情况.
 - [存储 UTC 不是灵丹妙药](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - "只存 UTC" 并不总是对的.
 - [如何在 UT1、TAI 和 UTC 之间进行选择](https://news.ycombinator.com/item?id=28047376) - 这取决于你对 SI 秒、地球自转同步和避免闰秒的优先级.
