@@ -82,7 +82,7 @@
 - [价格谬误](https://gist.github.com/rgs/6509585) - 涵盖货币、金额和本地化.
 - [IBAN谬误](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行账户号码并不是全球统一的.
 - [经济学谬误](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学不简单，也不理性.
-- [Etsy会计系统的小数点错误](https://old.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：漏掉小数点会导致多收费100倍.
+- [Etsy会计系统的小数点错误](https://web.archive.org/web/20230615151102/https://old.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：漏掉小数点会导致多收费100倍.
 - [两万五千刀的水分资金](https://web.archive.org/web/20250326135824/http://rachelbythebay.com/w/2022/12/02/25k/) - 这种把美元和美分切割的错误同样出现在谷歌广告中，把 250美元的内部优惠券变成了 25000美元. 我的建议是: [货币值抛弃小数和浮点数. 用 decimals. 或者用回字符串解析, 而不校验.](https://twitter.com/kdeldycke/status/1599113889093890049)
 - [公司名称中的`<` 和 `>`会导致XSS攻击](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [英国允许用特殊字符注册公司](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made), 一个骇客利用这种方式注册 `\"><SCRIPT SRC=MJT.XSS.HT></SCRIPT> LTD`, but also `; DROP TABLE "COMPANIES";-- LTD`, `BETTS &AMP; TWINE LTD` and `SAFDASD & SFSAF \' SFDAASF\" LTD`.
 - [公司名称的细节](https://twitter.com/nthnmsmth/status/1587880523124408322) - 怎么让特拉华州和国税局的规则不冲突.
@@ -114,7 +114,7 @@
 - [UTC对于每个人来说都够了，对吗?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 你可能没有想到关于日期和时间（特别是 UTC）的一些边缘情况.
 - [存储 UTC 不是灵丹妙药](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - "只存 UTC" 并不总是对的.
 - [如何在 UT1、TAI 和 UTC 之间进行选择](https://news.ycombinator.com/item?id=28047376) - 这取决于你对 SI 秒、地球自转同步和避免闰秒的优先级.
-- [为什么 1927年的这两个时间想减得到了奇怪的结果?](https://stackoverflow.com/a/6841479/57311) - 臭名昭著的 Stack Overflow 答案，涉及复杂的历史时区，以及如何通过新版本的软件重新解释历史日期.
+- [为什么 1927年的这两个时间想减得到了奇怪的结果?](https://web.archive.org/web/20241124114705/https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r/6841479#answer-6841479) - 臭名昭著的 Stack Overflow 答案，涉及复杂的历史时区，以及如何通过新版本的软件重新解释历史日期.
 - [至关重要的日期](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 Unix 纪元的 32 位秒溢出，列出了一些特殊日期，需根据系统进行关注.
 - “我要去佛蒙特的一个公社，期间不打算处理比一个季节更短的时间单位” - 这是一个在 70 年代辞职的工程师留下的留言，他在处理亚秒级计时问题上付出了过多的努力. 出处: [The Soul of a New Machine](https://www.amazon.com/dp/0316491705?&linkCode=ll1&tag=kevideld-20&linkId=ec2881e22fb26c2d43de0daeebd5424d&language=en_US&ref_=as_li_ss_tl).
 
