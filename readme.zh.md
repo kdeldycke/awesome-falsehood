@@ -82,8 +82,8 @@
 - [价格谬误](https://gist.github.com/rgs/6509585) - 涵盖货币、金额和本地化.
 - [IBAN谬误](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行账户号码并不是全球统一的.
 - [经济学谬误](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学不简单，也不理性.
-- [Etsy会计系统的小数点错误](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：漏掉小数点会导致多收费100倍.
-- [两万五千刀的水分资金](http://rachelbythebay.com/w/2022/12/02/25k/) - 这种把美元和美分切割的错误同样出现在谷歌广告中，把 250美元的内部优惠券变成了 25000美元. 我的建议是: [货币值抛弃小数和浮点数. 用 decimals. 或者用回字符串解析, 而不校验.](https://twitter.com/kdeldycke/status/1599113889093890049)
+- [Etsy会计系统的小数点错误](https://old.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：漏掉小数点会导致多收费100倍.
+- [两万五千刀的水分资金](https://web.archive.org/web/20250326135824/http://rachelbythebay.com/w/2022/12/02/25k/) - 这种把美元和美分切割的错误同样出现在谷歌广告中，把 250美元的内部优惠券变成了 25000美元. 我的建议是: [货币值抛弃小数和浮点数. 用 decimals. 或者用回字符串解析, 而不校验.](https://twitter.com/kdeldycke/status/1599113889093890049)
 - [公司名称中的`<` 和 `>`会导致XSS攻击](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [英国允许用特殊字符注册公司](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made), 一个骇客利用这种方式注册 `\"><SCRIPT SRC=MJT.XSS.HT></SCRIPT> LTD`, but also `; DROP TABLE "COMPANIES";-- LTD`, `BETTS &AMP; TWINE LTD` and `SAFDASD & SFSAF \' SFDAASF\" LTD`.
 - [公司名称的细节](https://twitter.com/nthnmsmth/status/1587880523124408322) - 怎么让特拉华州和国税局的规则不冲突.
 - [CLDR货币定义](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - 由于 叛乱、侵略、新法和缓慢的推进的计划，货币的有效日期范围出现重叠.
@@ -110,7 +110,7 @@
 - [时间和时区的问题](https://www.youtube.com/watch?v=-5wpm-gesOY) - 一个视频，介绍了为什么"非必要不处理时区".
 - [劳动部门超额征收 26000刀](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历计算带来的后果.
 - [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 一份包含两个标准的格式列表，展示了它们的重叠部分及实际示例.
-- [ISO-8601, `YYYY`, `yyyy`, 为什么你的年份是错的](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式化很难.
+- [ISO-8601, `YYYY`, `yyyy`, 为什么你的年份是错的](https://web.archive.org/web/20231207091414/https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/#content-primary) - 日期的字符串格式化很难.
 - [UTC对于每个人来说都够了，对吗?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 你可能没有想到关于日期和时间（特别是 UTC）的一些边缘情况.
 - [存储 UTC 不是灵丹妙药](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - "只存 UTC" 并不总是对的.
 - [如何在 UT1、TAI 和 UTC 之间进行选择](https://news.ycombinator.com/item?id=28047376) - 这取决于你对 SI 秒、地球自转同步和避免闰秒的优先级.
@@ -187,7 +187,7 @@
 
 ## 网络
 
-- [网络谬误](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - 包括 TCP, DHCP, DNS, VLANs 和 IPv4/v6.
+- [网络谬误](https://web.archive.org/web/20250215201837/http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - 包括 TCP, DHCP, DNS, VLANs 和 IPv4/v6.
 - [分布式计算谬误](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - 新接触分布式应用的程序员不可避免的错误假设.
 - [IP地址不止一种写法](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - 地址的某些部分是可选的，要注意十进制和八进制表示，而且 [别忘了 IPv6](https://news.ycombinator.com/item?id=20390981) .
 - [IDN 很疯狂](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) - 域名中的国际字符意味着支持同形异义词和异形异义词.
@@ -204,7 +204,6 @@
 - [居住谬误](https://twitter.com/samphippen/status/813896916534784004) - 这不仅仅是地址本身的问题，而是一个人和它的住所之间的关系.
 - [尽管没有姓名和地址，信件仍被送达](https://twitter.com/loriskumo/status/735851511331356672) - 关于邮政地址的终极谬误：你并不需要这些信息.
 - [英国地址的奇特之处](https://paulplowman.com/stuff/uk-address-oddities/) - 从1995年以来英格兰和威尔士的大多数住宅物业销售列表中提取的奇特之处.
-- [什么是最简化的英国地址?](https://microblog.vladh.net/posts/most-minimal-uk-address/) - 诀窍在于依赖邮政编码，在英国，邮政编码非常具体，‘通常标识一栋或几栋特定的建筑，而不像某些国家那样，一个邮政编码代表整个社区’.
 - [拥有自己邮政编码的熊](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - 斯莫基熊拥有自己的邮政编码（'20252'），因为他收到的邮件太多.
 - [为什么哥斯达黎加不使用真实地址？](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - 哥斯达黎加使用一种特有的地址系统，该系统依赖于地标、历史和相当多的猜测。.
 - [正则表达式和邮政地址](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - 为什么正则表达式和街道地址不相容.
@@ -260,7 +259,7 @@
 - [关于航空的谎言](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/) - 航空数据没有你想象的那么标准化。
 - [航空座位图谬误](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐的座位排和列复杂得多.
 - [大量混乱到令人抓狂的航空码](https://www.youtube.com/watch?v=jfOUVYQnuhw) - 多个国际和国家机构试图调和历史、实用性和物流，导致航空码遵循古怪的规则.
-- [我的名字在任何预约中都会出问题!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将 'MR' 后缀视为 'Mister'，并将其省略.
+- [我的名字在任何预约中都会出问题!](https://web.archive.org/web/20250528134345/https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将 'MR' 后缀视为 'Mister'，并将其省略.
 
 ## 排版
 
