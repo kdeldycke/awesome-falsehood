@@ -134,7 +134,7 @@
 ## 地理
 
 - [地理谬误](https://wiesmann.codiferes.net/wordpress/archives/15187) - 讨论地点、它们的名称和位置.
-- [地图谬误](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 涵盖坐标、投影和 GIS.
+- [地图谬误](https://web.archive.org/web/20250516080728/http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 涵盖坐标、投影和 GIS.
 - [关于天气的谎言](https://shkspr.mobi/blog/2024/06/falsehoods-programmers-believe-about-weather/) - 天气是与位置相关的，因此充满了边缘情况。
 - [我讨厌坐标系](https://ihatecoordinatesystems.com) - 地理空间从业者关于诊断和修复坐标系统常见问题的指南.
 - [日本五个最离谱的汉字地名](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - "有一类特殊的汉字，对于日本人来说也很难读：地名."
