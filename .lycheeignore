@@ -1,0 +1,8 @@
+# XXX Skip archive.ph and Sci-Hub because they restricts access to crawlers.
+archive.ph
+sci-hub.st
+# XXX Skip HN because of rate-limiting.
+# See: https://github.com/lycheeverse/lychee/issues/989#issuecomment-1587208730
+# https://github.com/lycheeverse/lychee/pull/1147
+ycombinator.com
+x.com
