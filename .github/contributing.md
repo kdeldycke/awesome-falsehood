@@ -119,47 +119,31 @@ Items are roughly ordered like so:
 
 ### [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood): candidates
 
-Before contributing, make sure the new link you'd like to add is a good
-candidate.
+Before contributing, make sure the new link you'd like to add is a good candidate.
 
-Here is a non-restrictive list of items which are good candidates for inclusion
-in the `awesome-falsehood` list.
+Here is a non-restrictive list of items which are good candidates for inclusion in the `awesome-falsehood` list.
 
 #### Falsehood articles
 
-Articles following the *falsehood* schema are prime candidates for inclusion in
-this awesome list.
+Articles following the *falsehood* schema are prime candidates for inclusion in this awesome list.
 
-These articles starts with the hypothesis that developers have a naive and
-simple view of a domain. Then proceed to list a set of candid assumptions that
-might be held by programmers. Each one is intentionally false, and in their
-best form are illustrated with a counter-example.
+These articles starts with the hypothesis that developers have a naive and simple view of a domain. Then proceed to list a set of candid assumptions that might be held by programmers. Each one is intentionally false, and in their best form are illustrated with a counter-example.
 
-A list of falsehood is crafted as a progression that is designed to refine
-concepts. Having read the whole list of falsehood, the reader should possess a
-better overview of a domain while dispelling its myths, point out common
-pitfalls and demonstrate its subtleties.
+A list of falsehood is crafted as a progression that is designed to refine concepts. Having read the whole list of falsehood, the reader should possess a better overview of a domain while dispelling its myths, point out common pitfalls and demonstrate its subtleties.
 
-*falsehood* articles are, in a sense, a suite of wordy unit-tests covering
-extensive edge-cases provided by real-world usage. The world is messy.
-Discovering a domain to be much more complex than anticipated will lead to
-frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a
-great candidate for that list!
+*falsehood* articles are, in a sense, a suite of wordy unit-tests covering extensive edge-cases provided by real-world usage. The world is messy. Discovering a domain to be much more complex than anticipated will lead to frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a great candidate for that list!
 
-Articles featuring items that are applicable to one product (or a service) and
-one only can't be considered as generic enough and should be avoided.
+Articles featuring items that are applicable to one product (or a service) and one only can't be considered as generic enough and should be avoided.
 
 #### Libraries
 
-Programming libraries or modules are good candidates too, if they solve or
-reduce the complexities pointed to by *falsehood* articles above.
+Programming libraries or modules are good candidates too, if they solve or reduce the complexities pointed to by *falsehood* articles above.
 
 That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
 #### Data structures
 
-Data models and structures generic enough to cover and address most of the
-falsehoods are also welcome in this page.
+Data models and structures generic enough to cover and address most of the falsehoods are also welcome in this page.
 
 ## FAQ
 
@@ -189,7 +173,7 @@ Which is true.
 
 I have no issue replacing the original URL with an alternative archived/cached link if the original is no longer reachable.
 
-Broken URLs are frustrating. We will fix them one by one. Some have been moved to a new domain. Some have completely disappear, so we'll replace them with a `archive.org` link.
+Broken URLs are frustrating. We will fix them one by one. Some have been moved to a new domain. Some have completely disappear, so we'll replace them with an [archived link](#url).
 
 If you find a broken one, please propose a PR to fix it. Or just report it as an issue and I'll do the work.
 
@@ -203,7 +187,7 @@ There is no rush to pre-emptively archive content. Incentives exists for others 
 - Popular content in this list are naturally archived by users who value them.
 - Authors who cares about their content, or benefits from the SEO juice this list provides, have an incentive to keep them available at their original URL.
 
-Despites these incentives, there is still a non-zero chance for content to disappear entirely from the web, with no archived copy in `archive.org`. That's not the end of the world. Maybe the content wasn't worth it, and not good for inclusion in the first place. Think of this edge-case as a natural selection process on content, which helps natural curation.
+Despites these incentives, there is still a non-zero chance for content to disappear entirely from the web, with no [archived copy](#url). That's not the end of the world. Maybe the content wasn't worth it, and not good for inclusion in the first place. Think of this edge-case as a natural selection process on content, which helps natural curation.
 
 ### Why removes inactive GitHub projects?
 
@@ -229,14 +213,17 @@ If your link was rejected, it must have been motivated and explained to the cont
 
 Some reasons for rejection, which often overlaps, includes:
 
+- duplicate content
+- lack of originality
+- rehash of existing content
+- no motivation to explain what the new link adds to the existing corpus
+- overcrowded section that [does not need more content, but more curation](https://github.com/kdeldycke/awesome-iam/pull/76)
+- [not generic enough, or too specific to a single product or company](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
+- marketing copy made to juice the list for SEO
+- [too much URLs already pointing out to the same commercial domain name](https://github.com/kdeldycke/awesome-iam/pull/179#issuecomment-3023031941) (2 links are enough)
+- lack of feedback from the contributor on raised questions
 - deviance from these contribution guidelines
 - violation of the [code of conduct](code-of-conduct.md)
-- duplicate content
-- lack of motivation in what the new link adds to the existing corpus
-- lack of originality
-- overcrowded section that [needs more curation than additional content](https://github.com/kdeldycke/awesome-iam/pull/76)
-- [commercially-sponsored content only proposed for SEO](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
-- lack of feedback from the contributor on raised questions
 
 ### How can I force a link into the list?
 
