@@ -11,4 +11,4 @@ name: Label sponsors
 jobs:
 
   label-sponsors:
-    uses: kdeldycke/workflows/.github/workflows/label-sponsors.yaml@v4.17.9
+    uses: kdeldycke/workflows/.github/workflows/label-sponsors.yaml@v4.18.1
