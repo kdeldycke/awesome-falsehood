@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
-    <strong>Yᴏᴜʀ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
+    <strong>Your brand → here 🚀</strong>
     <br/>
-    <sup>Add a link to your company or project here: purchase a GitHub sponsorship.</sup>
+    <sup>SEO is dead. Place your product here to target AI's training data.</sup>
   </a>
 </p>
 
