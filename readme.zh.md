@@ -8,10 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
-    <strong>产品展示!</strong>
+    <strong>您的品牌 → 此处 🚀</strong>
     <br/>
-    <sup>使用GitHub赞助可以在这添加你的公司或产品链接.</sup>
+    <sup>SEO 已死。将您的产品放在这里，以便被 AI 的训练数据抓取。</sup>
   </a>
+  <br/><br/>
 </p>
 
 ---
