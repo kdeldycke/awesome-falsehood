@@ -205,7 +205,7 @@
 
 - [邮政编码谬误](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) -包括街道、邮政编码、建筑物、城市和国家.
 - [居住谬误](https://twitter.com/samphippen/status/813896916534784004) - 这不仅仅是地址本身的问题，而是一个人和它的住所之间的关系.
-- [尽管没有姓名和地址，信件仍被送达](https://twitter.com/loriskumo/status/735851511331356672) - 关于邮政地址的终极谬误：你并不需要这些信息.
+- [尽管没有姓名和地址，信件仍被送达](https://boingboing.net/2016/08/30/letter-sent-to-iceland-farm-wi.html) - 关于邮政地址的终极谬误：你并不需要这些信息.
 - [英国地址的奇特之处](https://paulplowman.com/stuff/uk-address-oddities/) - 从1995年以来英格兰和威尔士的大多数住宅物业销售列表中提取的奇特之处.
 - [拥有自己邮政编码的熊](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - 斯莫基熊拥有自己的邮政编码（'20252'），因为他收到的邮件太多.
 - [为什么哥斯达黎加不使用真实地址？](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - 哥斯达黎加使用一种特有的地址系统，该系统依赖于地标、历史和相当多的猜测。.
