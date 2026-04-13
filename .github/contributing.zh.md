@@ -113,9 +113,9 @@ $ npx awesome-lint
 项目大致按以下顺序排列：
 
 1. 首先我们会找到对软件开发人员或新经理有吸引力的内容。我们追求可访问性，针对更广泛的受众并提供温和的介绍。
-1. 然后我们可以有几个真实的用例或轶事，这使主题更加实用和相关。
-1. 第三，我们可能会添加几个参考资料来概括概念，提供系统化的解决方案并展示更广泛的思维框架。
-1. 最后是最愤世嫉俗或最悲观的内容，这些内容作为警示故事或恶化条件的警告信号具有一定的效用。
+2. 然后我们可以有几个真实的用例或轶事，这使主题更加实用和相关。
+3. 第三，我们可能会添加几个参考资料来概括概念，提供系统化的解决方案并展示更广泛的思维框架。
+4. 最后是最愤世嫉俗或最悲观的内容，这些内容作为警示故事或恶化条件的警告信号具有一定的效用。
 
 ### [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood)：候选项
 
@@ -165,7 +165,7 @@ $ npx awesome-lint
 
 ### 如何防止链接腐烂？
 
-[正如贡献者指出的](https://github.com/kdeldycke/awesome-engineering-team-management/issues/52#issue-1499417056)：
+[正如贡献者指出的](https://github.com/kdeldycke/awesome-engineering-team-management/issues/52)：
 
 > 这里的链接有下线的趋势。为了使这成为长期价值的资源，可以通过存档页面来避免链接腐烂。
 
@@ -239,4 +239,4 @@ $ npx awesome-lint
 
 但这是一个很大的努力，为了保持简单，我们只是在这个列表中收集外部文章。与此同时，如果您想添加谬误，我会要求潜在贡献者 [在其他地方托管它们](https://github.com/kdeldycke/awesome-falsehood/issues/46)。
 
-此外，如果我们必须在此仓库中托管原始谬误，我们可能必须 [检查许可证并寻求原作者的许可](https://github.com/kdeldycke/awesome-falsehood/issues/24#issuecomment-354112401)。
+此外，如果我们必须在此仓库中托管原始谬误，我们可能必须 [检查许可证并寻求原作者的许可](https://github.com/kdeldycke/awesome-falsehood/issues/24)。

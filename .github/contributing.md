@@ -113,9 +113,9 @@ There's also some specific rules depending on the list:
 Items are roughly ordered like so:
 
 1. At first we'll find content appealing to software developers or new managers. We're reaching for accessibility and targets the wider audience and provide a gentle introduction.
-1. Then we can have a couple of real use-cases or anecdotes, which makes the subject more hands-on and relatable.
-1. Third we might add a couple of reference material to generalize concepts, provide methodical solutions and expose broader thinking frameworks.
-1. At the end comes the most cynical or bleak content, which have some utility as cautionary tales, or as warning signals of deteriorating conditions.
+2. Then we can have a couple of real use-cases or anecdotes, which makes the subject more hands-on and relatable.
+3. Third we might add a couple of reference material to generalize concepts, provide methodical solutions and expose broader thinking frameworks.
+4. At the end comes the most cynical or bleak content, which have some utility as cautionary tales, or as warning signals of deteriorating conditions.
 
 ### [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood): candidates
 
@@ -165,7 +165,7 @@ Yes, but try to search first in the content produced by the author: sometimes th
 
 ### How to prevent link-rot?
 
-[As pointed by a contributor](https://github.com/kdeldycke/awesome-engineering-team-management/issues/52#issue-1499417056):
+[As pointed by a contributor](https://github.com/kdeldycke/awesome-engineering-team-management/issues/52):
 
 > The links here have a tendency to go offline. For this to be a resource of long term value, link-rot can be avoided by archiving the pages.
 
@@ -239,4 +239,4 @@ This might be a good idea to compile all falsehoods in the repository. It would 
 
 But that is a big endeavor, so to keep things simple, we just make a collection of external articles in this list. In the mean time, if you'd like to add falsehoods, I will ask potential contributors to [host them elsewhere](https://github.com/kdeldycke/awesome-falsehood/issues/46).
 
-Also, if we had to host the raw falsehoods in this repository, we might have to [check on the licence and seek permission from the original author](https://github.com/kdeldycke/awesome-falsehood/issues/24#issuecomment-354112401).
+Also, if we had to host the raw falsehoods in this repository, we might have to [check on the licence and seek permission from the original author](https://github.com/kdeldycke/awesome-falsehood/issues/24).

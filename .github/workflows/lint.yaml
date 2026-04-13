@@ -1,9 +1,19 @@
 ---
-name: Lint
+name: 🧹 Lint
 "on":
+  workflow_dispatch:
   push:
+    branches:
+      - main
+  pull_request:
+    branches-ignore:
+      - prepare-release
+      - "renovate/**"
 
 jobs:
 
   lint:
-    uses: kdeldycke/workflows/.github/workflows/lint.yaml@v4.17.9
+    uses: kdeldycke/repomatic/.github/workflows/lint.yaml@c8f44f78ebc03da94c3fa9345e1978df504cc7e3 # v6.12.0
+    secrets:
+      REPOMATIC_PAT: ${{ secrets.REPOMATIC_PAT }}
+      VIRUSTOTAL_API_KEY: ${{ secrets.VIRUSTOTAL_API_KEY }}
