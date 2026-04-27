@@ -18,6 +18,14 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 - Add the reason why the linked resource is awesome. And what it adds to the existing corpus.
 
+- GitHub repositories must meet these baseline criteria:
+
+  1. **At least 50 stars.** A minimum traction signal to filter out unknown projects.
+  2. **Not archived.** Archived repositories signal the author has moved on.
+  3. **Updated within the last 3 years.** Repositories with no push in 3+ years are considered stale.
+
+  These are defaults, not absolutes. Maintainers may make exceptions depending on the nature of the content. Static resources (reading lists, essays, falsehood articles, data sets) don't need regular commits to remain valuable. Archived repositories with high community adoption can still serve as references. Active software projects, on the other hand, are held to stricter expectations on all three criteria.
+
 - Keep the translated content up-to-date with your proposal. Propagate changes to all `readme.*.md` files. Rely on automatic translation tools. Bilingual contributors will refine the result later.
 
 ## Linting
@@ -69,6 +77,12 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
   - [`archive.ph`](https://archive.ph) for news articles
   - [`archive.org`](https://archive.org) for anything else
 
+- Some platforms gate content behind authentication and return `403` to anonymous traffic (Quora, most social-network discussions, paywalled news sites without an archive copy): do not use them, find an alternative source.
+
+- When a GitHub repository has been transferred to a new owner, update the URL to the new canonical location instead of relying on the redirect (the old `OWNER/REPO` namespace can be reclaimed by anyone, which would leave the link pointing at unrelated content).
+
+- When a vendor blog disappears (acquisition, rebrand, decommissioned subdomain), wrap the original URL with `https://web.archive.org/web/<YYYYMMDDhhmmss>/` rather than a fuzzy year prefix: a specific timestamp is more durable than letting Wayback pick the closest snapshot at request time.
+
 ### Item title
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
@@ -101,6 +115,16 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
   - You shouldn't have to re-order it though.
 
 - An additional link in the description is allowed. This must be limited to some rare cases. Like pointing to a bigger concept, an acronym definition, or reference material (book, biography, …).
+
+### Licensing markers
+
+For tool, dataset, and project entries, prefix the description with one of two emoji to inform readers about the project's commercial posture. Articles, papers, blog posts, news items, and curation lists are not marked.
+
+- 💸 — the project's primary maintainer is a commercial vendor selling a paid version of this software: hosted cloud, Enterprise tier, or proprietary modules on top of the OSS core. The marker is informational, not a quality judgment: it tells the reader that some advanced features (compliance, audit log retention, multi-tenancy add-ons, integrations) may live outside the OSS distribution. Do not apply when the vendor only sells support, SLA, or managed hosting without feature gating (Red Hat for Keycloak, for instance).
+
+- 🆓 — the project is fully open-source without a commercial vendor extracting value through feature gating: foundation-governed (CNCF, Apache Software Foundation, Eclipse), community-driven, corporate-OSS released without a paid product alongside (Lyft's Cartography, Yahoo's Athenz, Salesforce's Policy Sentry, Microsoft's Presidio), or sold only with support contracts (Red Hat for Keycloak).
+
+Format: `- [Project](url) - 💸 Description.` or `- [Project](url) - 🆓 Description.`. The two markers are mutually exclusive: a project gets one or the other, never both. Awesome-lint accepts the format unchanged.
 
 ## Editorial line
 
@@ -206,6 +230,32 @@ This is especially true for SaaS and other licensed software. If there is an ope
 These alternatives don't need to be better. They qualify if they're good enough to derives inspiration from, or starts something without barriers to entry.
 
 So for as set of multiple overlapping projects, we will consider commercial ones as duplicates and remove them, to keep the list lean.
+
+See also [Why my open-source project was removed?](#why-my-open-source-project-was-removed) for the open-core-heavy pattern, which applies even when the project is technically open-source.
+
+### Why my open-source project was removed?
+
+A permissive license on the GitHub repo is not enough. We also evaluate whether the project is genuinely usable in production without paying. The pattern we filter out is *open-core-heavy*: a project that ships an OSS shell while gating essential features behind a paid Enterprise tier or a hosted Cloud add-on.
+
+What counts as an *essential feature* depends on the domain of the list. For an authentication or access-management project, MFA, SSO protocols (SAML, OIDC, LDAP federation), multi-tenancy, fine-grained permissions, SCIM/directory sync, audit logs, and admin UI are essential. For a data tooling project, the equivalent core capabilities are essential. The maintainer for each list will spell out the domain-specific list in its FAQ or in PR review comments.
+
+When any of these is absent from the OSS distribution, sold as a per-feature add-on, kept in a separate proprietary directory (like a non-OSS-licensed `ee/` folder), or priced per-MAU, the project will not be listed alongside true-OSS alternatives in an overcrowded section.
+
+A few softer signals, evaluated together, also count against a listing:
+
+- The vendor's pricing page lists what looks like core features as paid tiers.
+- The project README explicitly mentions a "protective barrier" or "premium features" reserved for cloud.
+- Self-hosting the OSS version requires assembling several separate primitives the vendor only ships pre-integrated as a paid product.
+
+Existing entries that pass the licensing test but fall into open-core-light (some advanced compliance or directory-sync integrations gated, but the core works in OSS) may still be listed when they cover a distinct niche. Such entries are flagged with the 💸 marker in the description.
+
+See also [Why my commercial project is not in the list?](#why-my-commercial-project-is-not-in-the-list) for the fully-paywalled case where no OSS distribution exists.
+
+### Why my project was removed for inactivity?
+
+In addition to [archived repositories](#why-removes-inactive-github-projects), we also remove projects whose author has formally retired them: a notice in the README pointing users to a different project, or a public statement that "new projects should no longer rely on this", is treated as a stronger signal than the GitHub archive flag alone.
+
+Acquisitions that result in the OSS repo being maintained-but-not-developed (Dependabot bumps and copyright touch-ups only, with the company's roadmap on a successor commercial product) are also grounds for removal in overcrowded sections.
 
 ### Why my link was rejected?
 

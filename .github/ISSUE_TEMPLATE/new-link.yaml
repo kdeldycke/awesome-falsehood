@@ -34,6 +34,28 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: license-marker
+    attributes:
+      label: Licensing marker (for tools, datasets, and projects only)
+      description: >
+        Tool/dataset/project entries are flagged with either 💸 or 🆓 to inform readers about
+        the project's commercial posture. Pick the one that applies, or select "Not applicable"
+        for articles, papers, blog posts, news items, and curation lists, which are not marked.
+        See the [Contributing guide
+        ](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md#licensing-markers)
+        for the precise definition of each marker.
+      options:
+        - "Not applicable (article, paper, blog post, news item, or curation list)"
+        - >-
+          💸 — primary maintainer is a commercial vendor selling a paid version
+          (cloud, Enterprise tier, proprietary modules)
+        - >-
+          🆓 — fully open-source: foundation-governed, community-driven,
+          corporate-OSS without paid product, or support-only commercial model
+    validations:
+      required: true
+
   - type: checkboxes
     id: self-checks
     attributes:

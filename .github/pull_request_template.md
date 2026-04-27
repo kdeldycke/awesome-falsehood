@@ -18,6 +18,25 @@ This new link is special because...
 - [ ] I am working for/with the company publishing the article or project
 - [ ] I'm just a rando who stumbled upon this via social networks
 
+### Licensing marker
+
+<!--
+
+For tool, dataset, and project entries (not for articles, papers, or curation lists), pick one:
+
+- 💸 — primary maintainer is a commercial vendor selling a paid version (cloud, Enterprise tier, proprietary modules on top of the OSS core)
+- 🆓 — fully open-source: foundation-governed (CNCF, Apache, Eclipse), community-driven, corporate-OSS without a paid product, or support-only commercial model
+
+Format: `- [Project](url) - 💸 Description.` or `- [Project](url) - 🆓 Description.`
+
+The 💸 and 🆓 markers are mutually exclusive. Articles, papers, and curation lists are not marked.
+
+-->
+
+- [ ] My entry is an article/paper/curation list and is not marked
+- [ ] My entry is a tool/dataset/project marked with 💸 (commercial vendor)
+- [ ] My entry is a tool/dataset/project marked with 🆓 (fully open-source)
+
 ### Self checks
 
 - [ ] I have [read the Code of Conduct](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/code-of-conduct.md)
