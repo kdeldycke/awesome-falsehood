@@ -84,8 +84,8 @@
 - ["系统无法处理十亿美元"](https://xcancel.com/signulll/status/1950294195039838480) - AI热潮中Meta公司疯狂的薪酬待遇导致ERP系统崩溃。
 - [公司名称中的`<` 和 `>`会导致XSS攻击](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [英国允许用特殊字符注册公司](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made), 一个骇客利用这种方式注册 `\"><SCRIPT SRC=MJT.XSS.HT></SCRIPT> LTD`, but also `; DROP TABLE "COMPANIES";-- LTD`, `BETTS &AMP; TWINE LTD` and `SAFDASD & SFSAF \' SFDAASF\" LTD`.
 - [公司名称的细节](https://twitter.com/nthnmsmth/status/1587880523124408322) - 怎么让特拉华州和国税局的规则不冲突.
-- [CLDR货币定义](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - 由于 叛乱、侵略、新法和缓慢的推进的计划，货币的有效日期范围出现重叠.
-- [`税`](https://github.com/commerceguys/tax) - 一个PHP 5.4 的税务管理库.
+- [CLDR货币定义](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - 🆓 由于 叛乱、侵略、新法和缓慢的推进的计划，货币的有效日期范围出现重叠.
+- [`税`](https://github.com/commerceguys/tax) - 🆓 一个PHP 5.4 的税务管理库.
 
 ## 加密货币
 
@@ -101,7 +101,7 @@
 - [Unix时间谬误](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - 注意润秒!
 - [时区谬误](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/) - 关于 DST 转换的边缘情况有一些不错的观点.
 - [日历谬误](http://yourcalendricalfallacyis.com) - 一个涵盖插值和文化影响的清单，由 iOS 和 macOS 开发者社区制作.
-- [时区数据库](https://www.iana.org/time-zones) - 全球许多代表性地点当地时间历史的代码和数据.
+- [时区数据库](https://www.iana.org/time-zones) - 🆓 全球许多代表性地点当地时间历史的代码和数据.
 - [漫长而痛苦的时间史](http://naggum.no/lugm-time.html) - 时间记录中的大多数特殊性都可以在历史中找到解释.
 - [你提倡日历改革](https://qntm.org/calendar) - 这篇文章告诉你为什么你的想法行不通.
 - [所以你想废除时区](https://qntm.org/abolish) - 废除时区听起来似乎是个好主意，但有很多复杂因素让它似乎没那么好.
@@ -127,7 +127,7 @@
 - [我以为我知道如何验证邮件地址,直到我读了 RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - 提供一些复杂的例子，这些例子是根据 RFC-822 标准认为有效的电子邮件地址.
 - [所以你认为你可以验证邮件地址 (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - 边缘案例电子邮件地址的展示以及为何不应使用正则表达式来解析它们.
 - [你的邮件验证的逻辑是错的](https://www.netmeister.org/blog/email.html) - 电子邮件地址中允许的各种令人惊讶的内容总结.
-- [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) - 一个实现基于 RFC 的邮件地址检查的库.
+- [`libvldmail`](https://github.com/dertuxmalwieder/libvldmail) - 🆓 一个实现基于 RFC 的邮件地址检查的库.
 
 ## 地理
 
@@ -162,15 +162,15 @@
 - [文本谬误](https://wiesmann.codiferes.net/wordpress/archives/30296) -以上谬误中的一部分，并附带一些示例说明.
 - [代码国际化](https://www.youtube.com/watch?v=0j74jcxSunY) - 关于在代码国际化时需要注意的事项的视频.
 - [关于Unicode 和字符集你至少应该知道的](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 对unicode很棒的介绍, 包括其历史背景和起源，随后概述其内部工作原理.
-- [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - 精心总结的 Unicode 小知识、软件包和资源清单.
+- [Awesome Unicode](https://github.com/jagracey/Awesome-Unicode) - 精心总结的 Unicode 小知识、软件包和资源清单.
 - [Unicode的黑暗角落](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode 非常庞大，小心其中的陷阱.
 - [别给码位加戏了](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - 深入探讨 Unicode，并揭穿关于码位的流言.
 - [Unicode谬误](https://jean.abou-samra.fr/blog/unicode-misconceptions/) - 一系列关于大小写、编码、字符串长度等的谬误.
 - [打破我们对 `Latin-1` 的假设](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - 大多数程序员在'Latin-1'上花了太多时间，以至于忘记了其他脚本的特点.
 - [致货运标签](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很复杂，尤其是当每一层损坏的数据输入都增添了自己的复杂性时.
 - [本地化失败：困难的温度](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/) - 你无法直接对温差进行本地化处理.
-- [国际化测试数据](https://github.com/patch/i18n-testing) - 用于单元测试和质量保证的真实词汇的国际和多样化姓名数据集汇编.
-- [违规字符串大集合](https://github.com/minimaxir/big-list-of-naughty-strings) - 一个庞大的字符串语料库,当作为用户输入数据时，很有可能导致问题. 必须有一组有效的边缘案例来测试您的软件.
+- [国际化测试数据](https://github.com/patch/i18n-testing) - 🆓 用于单元测试和质量保证的真实词汇的国际和多样化姓名数据集汇编.
+- [违规字符串大集合](https://github.com/minimaxir/big-list-of-naughty-strings) - 🆓 一个庞大的字符串语料库,当作为用户输入数据时，很有可能导致问题. 必须有一组有效的边缘案例来测试您的软件.
 
 ## 管理
 
@@ -190,12 +190,11 @@
 - [分布式计算谬误](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - 新接触分布式应用的程序员不可避免的错误假设.
 - [IP地址不止一种写法](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - 地址的某些部分是可选的，要注意十进制和八进制表示，而且 [别忘了 IPv6](https://news.ycombinator.com/item?id=20390981) .
 - [IDN 很疯狂](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) - 域名中的国际字符意味着支持同形异义词和异形异义词.
-- [`主机名-校验`](https://github.com/jakeogh/hostname-validate) - 一个尝试校验主机名的 python库.
 
 ## 电话号码
 
-- [电话号谬误](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 包括电话号码，他们的表示和意义.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google的一个通用库，用于解析，校验，格式化国际电话号码.包括Java, C++ 和 JavaScript.也能用于 [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
+- [电话号谬误](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) - 包括电话号码，他们的表示和意义.
+- [`libphonenumber`](https://github.com/google/libphonenumber) - 🆓 Google的一个通用库，用于解析，校验，格式化国际电话号码.包括Java, C++ 和 JavaScript.也能用于 [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 ## 邮政编码
 
@@ -208,10 +207,10 @@
 - [正则表达式和邮政地址](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - 为什么正则表达式和街道地址不相容.
 - [解析臭名昭著的日本邮政 CSV](https://www.dampfkraft.com/posuto.html) - "我见过许多可怕的事情，但从未在其他地方见过这种特殊的格式选择".
 - [USPS 邮政地址标准](https://pe.usps.com/text/pub28/welcome.htm) - 描述了标准化的地址格式和内容.
-- [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - 谷歌用于解析、格式化和验证国际邮政地址的常用 C++ 和 Java 库.
-- [`addressing`](https://github.com/commerceguys/addressing) - 一个基于谷歌数据集的 PHP 5.4+ 地址库.
-- [`postal-address`](https://github.com/scaleway/postal-address) - 用于解析、标准化和渲染邮政地址的 Python 模块.
-- [`address`](https://github.com/Boostport/address) - 基于谷歌的数据集的用于验证和格式化地址的 Go 库.
+- [`libaddressinput`](https://github.com/google/libaddressinput) - 🆓 谷歌用于解析、格式化和验证国际邮政地址的常用 C++ 和 Java 库.
+- [`addressing`](https://github.com/commerceguys/addressing) - 🆓 一个基于谷歌数据集的 PHP 5.4+ 地址库.
+- [`postal-address`](https://github.com/scaleway/postal-address) - 🆓 用于解析、标准化和渲染邮政地址的 Python 模块.
+- [`address`](https://github.com/Boostport/address) - 🆓 基于谷歌的数据集的用于验证和格式化地址的 Go 库.
 
 ## 科学
 
@@ -246,15 +245,12 @@
 - [浮点流言](https://0.30000000000000004.com) - “你的语言没坏, 它只是在进行浮点计算. (…) 这就是为什么经常发生 `0.1 + 0.2 != 0.3`.
 - [来自地狱的YAML文档](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) - YAML 充满了模糊的复杂性，例如意外的数字和非字符串键.
 - [我对标签系统充满了无尽的兴趣](https://twitter.com/hillelogram/status/1534301374166474752) - 即使在应该是简单的标签系统中，也存在一些边缘情况.
-- [量子技术谬误](https://github.com/gottfriedsz/falsehoods-quantum) - 关于量子技术和计算机的常见误解
 - [事件驱动系统谬误](https://dimtion.fr/blog/falsehoods-event-driven/) - 关于事件驱动系统和消息传递的误解.
 - [关于数字对象标识符 （DOI） 的虚假信息](https://pardalotus.tech/posts/2024-10-02-falsehoods-programmers-believe-about-dois/) - 关于用于识别和链接研究成果（以及许多其他内容）的标识符的错误概念。
 - [关于 CVE 的谬论](https://medium.com/@jonathan.leitschuh/falsehoods-people-believe-about-cves-85c1d063ffda) - CVE ≠漏洞（以及其他 36 种混淆）。
-- [授权方面的谬误](https://www.osohq.com/post/falsehoods-about-authorization) - 关于实施权限系统的误解。
 
 ## 交通
 
-- [汽车谬误](https://github.com/driveto/falsehoods-about-cars) - 即使是像定义一辆汽车这样普遍的事情也充满了陷阱.
 - [关于航空的谎言](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/) - 航空数据没有你想象的那么标准化。
 - [航空座位图谬误](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐的座位排和列复杂得多.
 - [大量混乱到令人抓狂的航空码](https://www.youtube.com/watch?v=jfOUVYQnuhw) - 多个国际和国家机构试图调和历史、实用性和物流，导致航空码遵循古怪的规则.
