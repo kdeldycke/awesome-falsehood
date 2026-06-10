@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+- --
 
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-falsehood#readme.md" hreflang="en"><img src="https://img.shields.io/badge/lang-English-blue?style=flat-square" lang="en" alt="English"></a>
@@ -31,6 +31,35 @@ A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sin
 E.g. of an *idea*: valid email address exactly has one `@` character. So, you will use this rule to implement your email-field validation logic. Right? Wrong! The *reality* is: emails can have multiple `@` chars. Therefore your implementation should allow this. The initial *idea* is a falsehood you believed in.
 
 The *falsehood* articles listed below will have a comprehensive list of those false-beliefs that you should be aware of, to help you become a better programmer.
+
+
+## Table of Contents
+
+- [Contents](#contents)
+- [Meta](#meta)
+- [Arts](#arts)
+- [Business](#business)
+- [Cryptocurrency](#cryptocurrency)
+- [Dates and Time](#dates-and-time)
+- [Education](#education)
+- [Emails](#emails)
+- [Geography](#geography)
+- [Human Identity](#human-identity)
+- [Internationalization](#internationalization)
+- [Management](#management)
+- [Multimedia](#multimedia)
+- [Networks](#networks)
+- [Phone Numbers](#phone-numbers)
+- [Postal Addresses](#postal-addresses)
+- [Science](#science)
+- [Society](#society)
+- [Software Engineering](#software-engineering)
+- [Transportation](#transportation)
+- [Typography](#typography)
+- [Video Games](#video-games)
+- [Web](#web)
+- [Contributing](#contributing)
+- [Footnotes](#footnotes)
 
 ## Contents
 
