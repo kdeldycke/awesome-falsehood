@@ -101,6 +101,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [Falsehoods about Time Zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/) - Has some nice points regarding the edge-cases of DST transitions.
 - [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) - List covering intercalation and cultural influence, made by a community of iOS and macOS developers.
 - [Time Zone Database](https://www.iana.org/time-zones) - 🆓 Code and data that represent the history of local time for many representative locations around the globe.
+- [naughty-datetimes](https://github.com/FoundagentTest/naughty-datetimes) - 🆓 A categorized, annotated corpus of datetime and timezone values that break parsers and storage (DST gaps and overlaps, non-leap century years, the 2038 overflow, leap seconds, `-00:00`, `24:00:00`, `+14:00`), packaged as ready-to-run test fixtures in JSON and a flat list.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - Most of the idiosyncrasies in timekeeping can find an explanation in history.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will not work. This article tells you why.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) - Abolishing timezones may sound like a good idea, but there are quite a few complications that make it not quite so.
