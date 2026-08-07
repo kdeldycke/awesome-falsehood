@@ -113,7 +113,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 - [How to choose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - Depends on your priorities between SI seconds, earth rotation sync, leap seconds avoidance.
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://web.archive.org/web/20241124114705/https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r/6841479#answer-6841479) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - From Y2K to the overflow of 32-bit seconds from Unix epoch, a list of special date to watch for depending on the system.
-- “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://www.amazon.com/dp/0316491705?&linkCode=ll1&tag=kevideld-20&linkId=ec2881e22fb26c2d43de0daeebd5424d&language=en_US&ref_=as_li_ss_tl).
+- “I'm going to a commune in Vermont and will deal with no unit of time shorter than a season.” - Is the note left on his terminal by a quitting engineer in the 70s, after too much effort toiling away on sub-second timing concerns. Source: [The Soul of a New Machine](https://openlibrary.org/isbn/0316491705).
 
 ## Education
 
@@ -283,4 +283,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?&linkCode=ll1&tag=kevideld-20&linkId=a1903c3fbfdc82fbe2e566fca40718fb&language=en_US&ref_=as_li_ss_tl) (Liveright, 2022) - [source: page 14e](https://archive.org/details/notebooks191419100witt/page/n35). [[↑]](#intro-quote-ref)
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*](https://openlibrary.org/isbn/1324090804) (Liveright, 2022) - [source: page 14e](https://archive.org/details/notebooks191419100witt/page/n35). [[↑]](#intro-quote-ref)

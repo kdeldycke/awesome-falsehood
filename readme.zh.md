@@ -114,7 +114,7 @@
 - [如何在 UT1、TAI 和 UTC 之间进行选择](https://news.ycombinator.com/item?id=28047376) - 这取决于你对 SI 秒、地球自转同步和避免闰秒的优先级.
 - [为什么 1927年的这两个时间想减得到了奇怪的结果?](https://web.archive.org/web/20241124114705/https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r/6841479#answer-6841479) - 臭名昭著的 Stack Overflow 答案，涉及复杂的历史时区，以及如何通过新版本的软件重新解释历史日期.
 - [至关重要的日期](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 Unix 纪元的 32 位秒溢出，列出了一些特殊日期，需根据系统进行关注.
-- “我要去佛蒙特的一个公社，期间不打算处理比一个季节更短的时间单位” - 这是一个在 70 年代辞职的工程师留下的留言，他在处理亚秒级计时问题上付出了过多的努力. 出处: [The Soul of a New Machine](https://www.amazon.com/dp/0316491705?&linkCode=ll1&tag=kevideld-20&linkId=ec2881e22fb26c2d43de0daeebd5424d&language=en_US&ref_=as_li_ss_tl).
+- “我要去佛蒙特的一个公社，期间不打算处理比一个季节更短的时间单位” - 这是一个在 70 年代辞职的工程师留下的留言，他在处理亚秒级计时问题上付出了过多的努力. 出处: [The Soul of a New Machine](https://openlibrary.org/isbn/0316491705).
 
 ## 教育
 
@@ -284,4 +284,4 @@
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?&linkCode=ll1&tag=kevideld-20&linkId=a1903c3fbfdc82fbe2e566fca40718fb&language=en_US&ref_=as_li_ss_tl) (Liveright, 2022) - [出处: 14页](https://archive.org/details/notebooks191419100witt/page/n35). [[↑]](#intro-quote-ref)
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*](https://openlibrary.org/isbn/1324090804) (Liveright, 2022) - [出处: 14页](https://archive.org/details/notebooks191419100witt/page/n35). [[↑]](#intro-quote-ref)
