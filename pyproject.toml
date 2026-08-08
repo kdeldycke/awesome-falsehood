@@ -1,13 +1,22 @@
 [tool.lychee]
 exclude = [
-    # Skip archive.ph and Sci-Hub because they restrict access to crawlers.
-    # Skip HN because of rate-limiting.
-    # See: https://github.com/lycheeverse/lychee/issues/989#issuecomment-1587208730
-    # https://github.com/lycheeverse/lychee/pull/1147
-    "archive\\.ph",
-    "sci-hub\\.st",
-    "ycombinator\\.com",
-    "x\\.com",
+  # GitHub issue comment fragments are dynamically loaded and can't be verified.
+  "^https://github.com/.+/issues/[0-9]+#issuecomment-.*$",
+  # Release binary download URLs redirect to the GitHub CDN (objects.githubusercontent.com).
+  "^https://github.com/.+/releases/.+/download/.*$",
+  # Allow redirects of generic DOI URLs to their specific Zenodo release page.
+  "^https://doi.org/.+/zenodo.*$",
+  # Skip archive.ph and Sci-Hub because they restrict access to crawlers.
+  # Skip HN because of rate-limiting.
+  # See: https://github.com/lycheeverse/lychee/issues/989#issuecomment-1587208730
+  # https://github.com/lycheeverse/lychee/pull/1147
+  "archive\\.ph",
+  "sci-hub\\.st",
+  "ycombinator\\.com",
+  "x\\.com",
+  # VirusTotal analysis pages are a JS app that rate-limits bots, and the
+  # binaries page links one per released binary.
+  "^https://www\\.virustotal\\.com/gui/.*$",
 ]
 
 [tool.gitleaks.allowlist]

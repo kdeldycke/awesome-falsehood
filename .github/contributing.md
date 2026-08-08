@@ -24,7 +24,7 @@ This repository has reached an equilibrium state. We are past its accumulation p
   2. **Not archived.** Archived repositories signal the author has moved on.
   3. **Updated within the last 3 years.** Repositories with no push in 3+ years are considered stale.
 
-  These are defaults, not absolutes. Maintainers may make exceptions depending on the nature of the content. Static resources (reading lists, essays, falsehood articles, data sets) don't need regular commits to remain valuable. Archived repositories with high community adoption can still serve as references. Active software projects, on the other hand, are held to stricter expectations on all three criteria.
+  These are defaults, not absolutes. Maintainers may make exceptions depending on the nature of the content. Static resources (reading lists, essays, falsehood articles, data sets, structured reference data, identifier registries) don't need regular commits to remain valuable. Archived repositories with high community adoption can still serve as references. Repositories containing concrete domain logic with no equivalent elsewhere in OSS (rule implementations with thresholds, decision matrices, canonical mappings) qualify as static reference material even when archived. Dormant projects that remain the only OSS reference in a niche may be kept with an explicit dormancy disclosure in the description. Active software projects, on the other hand, are held to stricter expectations on all three criteria.
 
 - Keep the translated content up-to-date with your proposal. Propagate changes to all `readme.*.md` files. Rely on automatic translation tools. Bilingual contributors will refine the result later.
 
@@ -118,13 +118,27 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 ### Licensing markers
 
-For tool, dataset, and project entries, prefix the description with one of two emoji to inform readers about the project's commercial posture. Articles, papers, blog posts, news items, and curation lists are not marked.
+For tool, dataset, and project entries, prefix the description with one of two emoji to inform readers about the project's commercial posture. Articles, papers, blog posts, news items, and curation lists are not marked. The same exemption applies to reference material rather than software: technical specifications, industry standards, vendor API documentation, and schema references. These describe a contract or a format, not a piece of software with a commercial posture to flag.
 
 - 💸 — the project's primary maintainer is a commercial vendor selling a paid version of this software: hosted cloud, Enterprise tier, or proprietary modules on top of the OSS core. The marker is informational, not a quality judgment: it tells the reader that some advanced features (compliance, audit log retention, multi-tenancy add-ons, integrations) may live outside the OSS distribution. Do not apply when the vendor only sells support, SLA, or managed hosting without feature gating (Red Hat for Keycloak, for instance).
 
 - 🆓 — the project is fully open-source without a commercial vendor extracting value through feature gating: foundation-governed (CNCF, Apache Software Foundation, Eclipse), community-driven, corporate-OSS released without a paid product alongside (Lyft's Cartography, Yahoo's Athenz, Salesforce's Policy Sentry, Microsoft's Presidio), or sold only with support contracts (Red Hat for Keycloak).
 
 Format: `- [Project](url) - 💸 Description.` or `- [Project](url) - 🆓 Description.`. The two markers are mutually exclusive: a project gets one or the other, never both. Awesome-lint accepts the format unchanged.
+
+Sponsor entries are exempt from the marker requirement: see [How can I force a link into the list?](#how-can-i-force-a-link-into-the-list).
+
+Common edge cases (the yardstick: feature gating is what triggers 💸, not the mere existence of a commercial vendor):
+
+- **Stewardship by a consultancy that only sells services around the OSS**: 🆓. Selling consulting around an OSS library is not feature gating.
+- **Vendor that historically sold a hosted SaaS but discontinued it, leaving the project community-maintained**: 🆓. No current paid product means no gating.
+- **Free dataset or comparison site that is lead-gen for a separate commercial platform**: 💸. The dataset itself is free, but the entry tags the project's commercial parent.
+- **Open spec plus commercial SaaS implementation by the same vendor**: 💸. The spec is open, but the entry tags the project's monetization model.
+- **Open-core-light** (core works standalone, only advanced modules are Enterprise): keep with 💸.
+- **Open-core-heavy** (essential features like SSO, fine-grained permissions, or white-labeling all gated): flag for removal per the [open-core-heavy](#why-my-open-source-project-was-removed) rule.
+- **Self-hostable software whose vendor sells managed hosting only**: 🆓. Managed hosting is not feature gating.
+- **Free educational content with paid supplementary templates** (substantive material remains accessible without payment, paid tier sells reformatted versions as convenience packaging): 🆓. Selling reformatted versions of free content is not feature gating, as long as the substantive material remains accessible without payment.
+- **Sub-product folded into a parent commercial site via redirect**: consolidate into a single entry. Two listed entries that now resolve to the same vendor's domain are duplicates per the [2-links-per-commercial-domain rule](#why-my-link-was-rejected), even when the original domains differed.
 
 ## Editorial line
 
@@ -257,6 +271,8 @@ In addition to [archived repositories](#why-removes-inactive-github-projects), w
 
 Acquisitions that result in the OSS repo being maintained-but-not-developed (Dependabot bumps and copyright touch-ups only, with the company's roadmap on a successor commercial product) are also grounds for removal in overcrowded sections.
 
+Category-wide obsolescence is also grounds for wholesale removal, even when individual projects in the category still meet the baseline criteria. When a paradigm shift makes a class of tools collectively redundant, the whole sub-section may be pruned rather than evaluated project-by-project. The historical entries can be recovered from git history if the paradigm reverses.
+
 ### Why my link was rejected?
 
 If your link was rejected, it must have been motivated and explained to the contributor as a comment to your PR.
@@ -277,7 +293,11 @@ Some reasons for rejection, which often overlaps, includes:
 
 ### How can I force a link into the list?
 
-If your contribution has been declined, there is a way to bypass the curation rules. You can [purchase a sponsorship](https://github.com/sponsors/kdeldycke) and have your product, logo and link at the top of this repository! 🤗 Like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386).
+If your contribution has been declined, there is a way to bypass the curation rules. [Purchase a sponsorship](https://github.com/sponsors/kdeldycke) 🤗 and you get:
+
+- your product, logo and link at the top of this repository, like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386);
+- a dedicated entry placed at the top of the section that matches your product, so readers and LLMs ingesting the list itself (not just the header banner) discover your link;
+- a waiver on the [💸 licensing marker](#licensing-markers): your entry appears without the commercial-vendor tag.
 
 ## FAQ for [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood)
 
