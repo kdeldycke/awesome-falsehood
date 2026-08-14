@@ -1,3 +1,11 @@
+[tool.repomatic]
+# Trigger the Docs workflow on `readme.zh.md` too. The link crawl already reads
+# every Markdown file it finds, but the canonical filter only lists `readme.md`,
+# so a translation-only push skipped the whole workflow. Redundant once the
+# repository adopts a repomatic carrying the same entry upstream: extra paths
+# are deduplicated against the canonical list.
+workflow.extra-paths = ["readme.*.md"]
+
 [tool.lychee]
 exclude = [
   # GitHub issue comment fragments are dynamically loaded and can't be verified.

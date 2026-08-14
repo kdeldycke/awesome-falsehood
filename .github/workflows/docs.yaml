@@ -14,6 +14,7 @@ name: 📚 Docs
       - readme.md
       - uv.lock
       - "**/*.py"
+      - "readme.*.md"
 
 jobs:
 
