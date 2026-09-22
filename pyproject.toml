@@ -45,7 +45,6 @@ exclude = [
   "^https://star-history\\.com/.*$",
   # githubstatus.com returns 405 to HEAD requests from bots.
   "githubstatus\\.com",
-  "x\\.com",
 ]
 
 [tool.gitleaks.allowlist]
