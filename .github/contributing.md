@@ -79,6 +79,8 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Some platforms gate content behind authentication and return `403` to anonymous traffic (Quora, most social-network discussions, paywalled news sites without an archive copy): do not use them, find an alternative source.
 
+- A `403` from a crawler-blocked domain is not a dead link when a browser still gets the full article. Keep the original URL and add the domain to `[tool.lychee] exclude` in `pyproject.toml`: archiving it would cost readers the live page to satisfy a checker. Only a `404`, dead for readers too, gets replaced. `medium.com` is excluded this way.
+
 - When a GitHub repository has been transferred to a new owner, update the URL to the new canonical location instead of relying on the redirect (the old `OWNER/REPO` namespace can be reclaimed by anyone, which would leave the link pointing at unrelated content).
 
 - When a vendor blog disappears (acquisition, rebrand, decommissioned subdomain), wrap the original URL with `https://web.archive.org/web/<YYYYMMDDhhmmss>/` rather than a fuzzy year prefix: a specific timestamp is more durable than letting Wayback pick the closest snapshot at request time.
