@@ -21,10 +21,26 @@ exclude = [
   "archive\\.ph",
   "sci-hub\\.st",
   "ycombinator\\.com",
-  "x\\.com",
+  # Anchored, unlike its neighbours: these patterns are substring matches, and a
+  # bare `x\.com` also swallows every domain ending in it, like cloudlinux.com,
+  # which is then silently never checked.
+  "^https://(www\\.)?x\\.com(/.*)?$",
   # VirusTotal analysis pages are a JS app that rate-limits bots, and the
   # binaries page links one per released binary.
   "^https://www\\.virustotal\\.com/gui/.*$",
+  # Bitdefender returns 403 to bots. The `av-false-positive` skill links its
+  # submission portal from any repository shipping compiled binaries.
+  "bitdefender\\.com",
+  # npmjs.com returns 403 to bots.
+  "^https://www\\.npmjs\\.com/package/.*$",
+  # star-history.com builds its chart and its anchor with JavaScript, so both
+  # the link and its fragment are invisible to lychee. The `benchmark-update`
+  # skill now draws its chart locally, but a `docs/benchmark.md` it wrote
+  # earlier may still embed one of these.
+  "^https://star-history\\.com/.*$",
+  # githubstatus.com returns 405 to HEAD requests from bots.
+  "githubstatus\\.com",
+  "x\\.com",
 ]
 
 [tool.gitleaks.allowlist]
