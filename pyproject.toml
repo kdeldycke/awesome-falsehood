@@ -23,11 +23,6 @@ exclude = [
   # Bitdefender returns 403 to bots. The `av-false-positive` skill links its
   # submission portal from any repository shipping compiled binaries.
   "bitdefender\\.com",
-  # Medium returns 403 to anonymous crawlers but serves the full article to a
-  # browser, so its links stay unarchived for readers. Anchored, like `x\.com`
-  # above: a bare `medium\.com` also swallows every Wayback snapshot of a
-  # Medium article, which then stops being checked.
-  "^https://(www\\.)?medium\\.com(/.*)?$",
   # npmjs.com returns 403 to bots.
   "^https://www\\.npmjs\\.com/package/.*$",
   # star-history.com builds its chart and its anchor with JavaScript, so both
@@ -37,6 +32,7 @@ exclude = [
   "^https://star-history\\.com/.*$",
   # githubstatus.com returns 405 to HEAD requests from bots.
   "githubstatus\\.com",
+  "^https://(www\\.)?medium\\.com(/.*)?$",
 ]
 
 [tool.gitleaks.allowlist]
