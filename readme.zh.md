@@ -249,6 +249,7 @@
 - [事件驱动系统谬误](https://dimtion.fr/blog/falsehoods-event-driven/) - 关于事件驱动系统和消息传递的误解.
 - [关于数字对象标识符 （DOI） 的虚假信息](https://pardalotus.tech/posts/2024-10-02-falsehoods-programmers-believe-about-dois/) - 关于用于识别和链接研究成果（以及许多其他内容）的标识符的错误概念。
 - [关于 CVE 的谬论](https://medium.com/@jonathan.leitschuh/falsehoods-people-believe-about-cves-85c1d063ffda) - CVE ≠漏洞（以及其他 36 种混淆）。
+- [Telegram 频道 ID 是一座时钟](https://tgscope.io/rnd/telegram-channel-id-clock) - 频道 ID 在 2017 年以前按顺序分配，此后在轮换的号段内随机分配，2024 年 5 月越过 2³¹，至今仍能推断每个频道的创建时间。
 
 ## 交通
 
