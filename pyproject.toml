@@ -73,7 +73,7 @@ commits = [
 ]
 
 [tool.typos]
-# Correct capitalization for proper nouns referenced in claude.md, plus "PATCHed"
+# Correct capitalization for proper nouns, plus "PATCHed"
 # and "PNGs": typos cuts an all-caps run before its trailing lowercase letters,
 # so "PNGs" is checked as "PN" + "Gs" and rewritten to "ONGs", and "PATCHed" as
 # "PATC" + "Hed" and rewritten to "PATCHead". Only an identifier accept
@@ -84,6 +84,14 @@ default.extend-identifiers = { Github = "GitHub", IOS = "iOS", Javascript = "Jav
 default.extend-words = { astroid = "astroid", oject = "oject", sur = "sur" }
 # Skip content between <!-- typos:off --> and <!-- typos:on --> markers.
 default.extend-ignore-re = [ "(?s)<!-- typos:off -->.*?<!-- typos:on -->" ]
+# Check hidden files and directories too, which typos skips by default: the
+# `.github/` workflows and the `.claude/` agents and skills live there.
+files.ignore-hidden = false
+# Hidden files bring in paths typos must never rewrite. `.git` holds the
+# repository internals. `sync-gitignore` regenerates `.gitignore`, which also
+# carries globs like `[Ii]nclude` that typos reads as a typo it cannot fix.
+# `.mailmap` lists contributor names, where a fix renames a person.
+files.extend-exclude = [ ".git", ".gitignore", ".mailmap" ]
 # Skip the content of SVG files. A terminal capture renders each run of
 # same-styled characters as one <text> element, so a word cut at a run boundary
 # leaves a fragment the checker reads as a misspelling. Correcting it in place
