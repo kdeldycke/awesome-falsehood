@@ -79,6 +79,7 @@
 - [价格谬误](https://gist.github.com/rgs/6509585) - 涵盖货币、金额和本地化.
 - [IBAN谬误](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行账户号码并不是全球统一的.
 - [经济学谬误](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学不简单，也不理性.
+- [很多人觉得太显而易见而没人告诉你的事](https://threadreaderapp.com/thread/936615043126370306.html) - 读起来像一份关于科技行业商业的谬误清单：“任何地方都不存在一群深藏不露、真正知道自己在做什么的聪明人。政府里没有，科学界没有，科技行业也没有，(…) 哪里都没有。”
 - [Etsy会计系统的小数点错误](https://web.archive.org/web/20230615151102/https://old.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：漏掉小数点会导致多收费100倍.
 - [两万五千刀的水分资金](https://web.archive.org/web/20250326135824/http://rachelbythebay.com/w/2022/12/02/25k/) - 这种把美元和美分切割的错误同样出现在谷歌广告中，把 250美元的内部优惠券变成了 25000美元. 我的建议是: [货币值抛弃小数和浮点数. 用 decimals. 或者用回字符串解析, 而不校验.](https://twitter.com/kdeldycke/status/1599113889093890049)
 - ["系统无法处理十亿美元"](https://xcancel.com/signulll/status/1950294195039838480) - AI热潮中Meta公司疯狂的薪酬待遇导致ERP系统崩溃。
