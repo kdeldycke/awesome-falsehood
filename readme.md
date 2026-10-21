@@ -194,6 +194,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Phone Numbers
 
+- [DialWick](https://dialwick.com/) - 🆓 Free browser lookup for telephone area codes and ZIP codes; no sign-up.
 - [Falsehoods about Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 - [`libphonenumber`](https://github.com/google/libphonenumber) - 🆓 Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers) and [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
