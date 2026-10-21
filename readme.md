@@ -94,6 +94,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 
 ## Dates and Time
 
+- [CalcBadger Date Calculator](https://calcbadger.com/date-calculator/) - 🆓 Days between dates, add/subtract days, and holiday countdowns; no sign-up.
 - [Falsehoods about Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - Seminal article on dates and time.
 - [More Falsehoods about Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) - Part. 2 of the article above.
 - [Falsehoods about Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - Another takes on time-related falsehoods, with an emphasis on time zones.
