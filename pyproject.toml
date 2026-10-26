@@ -24,9 +24,9 @@ exclude = [
   # submission portal from any repository shipping compiled binaries.
   "bitdefender\\.com",
   # Medium returns 403 to anonymous crawlers but serves the full article to a
-  # browser, so its links stay unarchived for readers. Anchored, like `x\.com`
-  # above: a bare `medium\.com` also swallows every Wayback snapshot of a
-  # Medium article, which then stops being checked.
+  # browser, so a link to it stays unarchived for readers. Anchored, like
+  # `x\.com` above: a bare `medium\.com` also swallows every Wayback snapshot
+  # of a Medium article, which then stops being checked.
   "^https://(www\\.)?medium\\.com(/.*)?$",
   # npmjs.com returns 403 to bots.
   "^https://www\\.npmjs\\.com/package/.*$",
@@ -37,6 +37,9 @@ exclude = [
   "^https://star-history\\.com/.*$",
   # githubstatus.com returns 405 to HEAD requests from bots.
   "githubstatus\\.com",
+  # claude.ai sits behind a Cloudflare challenge that answers 403 to some
+  # crawlers. The stock header of an agent instructions file links it.
+  "^https://claude\\.ai/.*$",
 ]
 
 [tool.gitleaks.allowlist]
@@ -73,17 +76,25 @@ commits = [
 ]
 
 [tool.typos]
-# Correct capitalization for proper nouns referenced in claude.md, plus "PATCHed"
+# Correct capitalization for proper nouns, plus "PATCHed"
 # and "PNGs": typos cuts an all-caps run before its trailing lowercase letters,
 # so "PNGs" is checked as "PN" + "Gs" and rewritten to "ONGs", and "PATCHed" as
 # "PATC" + "Hed" and rewritten to "PATCHead". Only an identifier accept
 # suppresses either, since the checker never sees the whole word. Any acronym
 # carrying a lowercase suffix needs its own entry here.
 default.extend-identifiers = { Github = "GitHub", IOS = "iOS", Javascript = "JavaScript", MacOS = "macOS", PATCHed = "PATCHed", PNGs = "PNGs", PyPi = "PyPI", Typescript = "TypeScript" }
-# False positives: "astroid" is a Python AST library (not "asteroid"); "oject" appears when "pyproject.toml" is split across line breaks in CLI help output; "sur" is macOS 11 Big Sur and Homebrew's big_sur bottle tag (not "sure").
-default.extend-words = { astroid = "astroid", oject = "oject", sur = "sur" }
+# False positives: "astroid" is a Python AST library (not "asteroid"); "certifi" is the CA bundle package a dependency graph lists under requests (not "certify"); "oject" appears when "pyproject.toml" is split across line breaks in CLI help output; "sur" is macOS 11 Big Sur and Homebrew's big_sur bottle tag (not "sure").
+default.extend-words = { astroid = "astroid", certifi = "certifi", oject = "oject", sur = "sur" }
 # Skip content between <!-- typos:off --> and <!-- typos:on --> markers.
 default.extend-ignore-re = [ "(?s)<!-- typos:off -->.*?<!-- typos:on -->" ]
+# Check hidden files and directories too, which typos skips by default: the
+# `.github/` workflows and the `.claude/` agents and skills live there.
+files.ignore-hidden = false
+# Hidden files bring in paths typos must never rewrite. `.git` holds the
+# repository internals. `sync-gitignore` regenerates `.gitignore`, which also
+# carries globs like `[Ii]nclude` that typos reads as a typo it cannot fix.
+# `.mailmap` lists contributor names, where a fix renames a person.
+files.extend-exclude = [ ".git", ".gitignore", ".mailmap" ]
 # Skip the content of SVG files. A terminal capture renders each run of
 # same-styled characters as one <text> element, so a word cut at a run boundary
 # leaves a fragment the checker reads as a misspelling. Correcting it in place
