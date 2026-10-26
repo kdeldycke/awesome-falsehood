@@ -32,7 +32,7 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 Your pull-request should pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
-No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-falsehood/tree/main/.github/workflows).
+It runs in the repository's [GitHub Actions workflows](https://github.com/kdeldycke/awesome-falsehood/tree/main/.github/workflows).
 
 You can still anticipate issues by running the linter locally with:
 
@@ -102,6 +102,8 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Quotes should be properly delimited with the `“` and `”` curved quotation marks.
 
+- A quote from the maintainer of the list needs no source. Sign it with `— me` and the date of the quote, after the closing quotation mark: `“Text of the quote.” — me, 2020-02-05`. Link the date to a public record of the quote when one exists.
+
 - You can reduce the original text by using an ellipsis in parenthesis `(…)`.
 
 - For quoting inside a quote, use single or double `'` and `"` ASCII marks. Keep them properly balanced.
@@ -114,7 +116,7 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
   - You can skip some items from the original list and renumber it.
 
-  - You shouldn't have to re-order it though.
+  - Keep the original order of the items.
 
 - An additional link in the description is allowed. This must be limited to some rare cases. Like pointing to a bigger concept, an acronym definition, or reference material (book, biography, …).
 
@@ -297,7 +299,7 @@ Some reasons for rejection, which often overlaps, includes:
 
 If your contribution has been declined, there is a way to bypass the curation rules. [Purchase a sponsorship](https://github.com/sponsors/kdeldycke) 🤗 and you get:
 
-- your product, logo and link at the top of this repository, like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386);
+- your product, logo and link at the top of this repository, like Descope did for a year on the [awesome IAM list](https://github.com/kdeldycke/awesome-iam);
 - a dedicated entry placed at the top of the section that matches your product, so readers and LLMs ingesting the list itself (not just the header banner) discover your link;
 - a waiver on the [💸 licensing marker](#licensing-markers): your entry appears without the commercial-vendor tag.
 
