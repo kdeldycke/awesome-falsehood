@@ -112,6 +112,7 @@
 - [ISO-8601, `YYYY`, `yyyy`, 为什么你的年份是错的](https://web.archive.org/web/20200216181551/https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式化很难.
 - [UTC对于每个人来说都够了，对吗?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 你可能没有想到关于日期和时间（特别是 UTC）的一些边缘情况.
 - [存储 UTC 不是灵丹妙药](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - "只存 UTC" 并不总是对的.
+- [商店的一天不是服务器的一天](https://easinvy.com/notes/daily-sales-report-wrong-day) - 对于印度的商店，UTC 日从 05:30 开始，所以午夜到 05:29 之间的每张账单都被算到了前一天.
 - [如何在 UT1、TAI 和 UTC 之间进行选择](https://news.ycombinator.com/item?id=28047376) - 这取决于你对 SI 秒、地球自转同步和避免闰秒的优先级.
 - [为什么 1927年的这两个时间想减得到了奇怪的结果?](https://web.archive.org/web/20241124114705/https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r/6841479#answer-6841479) - 臭名昭著的 Stack Overflow 答案，涉及复杂的历史时区，以及如何通过新版本的软件重新解释历史日期.
 - [至关重要的日期](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 Unix 纪元的 32 位秒溢出，列出了一些特殊日期，需根据系统进行关注.
