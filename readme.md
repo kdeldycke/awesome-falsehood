@@ -223,6 +223,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Falsehoods about Women In Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women in STEM (Science, Technology, Engineering, Math) industries.
 
 ## Software Engineering
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS music player companion handling diverse media metadata across sources.
 
 - [Falsehoods about Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 - [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
