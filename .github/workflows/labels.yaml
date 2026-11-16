@@ -19,4 +19,4 @@ name: 🏷️ Labels
 jobs:
 
   labels:
-    uses: kdeldycke/repomatic/.github/workflows/labels.yaml@35cc8a45d65954faebaf8b4bb9960b525d446554 # v7.16.2
+    uses: kdeldycke/repomatic/.github/workflows/labels.yaml@a86e2f8a11ac500c56951e04d2b4bde002bff8f1 # v8.1.0
