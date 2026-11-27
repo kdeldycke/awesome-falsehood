@@ -205,6 +205,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [UK Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/) - Quirks extracted from a list of most residential property sales in England and Wales since 1995.
 - [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 - [Why doesn't Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - Costa Rican uses an idiosyncratic system of addresses that relies on landmarks, history and quite a bit of guesswork.
+- [Extraordinary Address Formats](https://exampleaddress.com/examples/) - Real-world edge cases of non-standard postal addresses worldwide (landmark-based systems, unusual scripts, and format exceptions).
 - [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - Why regular expressions and street addresses do not mix.
 - [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html) - “I saw many horrors, but I've never seen this particular formatting choice anywhere else.”
 - [USPS Postal Addressing Standards](https://pe.usps.com/text/pub28/welcome.htm) - Describes both standardized address formats and content.
